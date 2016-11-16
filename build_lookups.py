@@ -5,11 +5,15 @@ Builds easy two column lookups from all the alternative names
 from useful_inkleby.files import QuickGrid
 
 
+
+
 def build_messy_lookup(source,dest,ref_col):
     """
     given source and destination, will pull together all alt names to give a nice easy lookup
     """
     la = QuickGrid().open(source)
+    od = QuickGrid().open("local_authority_data_names.csv")
+    
     lookup = QuickGrid()
     lookup.header = ["la name",ref_col]
 
@@ -19,14 +23,14 @@ def build_messy_lookup(source,dest,ref_col):
         for p in possible:
             if r[p]:
                 lookup.add([r[p],r[ref_col]])
-              
+    
+    for r in od:
+        lookup.add([r["name"],r["local-authority"].split(":")[1]])
+    
     lookup.save(dest)
     
     
 if __name__ == "__main__":
-    build_messy_lookup("england_local_authorities.csv",
-                       "english_local_authority_messy_lookup.csv",
-                       "local-authority-eng") 
-    build_messy_lookup("s_ni_w_local_authorities.csv",
-                       "s_ni_w_local_authority_messy_lookup.csv",
-                       "gss-code")             
+    build_messy_lookup("uk_local_authorities.csv",
+                       "uk_local_authority_messy_lookup.csv",
+                       "local-authority-code") 
