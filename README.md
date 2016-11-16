@@ -20,5 +20,7 @@ Useful fields:
 * os - Ordnance Survey code
 * old-ons-la-code - old ONS code for local authorities. 
 * ofcom - variant on snac authority code used in coding survey responses (for instance in OFCOM's [Connected Nations report](https://www.ofcom.org.uk/research-and-data/infrastructure-research/connected-nations-2015))
+* ecode - used in [revenue and accounting documents](https://www.gov.uk/government/collections/local-authority-revenue-expenditure-and-financing)
+
 
 Additional maps can be found [here](https://github.com/openregister/local-authority-data/tree/master/maps)
