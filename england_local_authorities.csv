@@ -1,355 +1,355 @@
-entry-number,entry-timestamp,item-hash,local-authority-eng,local-authority-type,local-authority-type-name,official-name,alt-name-1,alt-name-2,alt-name-3,start-date,gss-code,old-ons-la-code,ualad99
-356,2016-11-01T14:16:54Z,sha-256:0a7aa05f73f326b9b39b0cfc56dc81fe65c89500fae187e57c40e1a23b98c3e6,GLA,SRA,Strategic Regional Authority,Greater London Authority,Greater London,,,22-06-05,E12000007,H,00-London
-355,2016-10-31T12:59:03Z,sha-256:bd44ad24086b31a5d8bf6c2a0a66c2018af6a69d7d9dcda68c0e23be974bffc5,LND,CC,City corporation,City of London Corporation,City of London,,,28-06-05,E09000001,201,
-354,2016-10-21T16:11:20Z,sha-256:f3ca6a2079d74458ea5580ce3a214a46fed27a4fdfda8249083ef33190a9d3ef,WOT,NMD,Non-metropolitan district,Worthing Borough Council,Worthing,,,25-06-05,E07000229,45UH,
-353,2016-10-21T16:11:20Z,sha-256:cf335994f3f1d8edbd3d073a785b9e155f6641e954f7aeec2699b68c2e46c760,MSS,NMD,Non-metropolitan district,Mid Sussex District Council,Mid Sussex,,,01-04-74,E07000228,45UG,
-352,2016-10-21T16:11:20Z,sha-256:b1eb5994074932064b8f4af062fbcb6919d4cee1bbda86e0058152d516ecc05d,HOR,NMD,Non-metropolitan district,Horsham District Council,Horsham,,,01-04-74,E07000227,45UF,
-351,2016-10-21T16:11:20Z,sha-256:e6319fbee3358007e746bc1abe5cf05e976872d693fc06ea96ac57113bc82978,CRW,NMD,Non-metropolitan district,Crawley Borough Council,Crawley,,,01-04-74,E07000226,45UE,
-350,2016-10-21T16:11:20Z,sha-256:5c8e1cb88c57769c61eb43a8d93cd21be05028d42509ca8a3588bf556e2e69e7,CHI,NMD,Non-metropolitan district,Chichester District Council,Chichester,,,01-04-74,E07000225,45UD,
-349,2016-10-21T16:11:20Z,sha-256:41322d455ccb8f19b0220f1fd0d231698b82162961c649920ad8b497149a039d,ARU,NMD,Non-metropolitan district,Arun District Council,Arun,,,,E07000224,45UC,
-348,2016-10-21T16:11:20Z,sha-256:e12026ce69abe71ea0fdde46d2b8916be218678ad227a8324075117565bec7ea,ADU,NMD,Non-metropolitan district,Adur District Council,Adur,,,,E07000223,45UB,
-347,2016-10-21T16:11:20Z,sha-256:0fdaa6059b483a11f9d4d5f2929a65a64bef39fb806c212118c680d968986c5c,WSX,CTY,County,West Sussex County Council,West Sussex,,,,E10000032,938,45-00
-346,2016-10-21T16:11:20Z,sha-256:0ae4443fcb4f35e8ec4aabe09fe0ad21bc44342979d22a11e3503bf68b15c404,WYE,NMD,Non-metropolitan district,Wyre Forest District Council,Wyre Forest,,,,E07000239,47UG,
-345,2016-10-21T16:11:20Z,sha-256:98dfc01067abd5ef237b98d225b44a13d2acb5015334c006aec50f9792e554c7,WYC,NMD,Non-metropolitan district,Wychavon District Council,Wychavon,,,,E07000238,47UF,
-344,2016-10-21T16:11:20Z,sha-256:7451e0c604ab05b894317cce07e8764585e629cb32574c74cbb7240996934341,WOC,NMD,Non-metropolitan district,Worcester City Council,Worcester,,,,E07000237,47UE,
-343,2016-10-21T16:11:20Z,sha-256:f3e09da134e2f5a8fb060fd450008a2438fbe766a42143c65e8a689a5185f2a9,RED,NMD,Non-metropolitan district,Redditch Borough Council,Redditch,,,,E07000236,47UD,
-342,2016-10-21T16:11:20Z,sha-256:c59712aed6aa9d4140490204d4466acfa46c7a49db26493963898a0067935d71,MAV,NMD,Non-metropolitan district,Malvern Hills District Council,Malvern Hills,,,,E07000235,47UC,
-341,2016-10-21T16:11:20Z,sha-256:8e32943d1b88ac0db29207ced5dcd2798d9b21a947105d600a7229008facd528,BRM,NMD,Non-metropolitan district,Bromsgrove District Council,Bromsgrove,,,,E07000234,47UB,
-340,2016-10-21T16:11:20Z,sha-256:91521873ba6cea827432bacbdc6f91bc5403654b2cfe902dce6c9559ef131524,WOR,CTY,County,Worcestershire County Council,Worcestershire,,,,E10000034,885,47-00
-339,2016-10-21T16:11:20Z,sha-256:d7474a288bab78324c3242763ec6d346c62032c8e3b8536605bbf317830d8324,WAW,NMD,Non-metropolitan district,Warwick District Council,Warwick,,,,E07000222,44UF,
-338,2016-10-21T16:11:20Z,sha-256:91e4936688120631021d869806771d6d13581a01d391cee9f41592a7c7e3bf84,STR,NMD,Non-metropolitan district,Stratford-on-Avon District Council,Stratford-on-Avon,,,,E07000221,44UE,
-337,2016-10-21T16:11:20Z,sha-256:a361dc394ca4800735a3f397fe427aab0260bffc34aeb5009221f67b08082529,RUG,NMD,Non-metropolitan district,Rugby Borough Council,Rugby,,,,E07000220,44UD,
-336,2016-10-21T16:11:20Z,sha-256:06bb6a85312ffc778cb3bf0fd8a154bbda87f41067df1318cde56f99615dfa6e,NUN,NMD,Non-metropolitan district,Nuneaton and Bedworth Borough Council,Nuneaton and Bedworth,Nuneaton & Bedworth,,,E07000219,44UC,
-335,2016-10-21T16:11:20Z,sha-256:77bb0fb1a49488263065de0ee79bd2c47868f055b1d516f8d5bb72d192e68363,NWA,NMD,Non-metropolitan district,North Warwickshire Borough Council,North Warwickshire,,,,E07000218,44UB,
-334,2016-10-21T16:11:20Z,sha-256:9c4fbebee1030717a580d67c8424c6fa8164c8ec6ede2636faeb997bed826e22,WAR,CTY,County,Warwickshire County Council,Warwickshire,,,,E10000031,937,44-00
-333,2016-10-21T16:11:20Z,sha-256:61841ede5a84468503e87e94d21ef4d6fb63900252a1237d462255a614795c03,TAW,NMD,Non-metropolitan district,Tamworth Borough Council,Tamworth,,,,E07000199,41UK,
-332,2016-10-21T16:11:20Z,sha-256:9e03d140b4ab513dc73f8dc58203929965d0fb9674a1e794c1c579045daba4b2,STF,NMD,Non-metropolitan district,Staffordshire Moorlands District Council,Staffordshire Moorlands,,,,E07000198,41UH,
-331,2016-10-21T16:11:20Z,sha-256:0e6d3a5790abf0248d74e9e6cdacc422dea9f871f65587e62e6d3dca6964a344,STA,NMD,Non-metropolitan district,Stafford Borough Council,Stafford,,,,E07000197,41UG,
-330,2016-10-21T16:11:20Z,sha-256:197ab4e2192620c20faaa28361def2b754bf10db430809931e653f8d9d23c8ab,SST,NMD,Non-metropolitan district,South Staffordshire Council,South Staffordshire,,,,E07000196,41UF,
-329,2016-10-21T16:11:20Z,sha-256:0902806a03e50ea304f024d821906a0b73ee92b701d38ce8fd95eeb5be4194ec,NEC,NMD,Non-metropolitan district,Newcastle-under-Lyme Borough Council,Newcastle-under-Lyme,,,,E07000195,41UE,
-328,2016-10-21T16:11:20Z,sha-256:add80a267b6c91a8d9204687228cf218269bb73c4a1429b9ef9f0fe803170193,LIF,NMD,Non-metropolitan district,Lichfield District Council,Lichfield,,,,E07000194,41UD,
-327,2016-10-21T16:11:20Z,sha-256:51b3fee88700b8cf64e4d07b94a423feef3a896108a69809b21e9f3d43f8c28d,EST,NMD,Non-metropolitan district,East Staffordshire Borough Council,East Staffordshire,,,,E07000193,41UC,
-326,2016-10-21T16:11:20Z,sha-256:e3f008a5b28ca2aefd80766ab307fabe24f3c112c49de79a8435fa4cc2202a7f,CAN,NMD,Non-metropolitan district,Cannock Chase District Council,Cannock Chase,,,,E07000192,41UB,
-325,2016-10-21T16:11:20Z,sha-256:88111bbed7a330bc7a624352bd2c59ce0e29bd056eea901a8328312ba54d4e0f,STS,CTY,County,Staffordshire County Council,Staffordshire,,,,E10000028,860,41-00
-324,2016-10-21T16:11:20Z,sha-256:54abf291a420a2e1a0f1a035ffcef7a013912cc954a6978099826cecfd9190c0,WOI,NMD,Non-metropolitan district,Woking Borough Council,Woking,,,,E07000217,43UM,
-323,2016-10-21T16:11:20Z,sha-256:1dedbc5cf4d86132f214da139e07989fd04de7a9e208f8c37f4dbb83df2ed44b,WAE,NMD,Non-metropolitan district,Waverley Borough Council,Waverley,,,,E07000216,43UL,
-322,2016-10-21T16:11:20Z,sha-256:6a67419eaf640d4afbab68704b8b3fc6febf266cd57b842871d38a57d45df116,TAN,NMD,Non-metropolitan district,Tandridge District Council,Tandridge,,,,E07000215,43UK,
-321,2016-10-21T16:11:20Z,sha-256:fe23a999e415da3b42c85e06878aa47b154c07fd2a3d5d5c880f77bcf846abbf,SUR,NMD,Non-metropolitan district,Surrey Heath Borough Council,Surrey Heath,,,,E07000214,43UJ,
-320,2016-10-21T16:11:20Z,sha-256:3911c377e78ada6bda31652756dd77691efa7fd55220f8f52d7d9b611a7fd6c9,SPE,NMD,Non-metropolitan district,Spelthorne Borough Council,Spelthorne,,,,E07000213,43UH,
-319,2016-10-21T16:11:20Z,sha-256:affd53cd4f5faf536e4fd4c2a3bc9635d0a07f8c707bec530e0aa341604c080c,RUN,NMD,Non-metropolitan district,Runnymede Borough Council,Runnymede,,,,E07000212,43UG,
-318,2016-10-21T16:11:20Z,sha-256:7e7100f1dca9f14f1c18ca3f8a6e81fbf07ffc1a9947426970cd7ac3dcadcb8a,REI,NMD,Non-metropolitan district,Reigate and Banstead Borough Council,Reigate and Banstead,Reigate & Banstead,,,E07000211,43UF,
-317,2016-10-21T16:11:20Z,sha-256:1ad4d4c1658a47db62d79b6cf2d00192b42e3cc4b5d0dec7debffb2d87944f18,MOL,NMD,Non-metropolitan district,Mole Valley District Council,Mole Valley,,,,E07000210,43UE,
-316,2016-10-21T16:11:20Z,sha-256:439022aeed11b0a0f8e2bd3b6fe8ae23174ab4e3dd4f36cc151c71c1b902cb7b,GRT,NMD,Non-metropolitan district,Guildford Borough Council,Guildford,,,,E07000209,43UD,
-315,2016-10-21T16:11:20Z,sha-256:71e13a9e45cede8601dff4794170958a944ca0ea7250ec60f2ffc35be3b98afe,EPS,NMD,Non-metropolitan district,Epsom and Ewell Borough Council,Epsom and Ewell,Epsom & Ewell,,,E07000208,43UC,
-314,2016-10-21T16:11:20Z,sha-256:8f09d358cd8cb3f903e6d688416624348174dd970b97513255bc79f09af903c3,ELM,NMD,Non-metropolitan district,Elmbridge Borough Council,Elmbridge,,,,E07000207,43UB,
-313,2016-10-21T16:11:20Z,sha-256:31ff6149635d2e8f912a70dd0d05be196a7b7fc3a2f1b506e6f28d2d82d2fe78,SRY,CTY,County,Surrey County Council,Surrey,,,,E10000030,936,43-00
-312,2016-10-21T16:11:20Z,sha-256:ff48849f092a76efe9f23f5a32052f43b9a761756643695292f0cafe8e17bbe4,WSO,NMD,Non-metropolitan district,West Somerset District Council,West Somerset,,,,E07000191,40UF,
-311,2016-10-21T16:11:20Z,sha-256:a26cbf150a776c20ac4a39e1d0d2ac54d575ffa9474633a0db9cec139860ad9c,TAU,NMD,Non-metropolitan district,Taunton Deane Borough Council,Taunton Deane,,,,E07000190,40UE,
-310,2016-10-21T16:11:20Z,sha-256:4b8a1f0ea5bbc339db9dc7aea664e57cde92a54568a8b5c936045af83bfe22c4,SSO,NMD,Non-metropolitan district,South Somerset District Council,South Somerset,,,,E07000189,40UD,
-309,2016-10-21T16:11:20Z,sha-256:3733e3f887f0333738414e82814d109cb8b772530e6ccf71c7d5be1bf2443447,SEG,NMD,Non-metropolitan district,Sedgemoor District Council,Sedgemoor,,,,E07000188,40UC,
-308,2016-10-21T16:11:20Z,sha-256:66c102c040a6767e8efbaf565e70779b94b944322d97f37486806d7eb58a44b2,MEN,NMD,Non-metropolitan district,Mendip District Council,Mendip,,,,E07000187,40UB,
-307,2016-10-21T16:11:20Z,sha-256:450bac0fcec7e0548ac6373751a972813768c03f98f56072afbfbafece2ad143,SOM,CTY,County,Somerset County Council,Somerset,,,,E10000027,933,40-00
-306,2016-10-21T16:11:20Z,sha-256:972b0c27f3b439c661ceee412d392dc59c31eca02bad0e4ffb255b41faee27be,WAV,NMD,Non-metropolitan district,Waveney District Council,Waveney,,,,E07000206,42UH,
-305,2016-10-21T16:11:20Z,sha-256:24ecd0d42775efcc5b68799435ade560f444efb9320240a04c050c6e3d8e8488,SUF,NMD,Non-metropolitan district,Suffolk Coastal District Council,Suffolk Coastal,,,,E07000205,42UG,
-304,2016-10-21T16:11:20Z,sha-256:f5e2b2b972c3366727e9531d9e25e9004ca32242b793c11e11e31ff2ed39499d,SED,NMD,Non-metropolitan district,St Edmundsbury Borough Council,St Edmundsbury,,,,E07000204,42UF,
-303,2016-10-21T16:11:20Z,sha-256:676744695abe83a837f2cf7c24a0bf2276ee26b1a454ec357ef1a5e378890f37,MSU,NMD,Non-metropolitan district,Mid Suffolk District Council,Mid Suffolk,,,,E07000203,42UE,
-302,2016-10-21T16:11:20Z,sha-256:7fd191500031ad9487ef291b70eea820e3c4acfc834c7041c9da7d38d97b78e5,IPS,NMD,Non-metropolitan district,Ipswich Borough Council,Ipswich,,,,E07000202,42UD,
-301,2016-10-21T16:11:20Z,sha-256:23a514c97b302c0361c88ccf8cf29d62c8cfd991693ad5daeca9dcdd884d3be6,FOR,NMD,Non-metropolitan district,Forest Heath District Council,Forest Heath,,,,E07000201,42UC,
-300,2016-10-21T16:11:20Z,sha-256:849a6bf177268ff0d868ca8f573cbaab289d8077b1bef8790b15ac4acd324e0b,BAB,NMD,Non-metropolitan district,Babergh District Council,Babergh,,,,E07000200,42UB,
-299,2016-10-21T16:11:20Z,sha-256:8740daf00ddaef9e44f9c69872d9be60bb55255a7030a70f7ba846182a0ef9f7,SFK,CTY,County,Suffolk County Council,Suffolk,,,,E10000029,935,42-00
-298,2016-10-21T16:11:20Z,sha-256:73c46e29af5fcd9fc7d66a8589f8d6c7a0029f728f3904ed7ea6fe885ce9524f,WOX,NMD,Non-metropolitan district,West Oxfordshire District Council,West Oxfordshire,,,,E07000181,38UF,
-297,2016-10-21T16:11:20Z,sha-256:3e0e72c298be479881fdaa4cedfba40dd66ca5ac3ac87cd5bfe2407d4a1e452f,VAL,NMD,Non-metropolitan district,Vale of White Horse District Council,Vale of White Horse,,,,E07000180,38UE,
-296,2016-10-21T16:11:20Z,sha-256:cb8d525b35d12654b989f7c856e4e99040ba0555158a9e153d976d9a7b9739e6,SOX,NMD,Non-metropolitan district,South Oxfordshire District Council,South Oxfordshire,,,,E07000179,38UD,
-295,2016-10-21T16:11:20Z,sha-256:2c2cb9f3ce2d07b8a3129f7ec08d481d90da436d672ed9b9be0281a7f0d2fcc8,OXO,NMD,Non-metropolitan district,Oxford City Council,Oxford,,,,E07000178,38UC,
-294,2016-10-21T16:11:20Z,sha-256:bad4126a9902d89798cad54934c2a912ca60e7ed25b8411261b835723e255bc7,CHR,NMD,Non-metropolitan district,Cherwell District Council,Cherwell,,,,E07000177,38UB,
-293,2016-10-21T16:11:20Z,sha-256:f85b1144fc0f5b1cb99fa8111427dc227b825c113dc413564284ed412b8a0e20,OXF,CTY,County,Oxfordshire County Council,Oxfordshire,,,,E10000025,931,38-00
-292,2016-10-21T16:11:20Z,sha-256:547f5d8da121288ad85264a761e59ad46ccaf1ffaeefa96f12befdb3316f6eb3,SEL,NMD,Non-metropolitan district,Selby District Council,Selby,,,,E07000169,36UH,
-291,2016-10-21T16:11:20Z,sha-256:0902864539f037bb0de3deef1adbc194687fad8557e28a09402409947e5b75ae,SCE,NMD,Non-metropolitan district,Scarborough Borough Council,Scarborough,,,,E07000168,36UG,
-290,2016-10-21T16:11:20Z,sha-256:f57b180a5ddd88a90ca8bd39c68a1a133911b8220b1fb660e62390c79dc6915c,RYE,NMD,Non-metropolitan district,Ryedale District Council,Ryedale,,,,E07000167,36UF,
-289,2016-10-21T16:11:20Z,sha-256:715c3139a7861551600b6d4c343cf02e29e56f8bfa5fca90d964f658324cf5fd,RIH,NMD,Non-metropolitan district,Richmondshire District Council,Richmondshire,,,,E07000166,36UE,
-288,2016-10-21T16:11:20Z,sha-256:8231463eab0e669814e3e502b6e0c9364e8cd41bb1b4535676437ff3a1ade6f9,HAG,NMD,Non-metropolitan district,Harrogate Borough Council,Harrogate,,,,E07000165,36UD,
-287,2016-10-21T16:11:20Z,sha-256:d303790e30989e6cb17c680790a5c094af8ead116eb556c901478ded34f0388a,HAE,NMD,Non-metropolitan district,Hambleton District Council,Hambleton,,,,E07000164,36UC,
-286,2016-10-21T16:11:20Z,sha-256:68475562be527fd2ac9843087820352020ae072b6dca0c59226e9e7db70034eb,CRA,NMD,Non-metropolitan district,Craven District Council,Craven,,,,E07000163,36UB,
-285,2016-10-21T16:11:20Z,sha-256:c92ab328200b90a1fc17a885bce27519d68891b931a604a03ffa033fdb1d1ad0,NYK,CTY,County,North Yorkshire County Council,North Yorkshire,,,,E10000023,815,36-00
-284,2016-10-21T16:11:20Z,sha-256:246990e401cebf01cce5e737904bd47bace126f0c16b831cb03b8055c64f3ff3,RUS,NMD,Non-metropolitan district,Rushcliffe Borough Council,Rushcliffe,,,,E07000176,37UJ,
-283,2016-10-21T16:11:20Z,sha-256:a2375862f98c8d0c85365ba481fb7e5e1eddc182a0225365ce137f5107d03a1b,NEA,NMD,Non-metropolitan district,Newark and Sherwood District Council,Newark and Sherwood,Newark & Sherwood,,,E07000175,37UG,
-282,2016-10-21T16:11:20Z,sha-256:6a48b1042ba07ee11f50bc0e372eba736b6834f6befb126e00464d9f99b44081,MAS,NMD,Non-metropolitan district,Mansfield District Council,Mansfield,,,,E07000174,37UF,
-281,2016-10-21T16:11:20Z,sha-256:bac372a0b7584b32fc71fb84bca069d85cdb4f2394e773275c98060921c4e86b,GED,NMD,Non-metropolitan district,Gedling Borough Council,Gedling,,,,E07000173,37UE,
-280,2016-10-21T16:11:20Z,sha-256:65b94878f18c2511961abeab8e640c1f316d1f23a41fda809cf2fafb4b5d4d4c,BRT,NMD,Non-metropolitan district,Broxtowe Borough Council,Broxtowe,,,,E07000172,37UD,
-279,2016-10-21T16:11:20Z,sha-256:6886b2cc4fd9ca176e3edc46506a4924ce438da51b556c5cc7acbe73e6a772c7,BAE,NMD,Non-metropolitan district,Bassetlaw District Council,Bassetlaw,,,,E07000171,37UC,
-278,2016-10-21T16:11:20Z,sha-256:c3558e0bde0f72ff0a992c9ecfd365c4481dc2449593d52a71c7a3646fc084da,ASH,NMD,Non-metropolitan district,Ashfield District Council,Ashfield,,,,E07000170,37UB,
-277,2016-10-21T16:11:20Z,sha-256:c25b1b4e7dae7e11da488c5d10773cdc978ba4dd75a277ca6d0c9acd3427951d,NTT,CTY,County,Nottinghamshire County Council,Nottinghamshire,,,,E10000024,891,37-00
-276,2016-10-21T16:11:20Z,sha-256:e855a4a8dbb9fab746cebaa34baf165821e2c2bfc455761cfa4058471dd5fba7,WEL,NMD,Non-metropolitan district,Wellingborough Borough Council,Wellingborough,,,,E07000156,34UH,
-275,2016-10-21T16:11:20Z,sha-256:436221e1b6373ab68138ed90b5d20120917d1e62c218cbbca26d2e8512908461,SNR,NMD,Non-metropolitan district,South Northamptonshire Council,South Northamptonshire,,,,E07000155,34UG,
-274,2016-10-21T16:11:20Z,sha-256:2c750f428c1cb2584b6606f538780ea3150ad17f54c36716a9acc17cba009aee,NOR,NMD,Non-metropolitan district,Northampton Borough Council,Northampton,,,,E07000154,34UF,
-273,2016-10-21T16:11:20Z,sha-256:d6aaea21de88a89f5863b70b111bddfb557db51d04ebeeaeda3da8b1b49bcfbc,KET,NMD,Non-metropolitan district,Kettering Borough Council,Kettering,,,,E07000153,34UE,
-272,2016-10-21T16:11:20Z,sha-256:250d76b44e52193354156e396308dd3999272a6a380679109ffc07a1beba491a,ENO,NMD,Non-metropolitan district,East Northamptonshire Council,East Northamptonshire,,,,E07000152,34UD,
-271,2016-10-21T16:11:20Z,sha-256:eca39e319f8bcbdc56fa1b4f0928bdf01ded3c46a34167c1bb74434692f352c6,DAV,NMD,Non-metropolitan district,Daventry District Council,Daventry,,,,E07000151,34UC,
-270,2016-10-21T16:11:20Z,sha-256:b4afba78fdac740119cbc3625146e9ab9686d9c96e491b2ffeedaef13d1630fb,COR,NMD,Non-metropolitan district,Corby Borough Council,Corby,,,,E07000150,34UB,
-269,2016-10-21T16:11:20Z,sha-256:3dd0676f10ab535ed46df5ee7f779afc83f60ca9787598f8fd108ad17a4110e1,NTH,CTY,County,Northamptonshire County Council,Northamptonshire,,,,E10000021,928,34-00
-268,2016-10-21T16:11:20Z,sha-256:bff0d470ad06df1abc4fb95fc57dcefa8dbf573fe2db507606a8261c158ce972,SNO,NMD,Non-metropolitan district,South Norfolk District Council,South Norfolk,,,,E07000149,33UH,
-267,2016-10-21T16:11:20Z,sha-256:4c75058e7c85da1bd93192056278a2c9f7fd6ba485ad9e8ee7269e1682b8228b,NOW,NMD,Non-metropolitan district,Norwich City Council,Norwich,,,,E07000148,33UG,
-266,2016-10-21T16:11:20Z,sha-256:8ba6ac57dc1b979202ee6383d143d98efa49a0823b22ed3cfc98bd295ba84033,NNO,NMD,Non-metropolitan district,North Norfolk District Council,North Norfolk,,,,E07000147,33UF,
-265,2016-10-21T16:11:20Z,sha-256:5a8571fc6e78f8688c66b72ea45f921a7cd1562b9a9b5b9dab8f49f842d1e391,KIN,NMD,Non-metropolitan district,Borough Council of Kings Lynn and West Norfolk,Kings Lynn and West Norfolk,King's Lynn & West Norfolk,Kings Lynn & West Norfolk,,E07000146,33UE,
-264,2016-10-21T16:11:20Z,sha-256:897c55b9c7cd3e0680eb8ea07b2904cbbbe7b5879c9da955958b60b847d3fb0b,GRY,NMD,Non-metropolitan district,Great Yarmouth Borough Council,Great Yarmouth,,,,E07000145,33UD,
-263,2016-10-21T16:11:20Z,sha-256:84f94b2d1ab5800d6fa441bc2e821e820e1b8527fba4ad1c30fdb45efc9c3905,BRO,NMD,Non-metropolitan district,Broadland District Council,Broadland,,,,E07000144,33UC,
-262,2016-10-21T16:11:20Z,sha-256:cc1123e6d473a0ad511131ec0092763e8fb752370718a0f498da8a3f168b2d71,BRE,NMD,Non-metropolitan district,Breckland District Council,Breckland,,,,E07000143,33UB,
-261,2016-10-21T16:11:20Z,sha-256:4b951adcc3980ee9d6c223e608f786a7f3b273fec361c30fcc24d8f507283320,NFK,CTY,County,Norfolk County Council,Norfolk,,,,E10000020,926,33-00
-260,2016-10-21T16:11:20Z,sha-256:b8994c931eafbbbd6047c5c06fd539b4a3e226cab68f59d262c191ae1e4335e7,WLI,NMD,Non-metropolitan district,West Lindsey District Council,West Lindsey,,,,E07000142,32UH,
-259,2016-10-21T16:11:20Z,sha-256:b7de78227010c86e0fc3d44d6236e480a34e5c8866e6984e3916451a3a27a1b8,SKE,NMD,Non-metropolitan district,South Kesteven District Council,South Kesteven,,,,E07000141,32UG,
-258,2016-10-21T16:11:20Z,sha-256:6e4f862a2c30758814a2a04b7f1763ed832115cdb813ab740308373157adb941,SHO,NMD,Non-metropolitan district,South Holland District Council,South Holland,,,,E07000140,32UF,
-257,2016-10-21T16:11:20Z,sha-256:2daf8794d8fa76c1cc89222c10de74a7e744a90deda9d83f420c559c229a261a,NKE,NMD,Non-metropolitan district,North Kesteven District Council,North Kesteven,,,,E07000139,32UE,
-256,2016-10-21T16:11:20Z,sha-256:a8616a15df4b7c89f800deb54bc0cfbc77a7630d02dca009eafa4170d78d2606,LIC,NMD,Non-metropolitan district,City of Lincoln Council,City of Lincoln,Lincoln,,,E07000138,32UD,
-255,2016-10-21T16:11:20Z,sha-256:fdd784d6acbfe507757625250fcc68d96041f10a62c0e54dc4d95fcddc505983,ELI,NMD,Non-metropolitan district,East Lindsey District Council,East Lindsey,,,,E07000137,32UC,
-254,2016-10-21T16:11:20Z,sha-256:78289af4c8e5b621424198078612bf2f86b2970ab166bae7820d2709b767b0ca,BOT,NMD,Non-metropolitan district,Boston Borough Council,Boston,,,,E07000136,32UB,
-253,2016-10-21T16:11:20Z,sha-256:ef568dd14a6657999b299c1bba4a1c107ccfe369d4000ac968b8f92972342c3e,LIN,CTY,County,Lincolnshire County Council,Lincolnshire,,,,E10000019,925,32-00
-252,2016-10-21T16:11:20Z,sha-256:d8038afa9e4d404ab899c7124b4cdea32d722021dddacef7b146b22f3e18b1ea,OAD,NMD,Non-metropolitan district,Oadby and Wigston Borough Council,Oadby and Wigston,Oadby & Wigston,,,E07000135,31UJ,
-251,2016-10-21T16:11:20Z,sha-256:b1a625551e841bf87c4b1460df86abfb458c415adcd83cf3aa344e2718316914,NWL,NMD,Non-metropolitan district,North West Leicestershire District Council,North West Leicestershire,,,,E07000134,31UH,
-250,2016-10-21T16:11:20Z,sha-256:0db30de468337daef14fc046f559eec978b8477de6569fa382e816bc3f756aeb,MEL,NMD,Non-metropolitan district,Melton Borough Council,Melton,,,,E07000133,31UG,
-249,2016-10-21T16:11:20Z,sha-256:542265da35afcf9d8effb48d075dd9a47708c5018dfeaac0303290b2594c2339,HIN,NMD,Non-metropolitan district,Hinckley and Bosworth Borough Council,Hinckley and Bosworth,Hinckley & Bosworth,,,E07000132,31UE,
-248,2016-10-21T16:11:20Z,sha-256:84a78c6e951f5bb065bd8fff54a782d9c48f8b7a66af8fdd40bc67e739cf3c41,HAO,NMD,Non-metropolitan district,Harborough District Council,Harborough,,,,E07000131,31UD,
-247,2016-10-21T16:11:20Z,sha-256:b71a733bc4f528a907731080cb130e2e5f61f2446e535aee7bc77b1536e58997,CHA,NMD,Non-metropolitan district,Charnwood Borough Council,Charnwood,,,,E07000130,31UC,
-246,2016-10-21T16:11:20Z,sha-256:08825cd49a106487efa298a7089e783cbac6848063fc2a936edbe504fc20c109,BLA,NMD,Non-metropolitan district,Blaby District Council,Blaby,,,,E07000129,31UB,
-245,2016-10-21T16:11:20Z,sha-256:391af90dcb207cc600b41be0d7e80ad7bb16d616d9ea761ccdb79388dd3a9d93,LEC,CTY,County,Leicestershire County Council,Leicestershire,,,,E10000018,855,31-00
-244,2016-10-21T16:11:20Z,sha-256:89e2d489e9a745912aaf94b67c27a5a920ab3feabc40a22056c88821baaa54f5,WYR,NMD,Non-metropolitan district,Wyre Borough Council,Wyre,,,,E07000128,30UQ,
-243,2016-10-21T16:11:20Z,sha-256:7560d0e8856d1ba7f778a26e1c95b7fe8770ce8a32f4d00ced7fe7f8174b029c,WLA,NMD,Non-metropolitan district,West Lancashire Borough Council,West Lancashire,,,,E07000127,30UP,
-242,2016-10-21T16:11:20Z,sha-256:c732821cb4da7ddbd2d3c26e609ffa8dba280ab985712d38ea6710c47881598c,SRI,NMD,Non-metropolitan district,South Ribble Borough Council,South Ribble,,,,E07000126,30UN,
-241,2016-10-21T16:11:20Z,sha-256:84c9094ae8130651bbfbe0d749340d3b1a227efae89bb55cece3ac124009b26f,ROS,NMD,Non-metropolitan district,Rossendale Borough Council,Rossendale,,,,E07000125,30UM,
-240,2016-10-21T16:11:20Z,sha-256:541a31aa8125b88fde314d818c8bc23889ba5a8bf98c45ed88ce69ecaab6e964,RIB,NMD,Non-metropolitan district,Ribble Valley Borough Council,Ribble Valley,,,,E07000124,30UL,
-239,2016-10-21T16:11:20Z,sha-256:13553b6d2d841c9c61ddeba92923a76313cf9bc526d0969e7eccda82ed10032e,PRE,NMD,Non-metropolitan district,Preston City Council,Preston,,,,E07000123,30UK,
-238,2016-10-21T16:11:20Z,sha-256:800ecf02af65c7a0836922ceb1996fa7191a856c0333a5c789123cbb0f55c41c,PEN,NMD,Non-metropolitan district,Pendle Borough Council,Pendle,,,,E07000122,30UJ,
-237,2016-10-21T16:11:20Z,sha-256:9f55c1f4fa21dfcc4c29f256160f9bf10a41e59e6e6f9d790d9072f273a5f143,LAC,NMD,Non-metropolitan district,Lancaster City Council,Lancaster,,,,E07000121,30UH,
-236,2016-10-21T16:11:20Z,sha-256:55b5d7b2e44ff2708dbe3fae939ca95e3d735ed261c29ea1a18991bd3464a848,HYN,NMD,Non-metropolitan district,Hyndburn Borough Council,Hyndburn,,,,E07000120,30UG,
-235,2016-10-21T16:11:20Z,sha-256:3f4b89dc49ad28e4d7c8bdd1fee9a7c0c22846af2980a0e385e92abb8fb9ad6e,FYL,NMD,Non-metropolitan district,Fylde Borough Council,Fylde,,,,E07000119,30UF,
-234,2016-10-21T16:11:20Z,sha-256:f5965a8254ecff51725a4c488cbb2d35ab53b9b0e027f0120b16511f2f0c0e4e,CHO,NMD,Non-metropolitan district,Chorley Borough Council,Chorley,,,,E07000118,30UE,
-233,2016-10-21T16:11:20Z,sha-256:3ac6c87412c1720916e8ee510fa59e9024e39fb9ca53fcc05dc6c58aae8da576,BUN,NMD,Non-metropolitan district,Burnley Borough Council,Burnley,,,,E07000117,30UD,
-232,2016-10-21T16:11:20Z,sha-256:6630aa62d959767355bbb452fcef81952f074238d915573aedc6a377ea193226,LAN,CTY,County,Lancashire County Council,Lancashire,,,,E10000017,888,30-00
-231,2016-10-21T16:11:20Z,sha-256:387b33d844e4ddda5690460098b43a01816e49de41beb322777c9f6f0f798d3c,TUN,NMD,Non-metropolitan district,Tunbridge Wells Borough Council,Tunbridge Wells,,,,E07000116,29UQ,
-230,2016-10-21T16:11:20Z,sha-256:e1bf9ced2a1fbdec0d798fefbdecadf67d7388ca879fa48e894a4af9683a98f2,TON,NMD,Non-metropolitan district,Tonbridge and Malling Borough Council,Tonbridge and Malling,Tonbridge & Malling,,,E07000115,29UP,
-229,2016-10-21T16:11:20Z,sha-256:ef7bbbcf74ca277016481f2026331661641fce0213327d308ebc4b468882209c,THA,NMD,Non-metropolitan district,Thanet District Council,Thanet,,,,E07000114,29UN,
-228,2016-10-21T16:11:20Z,sha-256:67433e9df81b9ae3d5a189b1413e06daf352ff4f624085f16a56cd6dd0ff5d53,SWL,NMD,Non-metropolitan district,Swale Borough Council,Swale,,,,E07000113,29UM,
-227,2016-10-21T16:11:20Z,sha-256:c5f449eeb4abbc985f808a219435514c2e8cd8855a0d9c722e0987292deba7c6,SHE,NMD,Non-metropolitan district,Shepway District Council,Shepway,,,,E07000112,29UL,
-226,2016-10-21T16:11:20Z,sha-256:8fa3de90a6493c0c1b7605a46b80c09eb4962ec28934adcda996e65358daf946,SEV,NMD,Non-metropolitan district,Sevenoaks District Council,Sevenoaks,,,,E07000111,29UK,
-225,2016-10-21T16:11:20Z,sha-256:7be97e6b15f718735d8492a206970edfd81888295698bf2df232e86b75afd5db,MAI,NMD,Non-metropolitan district,Maidstone Borough Council,Maidstone,,,,E07000110,29UH,
-224,2016-10-21T16:11:20Z,sha-256:0e4f0077aa88a8220c1e713175da233ec587a54ea4b1d750aa3854a47fa2fd23,GRA,NMD,Non-metropolitan district,Gravesham Borough Council,Gravesham,,,,E07000109,29UG,
-223,2016-10-21T16:11:20Z,sha-256:03efff524694a50544fbcc9bbc1c0d3d15f744748ea1a71f1cb08a4eed7a6652,DOV,NMD,Non-metropolitan district,Dover District Council,Dover,,,,E07000108,29UE,
-222,2016-10-21T16:11:20Z,sha-256:4731ebae54c14e11fb6c179b5597ff0541da6c7a6e2cb9e85283682d3be4c484,DAR,NMD,Non-metropolitan district,Dartford Borough Council,Dartford,,,,E07000107,29UD,
-221,2016-10-21T16:11:20Z,sha-256:313c5c881cf33f2c108aac33af0bb6e62e3ec485099bc8e1e53e2e19caa7e1f8,CAT,NMD,Non-metropolitan district,Canterbury City Council,Canterbury,,,,E07000106,29UC,
-220,2016-10-21T16:11:20Z,sha-256:4cef57e0907533b0662344554a01e68fefe767cd154a44a0ada275872e3130a0,ASF,NMD,Non-metropolitan district,Ashford Borough Council,Ashford,,,,E07000105,29UB,
-219,2016-10-21T16:11:20Z,sha-256:d251d0d2520f795d0b1a2ed64e22514db003dcb29d40bb7773abaa916d13ac93,KEN,CTY,County,Kent County Council,Kent,,,,E10000016,886,29-00
-218,2016-10-21T16:11:20Z,sha-256:0ce8b51a3e41301ec50c2aa03e3cfd683fcf05af0dec33c0810196e3933aefbe,WEW,NMD,Non-metropolitan district,Welwyn Hatfield Borough Council,Welwyn Hatfield,,,,E07000241,26UL,
-217,2016-10-21T16:11:20Z,sha-256:c6a65149d303bc14cbf9dd9dd2333921b189f4ba3fe873e403ea6e306dc333a1,WAT,NMD,Non-metropolitan district,Watford Borough Council,Watford,,,,E07000103,26UK,
-216,2016-10-21T16:11:20Z,sha-256:ebe636d9ff29a30aa8cec64efbe95c8c713de476003344ad760fba8a776903da,THE,NMD,Non-metropolitan district,Three Rivers District Council,Three Rivers,,,,E07000102,26UJ,
-215,2016-10-21T16:11:20Z,sha-256:047bce630811829e59b8ccf75110a2917f9d7db7f400a3878f6cf3a5f95d5c74,STV,NMD,Non-metropolitan district,Stevenage Borough Council,Stevenage,,,,E07000243,26UH,
-214,2016-10-21T16:11:20Z,sha-256:8c0c098bb355cfad964daa243b7726ffd51210d3408a6b678aa4b426ed92e3c0,SAL,NMD,Non-metropolitan district,St Albans City and District Council,St Albans,,,,E07000240,26UG,
-213,2016-10-21T16:11:20Z,sha-256:4cb2fb777e1b13fe865853fcafd4b42056c8861dc7642dcd63a5edd60b34dcbc,NHE,NMD,Non-metropolitan district,North Hertfordshire District Council,North Hertfordshire,,,,E07000099,26UF,
-212,2016-10-21T16:11:20Z,sha-256:66d7da2b19269ce9db8623990a9338ef432dfec8064d2276f549fc4f164b2d59,HER,NMD,Non-metropolitan district,Hertsmere Borough Council,Hertsmere,,,,E07000098,26UE,
-211,2016-10-21T16:11:20Z,sha-256:1b2b84cbc1549e5d2e7d343c41cf9b6c9953caeea3ae4328606d34e53c516c50,EHE,NMD,Non-metropolitan district,East Hertfordshire District Council,East Hertfordshire,,,,E07000242,26UD,
-210,2016-10-21T16:11:20Z,sha-256:dad59a9ac65ff05b916dfaa2dfcb3df13efca512ed922e5a7c22cab10eab18ef,DAC,NMD,Non-metropolitan district,Dacorum Borough Council,Dacorum,,,,E07000096,26UC,
-209,2016-10-21T16:11:20Z,sha-256:c28490cfe7215651edbebef3d70ec44395b15d845bcae8b9daeacdd4de371d16,BRX,NMD,Non-metropolitan district,Broxbourne Borough Council,Broxbourne,,,,E07000095,26UB,
-208,2016-10-21T16:11:20Z,sha-256:5879eb6f0296134230772a2e2771d7b1da1d209fdeb0fd5636608a52c27d6dd8,HRT,CTY,County,Hertfordshire County Council,Hertfordshire,,,,E10000015,919,26-00
-207,2016-10-21T16:11:20Z,sha-256:a79f287f675d94714a7192ae2cae3ca4e6b6cf173fa805ab90fd1c27366f5b6a,WIN,NMD,Non-metropolitan district,Winchester City Council,Winchester,,,,E07000094,24UP,
-206,2016-10-21T16:11:20Z,sha-256:3b9ab03ad554f5299cab480636c832f416a66cb0647454ac1903cd96caca194e,TES,NMD,Non-metropolitan district,Test Valley Borough Council,Test Valley,,,,E07000093,24UN,
-205,2016-10-21T16:11:20Z,sha-256:d98e02e3085459e700cf7d7a48b0ba2d663d326e553150eaeb10697358be56f6,RUH,NMD,Non-metropolitan district,Rushmoor Borough Council,Rushmoor,,,,E07000092,24UL,
-204,2016-10-21T16:11:20Z,sha-256:53187fa5562b658b68da23fcd64bd595688ead21da3ba443531ed21164be775e,NEW,NMD,Non-metropolitan district,New Forest District Council,New Forest,,,,E07000091,24UJ,
-203,2016-10-21T16:11:20Z,sha-256:dd69766584c29f28a08452812fca35280efff4bd1d502c3d1a30c6ffd7a6e129,HAA,NMD,Non-metropolitan district,Havant Borough Council,Havant,,,,E07000090,24UH,
-202,2016-10-21T16:11:20Z,sha-256:bf00f2c2ec4a6f6eed985ee84c300af7fcfb957f28e46a0d2f11598e906b8371,HAT,NMD,Non-metropolitan district,Hart District Council,Hart,,,,E07000089,24UG,
-201,2016-10-21T16:11:20Z,sha-256:bf435a403ccdb6b1fb364acce77572ea53a45f89748dccbe55fba6d7aa1fd7e0,GOS,NMD,Non-metropolitan district,Gosport Borough Council,Gosport,,,,E07000088,24UF,
-200,2016-10-21T16:11:20Z,sha-256:8ec94ced50eec60ecf59abb5566036e8425d74627a78bad4d434c9b8272b8100,FAR,NMD,Non-metropolitan district,Fareham Borough Council,Fareham,,,,E07000087,24UE,
-199,2016-10-21T16:11:20Z,sha-256:d136afdd1f070e9f1afb73422881a615d0913cf535c5610522afafdc49d27755,EAT,NMD,Non-metropolitan district,Eastleigh Borough Council,Eastleigh,,,,E07000086,24UD,
-198,2016-10-21T16:11:20Z,sha-256:8ba6ae8fc7ea0ca10cfc30b0688ff2d3fc65934cc7176ee77f9984746afb65bf,EHA,NMD,Non-metropolitan district,East Hampshire District Council,East Hampshire,,,,E07000085,24UC,
-197,2016-10-21T16:11:20Z,sha-256:f92ed1bfb5e2ca211258c076a19e283815ab29173481696c17a69731fedc38b6,BAN,NMD,Non-metropolitan district,Basingstoke and Deane Borough Council,Basingstoke and Deane,Basingstoke & Deane,,,E07000084,24UB,
-196,2016-10-21T16:11:20Z,sha-256:7678d1c3392e8a820078f4450ae97c284a755fcfa28d935fcf1a2427c07f86f9,HAM,CTY,County,Hampshire County Council,Hampshire,,,,E10000014,850,24-00
-195,2016-10-21T16:11:20Z,sha-256:a743a009dc2acc069dd4baf7a3c33b9f783c220e5dabf96ee337d13babc71a2e,TEW,NMD,Non-metropolitan district,Tewkesbury Borough Council,Tewkesbury,,,,E07000083,23UG,
-194,2016-10-21T16:11:20Z,sha-256:5335da9411f9caa81cd0a9d95716db83bb31e6e6f89f7b73da4370e9a4def768,STO,NMD,Non-metropolitan district,Stroud District Council,Stroud,,,,E07000082,23UF,
-193,2016-10-21T16:11:20Z,sha-256:62fd3bcdd173f5d90669845e8aeb89aa55a4ef49f1dd4409851925ca47cc1525,GLO,NMD,Non-metropolitan district,Gloucester City Council,Gloucester,,,,E07000081,23UE,
-192,2016-10-21T16:11:20Z,sha-256:1c0b6f76794823441e14b3201c3aebda1c0ce0fbe5ca379601e68506f483b8a3,FOE,NMD,Non-metropolitan district,Forest of Dean District Council,Forest of Dean,,,,E07000080,23UD,
-191,2016-10-21T16:11:20Z,sha-256:97dfd7eb1e81ea3db7d44d1b337c8360f85082ed705d7b22aed9df54ed9b5fe6,COT,NMD,Non-metropolitan district,Cotswold District Council,Cotswold,,,,E07000079,23UC,
-190,2016-10-21T16:11:20Z,sha-256:7cf47c2d319f69df410b3fdbd8a2d6f8bca4565be8b669f27c502a345127892b,CHT,NMD,Non-metropolitan district,Cheltenham Borough Council,Cheltenham,,,,E07000078,23UB,
-189,2016-10-21T16:11:20Z,sha-256:a436dfed9c56a859a32b4cae2af7dace6e2c9a28619d6e02948de9cf8888534b,GLS,CTY,County,Gloucestershire County Council,Gloucestershire,,,,E10000013,916,23-00
-188,2016-10-21T16:11:20Z,sha-256:5588088b1fdbf4f1d39113e1e719426289ad6fbd3d99ab934bb4210936e48f13,WSM,LBO,London borough,City of Westminster,Westminster,,,,E09000033,213,
-187,2016-10-21T16:11:20Z,sha-256:865771901e203a53acbc9c375bc48f1677214399be2c8758796e73c7f6d7b72c,WND,LBO,London borough,London Borough of Wandsworth,Wandsworth,,,,E09000032,212,
-186,2016-10-21T16:11:20Z,sha-256:7c0adac917610916b7dcf6e08ae49d57a379367e32ebfd067e05de8eae38b5b9,WFT,LBO,London borough,London Borough of Waltham Forest,Waltham Forest,,,,E09000031,320,
-185,2016-10-21T16:11:20Z,sha-256:44797637d5ac367f14c0e9909ed0b460b670668e02ef2f874cb1b3549f7bbca2,TWH,LBO,London borough,London Borough of Tower Hamlets,Tower Hamlets,,,,E09000030,211,
-184,2016-10-21T16:11:20Z,sha-256:111f813b21cdfb6a9684c0f9695a392a00d884dbf1df294c2d872df7da7a0306,SWK,LBO,London borough,London Borough of Southwark,Southwark,,,,E09000028,210,
-183,2016-10-21T16:11:20Z,sha-256:6f6dae49162916a13613efe377a895e9a5d11bf4d149c72ee160eab38fe22ea4,STN,LBO,London borough,London Borough of Sutton,Sutton,,,,E09000029,319,
-182,2016-10-21T16:11:20Z,sha-256:9aa12feca801aabcfae7f571294441f1393e328caecbcbe1d3554f40f49b554e,RIC,LBO,London borough,London Borough of Richmond upon Thames,Richmond upon Thames,,,,E09000027,318,
-181,2016-10-21T16:11:20Z,sha-256:ca2167bd9c571b1468162e29cb01b04e94beeeaf27f0254d19c6beff04a71262,RDB,LBO,London borough,London Borough of Redbridge,Redbridge,,,,E09000026,317,
-180,2016-10-21T16:11:20Z,sha-256:509651ed81dddeb63bd0a7bf05940a87961d7f5e382e5d4ee5932502332450b3,NWM,LBO,London borough,London Borough of Newham,Newham,,,,E09000025,316,
-179,2016-10-21T16:11:20Z,sha-256:9cc7ce4b750b2c683e120e02cfe57128559d9ea0cc6e0081753532e687c193f2,MRT,LBO,London borough,London Borough of Merton,Merton,,,,E09000024,315,
-178,2016-10-21T16:11:20Z,sha-256:f4e22515c634f40bdd666fdb9f9c2a1b48c4ef4978e5fbb865d49cba4d41caf3,LEW,LBO,London borough,London Borough of Lewisham,Lewisham,,,,E09000023,209,
-177,2016-10-21T16:11:20Z,sha-256:085f5b6a229da9120eedfbb36b2bfd7f9d1320bccff2de7547d335f308c4c9b1,LBH,LBO,London borough,London Borough of Lambeth,Lambeth,,,,E09000022,208,
-176,2016-10-21T16:11:20Z,sha-256:dd0bc65546114781589031ac4b76b799654303cf49e74272fbaff4e0d75a1fec,KTT,LBO,London borough,Royal Borough of Kingston upon Thames,Kingston upon Thames,,,,E09000021,314,
-175,2016-10-21T16:11:20Z,sha-256:9f48597d6fc6d0e8c4cf13e038b5fcd04366836bacdf85ba0c164e61eaa7cfbb,KEC,LBO,London borough,Royal Borough of Kensington and Chelsea,Kensington and Chelsea,Kensington & Chelsea,,,E09000020,207,
-174,2016-10-21T16:11:20Z,sha-256:93de5c696c09756b886b8d7ab9d0e6aad75519e1a241222b217b23d5fa3c7258,ISL,LBO,London borough,London Borough of Islington,Islington,,,,E09000019,206,
-173,2016-10-21T16:11:20Z,sha-256:961337b878e424bc50093de7be5a4ff523bb06ce7f172b77bfeaf3bc12cd0ce5,HRY,LBO,London borough,London Borough of Haringey,Haringey,,,,E09000014,309,
-172,2016-10-21T16:11:20Z,sha-256:b5b5377e75cf74318e90acb3a3240d5f47293fa471b728200de466a94674814a,HRW,LBO,London borough,London Borough of Harrow,Harrow,,,,E09000015,310,
-171,2016-10-21T16:11:20Z,sha-256:7de2db13db53b5f27d554a3b6acd97b71bf77cc6b026accab46ebb20a80282bc,HNS,LBO,London borough,London Borough of Hounslow,Hounslow,,,,E09000018,313,
-170,2016-10-21T16:11:20Z,sha-256:cdec164712c24465aa3b57d8f9b7a3c6fbf8a1d4acbf036be4d600eae3bf092a,HMF,LBO,London borough,London Borough of Hammersmith & Fulham,Hammersmith and Fulham,Hammersmith & Fulham,,,E09000013,205,
-169,2016-10-21T16:11:20Z,sha-256:b23ca00a4324155ef29a0bc78f6b8b0b20a0dcac495889ab8e9fa41bb2cd6642,HIL,LBO,London borough,London Borough of Hillingdon,Hillingdon,,,,E09000017,312,
-168,2016-10-21T16:11:20Z,sha-256:46a5788b5297ff0237b6aa0ba1ab74b6c819c4e39f74013ef2ea8536c4905c89,HCK,LBO,London borough,London Borough of Hackney,Hackney,,,,E09000012,204,
-167,2016-10-21T16:11:20Z,sha-256:7c41debdfcbe5ec8056304810cdc39cfe7954a792b580051c897aa3331c4a35e,HAV,LBO,London borough,London Borough of Havering,Havering,,,,E09000016,311,
-166,2016-10-21T16:11:20Z,sha-256:8caf9ad39352d130816def6ed030042426ed1854ca0df22e514be052e71295ab,GRE,LBO,London borough,Royal Borough of Greenwich,Greenwich,,,,E09000011,203,
-165,2016-10-21T16:11:20Z,sha-256:bfc0567b1e037ea9f7ce1de715045617355862244da6779c816833ce4c45b6ea,ENF,LBO,London borough,London Borough of Enfield,Enfield,,,,E09000010,308,
-164,2016-10-21T16:11:20Z,sha-256:30e6bd04cdf71ad66415f3af15d654da285273171ea7e833fe1cc6b144805454,EAL,LBO,London borough,London Borough of Ealing,Ealing,,,,E09000009,307,
-163,2016-10-21T16:11:20Z,sha-256:6fa82bfcc8741dad91f3f0803f69f8d200d2d77a708fcaba94b8191523482e72,CRY,LBO,London borough,London Borough of Croydon,Croydon,,,,E09000008,306,
-162,2016-10-21T16:11:20Z,sha-256:dbb4b19ac0a172d83043341475d1cc394764fe512533d36bc1d5041ce8221320,CMD,LBO,London borough,London Borough of Camden,Camden,,,,E09000007,202,
-161,2016-10-21T16:11:20Z,sha-256:568df72388690bf202ba28b1e46b53217435e58c83e8952ec4d8fabc7a0cea41,BRY,LBO,London borough,London Borough of Bromley,Bromley,,,,E09000006,305,
-160,2016-10-21T16:11:20Z,sha-256:7a88886ea0e18977e66babad292a691b999f5d354fbc7875699debc21f8f8ce2,BNE,LBO,London borough,London Borough of Barnet,Barnet,,,,E09000003,302,
-159,2016-10-21T16:11:20Z,sha-256:221538ee1f7386e521c0f8ea284c1f8bc45e7dbd68a5eb4f0575faf2177adf6f,BEX,LBO,London borough,London Borough of Bexley,Bexley,,,,E09000004,303,
-158,2016-10-21T16:11:20Z,sha-256:734bf39fdf1cb2edb11a501a5baf1148515355fa4db771f7b045991e36a2c8e2,BEN,LBO,London borough,London Borough of Brent,Brent,,,,E09000005,304,
-157,2016-10-21T16:11:20Z,sha-256:4bdf5ef0f1f7e5650dac60090b5eac8a3bd826fa6cbd8bd12a9c01c61e8573e1,BDG,LBO,London borough,London Borough of Barking and Dagenham,Barking and Dagenham,Barking & Dagenham,,,E09000002,301,
-156,2016-10-21T16:11:20Z,sha-256:07063b6a6a8dc85fd303f42e5f3b67add92c091ef7b91deeb351ed612223a6d2,WEA,NMD,Non-metropolitan district,Wealden District Council,Wealden,,,,E07000065,21UH,
-155,2016-10-21T16:11:20Z,sha-256:5b4d7ec116e12b0bb5fb05f5922b6cfcf77e1dbd0583d096164c75e418966cfb,ROH,NMD,Non-metropolitan district,Rother District Council,Rother,,,,E07000064,21UG,
-154,2016-10-21T16:11:20Z,sha-256:421dcd9986dfd8b3dfd8ec6d00cba78883b5c502745defd5632ee25176f494ab,LEE,NMD,Non-metropolitan district,Lewes District Council,Lewes,,,,E07000063,21UF,
-153,2016-10-21T16:11:20Z,sha-256:809e7c485c28fa9fccd9db30e0bde5e18baad4a4e12314a8b45a90c39809507d,HAS,NMD,Non-metropolitan district,Hastings Borough Council,Hastings,,,,E07000062,21UD,
-152,2016-10-21T16:11:20Z,sha-256:21d72f1f6aba388a1bb44fccd5d5b636b8eba7ab6c8ea36f8ce220bb47caad6e,EAS,NMD,Non-metropolitan district,Eastbourne Borough Council,Eastbourne,,,,E07000061,21UC,
-151,2016-10-21T16:11:20Z,sha-256:8d61d46f7079b623be84d45f9ea4a8ab01a46b6bcea96d182ee18b70a497d422,ESX,CTY,County,East Sussex County Council,East Sussex,,,,E10000011,845,21-00
-150,2016-10-21T16:11:20Z,sha-256:c927744991dda73e98bcabdd113936dedb3f1be410c1607362fe39d0ebebf606,UTT,NMD,Non-metropolitan district,Uttlesford District Council,Uttlesford,,,,E07000077,22UQ,
-149,2016-10-21T16:11:20Z,sha-256:99a014a98612b72013a37921e7538e9330821647bbed2cd5f2249a175ee73e34,TEN,NMD,Non-metropolitan district,Tendring District Council,Tendring,,,,E07000076,22UN,
-148,2016-10-21T16:11:20Z,sha-256:71432ebefa970ffc8da4ce75da077e4d143c32e559f9d24ca5a5a2ff6e14d779,ROC,NMD,Non-metropolitan district,Rochford District Council,Rochford,,,,E07000075,22UL,
-147,2016-10-21T16:11:20Z,sha-256:bdb7e91b5f489741bb2098d7ee009dbadef857d7fff18a2a05e3da1aa2218615,MAL,NMD,Non-metropolitan district,Maldon District Council,Maldon,,,,E07000074,22UK,
-146,2016-10-21T16:11:20Z,sha-256:c02d9c5e1b2dd6f6c05567d02729f98d27bef767844901a1035c9e5e30e7bfd5,HAR,NMD,Non-metropolitan district,Harlow District Council,Harlow,,,,E07000073,22UJ,
-145,2016-10-21T16:11:20Z,sha-256:7b79aec6f4c281895195d4d28f724b455f4d51b67800e6754cb070daa70ffc9d,EPP,NMD,Non-metropolitan district,Epping Forest District Council,Epping Forest,,,,E07000072,22UH,
-144,2016-10-21T16:11:20Z,sha-256:6efecc0efc3867ff2ab4edb3db370d05a4938ed4d107385f6d62afaccb6e2477,COL,NMD,Non-metropolitan district,Colchester Borough Council,Colchester,,,,E07000071,22UG,
-143,2016-10-21T16:11:20Z,sha-256:31cc91af41a45b5ea261b604340ecd6e487492cb77b56f5a289f3da2e841f620,CHL,NMD,Non-metropolitan district,Chelmsford City Council,Chelmsford,,,,E07000070,22UF,
-142,2016-10-21T16:11:20Z,sha-256:05a6279e02cecfe833dbe9776d3e71dbea6c7ec24d5a3432ae39f7fbed781d21,CAS,NMD,Non-metropolitan district,Castle Point Borough Council,Castle Point,,,,E07000069,22UE,
-141,2016-10-21T16:11:20Z,sha-256:651d812714df26b32020a903f00fc464f12b53fa444ea02139fdf6b09503d7f4,BRW,NMD,Non-metropolitan district,Brentwood Borough Council,Brentwood,,,,E07000068,22UD,
-140,2016-10-21T16:11:20Z,sha-256:908449cb4fd7efe764d61d275eef4b5175b95960ad6810911a5cf1473edf1094,BRA,NMD,Non-metropolitan district,Braintree District Council,Braintree,,,,E07000067,22UC,
-139,2016-10-21T16:11:20Z,sha-256:10fa94b30a8da56ab8301e9e256d9190629e7427e9fa2e6286704eeddffa0836,BAI,NMD,Non-metropolitan district,Basildon Borough Council,Basildon,,,,E07000066,22UB,
-138,2016-10-21T16:11:20Z,sha-256:cdae98391d64cf2c2803d12218fcaebdddb811c7f5e353320e525fa6331a7d6d,ESS,CTY,County,Essex County Council,Essex,,,,E10000012,881,22-00
-137,2016-10-21T16:11:20Z,sha-256:d7b3678655b42a2cc631d49b288a08df4be18f16553071ac84233dd76794b451,WEY,NMD,Non-metropolitan district,Weymouth and Portland Borough Council,Weymouth and Portland,Weymouth & Portland,,,E07000053,19UJ,
-136,2016-10-21T16:11:20Z,sha-256:026364ae5a3a871e8ebef14a903a6e82aadef3338d91bbc2932aae38d9695bde,WDO,NMD,Non-metropolitan district,West Dorset District Council,West Dorset,,,,E07000052,19UH,
-135,2016-10-21T16:11:20Z,sha-256:9ad45cda873d2088461f2a4b64a8ffea61966e5b4db5c74afe9ced1060bd0eff,PUR,NMD,Non-metropolitan district,Purbeck District Council,Purbeck,,,,E07000051,19UG,
-134,2016-10-21T16:11:20Z,sha-256:daca6e482bb9e64a539a5777741161ea16abfe204fd88d5ad78ac323d99f5c0e,NDO,NMD,Non-metropolitan district,North Dorset District Council,North Dorset,,,,E07000050,19UE,
-133,2016-10-21T16:11:20Z,sha-256:e6ed87378aa5160601711ff42131f5af3601c6678ef566e462c25fd0768ae7e9,EDO,NMD,Non-metropolitan district,East Dorset District Council,East Dorset,,,,E07000049,19UD,
-132,2016-10-21T16:11:20Z,sha-256:62dabb3dd37e1036dfd02009a4963630efef3ea1e1119f233cd7b888121e893e,CHC,NMD,Non-metropolitan district,Christchurch Borough Council,Christchurch,,,,E07000048,19UC,
-131,2016-10-21T16:11:20Z,sha-256:1a687d174a7014807c071a29ba345ba89a4e5c25a2e36e7f797e59d181f109c9,DOR,CTY,County,Dorset County Council,Dorset,,,,E10000009,835,19-00
-130,2016-10-21T16:11:20Z,sha-256:8eb9d876961a1c03af764598594d3d9e8bdd40e5ea1db9e48d9f887f4ad62b39,WDE,NMD,Non-metropolitan district,West Devon Borough Council,West Devon,,,,E07000047,18UL,
-129,2016-10-21T16:11:20Z,sha-256:122e0f41c290ca726f870faaafd1101af3119f26eca1e1b8f6fef2bf95f7fa8b,TOR,NMD,Non-metropolitan district,Torridge District Council,Torridge,,,,E07000046,18UK,
-128,2016-10-21T16:11:20Z,sha-256:e027e57913b642b54224a1d1ef998dde11867a41c3caf7a40197ecd12ccd2fd0,TEI,NMD,Non-metropolitan district,Teignbridge District Council,Teignbridge,,,,E07000045,18UH,
-127,2016-10-21T16:11:20Z,sha-256:fdf1a5764b1c67798cb56233542ddb92c6ae46daf6c4f9cf9aae648d74b6ccc3,SHA,NMD,Non-metropolitan district,South Hams District Council,South Hams,,,,E07000044,18UG,
-126,2016-10-21T16:11:20Z,sha-256:11891c7ef3a625e19e2fccb2055103bf12601b08732db1e123b1bbd8ec5d03a3,NDE,NMD,Non-metropolitan district,North Devon District Council,North Devon,,,,E07000043,18UE,
-125,2016-10-21T16:11:20Z,sha-256:e828f4cccf342c45a7439f7763fa134f281c993cae703388933e3028e9a72e37,MDE,NMD,Non-metropolitan district,Mid Devon District Council,Mid Devon,,,,E07000042,18UD,
-124,2016-10-21T16:11:20Z,sha-256:612a760ae62609243c7cef3ee5c56065b08d439d599c4bdd1a8e889ee60e69c7,EXE,NMD,Non-metropolitan district,Exeter City Council,Exeter,,,,E07000041,18UC,
-123,2016-10-21T16:11:20Z,sha-256:cfa3f218ea3cac78dce493b79692e9a32d470571feb3bc6697d5c9f096019b9d,EDE,NMD,Non-metropolitan district,East Devon District Council,East Devon,,,,E07000040,18UB,
-122,2016-10-21T16:11:20Z,sha-256:ae8fff7f9a96fd17bdbb7c16f9900621480cfe2fa39875585833fdb96f883d76,DEV,CTY,County,Devon County Council,Devon,,,,E10000008,878,18-00
-121,2016-10-21T16:11:20Z,sha-256:c625d11b3189a0e346c0f75d21c68ea5763cab064c550e16900890103fec81cc,SDE,NMD,Non-metropolitan district,South Derbyshire District Council,South Derbyshire,,,,E07000039,17UK,
-120,2016-10-21T16:11:20Z,sha-256:5ba2ce31aa5c0fdfe2fa77099620142502ac69a2f6683603b018ecefde892903,NED,NMD,Non-metropolitan district,North East Derbyshire District Council,North East Derbyshire,,,,E07000038,17UJ,
-119,2016-10-21T16:11:20Z,sha-256:ab9857e85d1c6f47a7d3da7e7f20c8b78684c62b89eca2a4ef4ec138805fe10f,HIG,NMD,Non-metropolitan district,High Peak Borough Council,High Peak,,,,E07000037,17UH,
-118,2016-10-21T16:11:20Z,sha-256:7d991e23d0ff0cbaa1fb48db6955e239d19617c3c927ae983e7a54a994549050,ERE,NMD,Non-metropolitan district,Erewash Borough Council,Erewash,,,,E07000036,17UG,
-117,2016-10-21T16:11:20Z,sha-256:a484f2927f950bcbe49731768e67fef28dd562c8bf0ba0550ab3ff5277063bd3,DEB,NMD,Non-metropolitan district,Derbyshire Dales District Council,Derbyshire Dales,,,,E07000035,17UF,
-116,2016-10-21T16:11:20Z,sha-256:aca9117d577ab38dc6bd17c83ae4c8bde193c5e36911a6b67219c63c313d5906,CHS,NMD,Non-metropolitan district,Chesterfield Borough Council,Chesterfield,,,,E07000034,17UD,
-115,2016-10-21T16:11:20Z,sha-256:cf71a485dafc30f300db0ed421919e0daaa84c8e19b52ddcc41eb14042c16981,BOS,NMD,Non-metropolitan district,Bolsover District Council,Bolsover,,,,E07000033,17UC,
-114,2016-10-21T16:11:20Z,sha-256:ec26f4130dc628fe5d5ac958987a39888d0dd3b7850043e3a0bc089eac26052d,AMB,NMD,Non-metropolitan district,Amber Valley Borough Council,Amber Valley,,,,E07000032,17UB,
-113,2016-10-21T16:11:20Z,sha-256:d967681a4f8d3e5616d31af279601fde4ee2e604e78eef21999df1492592784b,DBY,CTY,County,Derbyshire County Council,Derbyshire,,,,E10000007,830,17-00
-112,2016-10-21T16:11:20Z,sha-256:b15deb67898679e580f89f7a84680f681439784a172ba60ce60e3581c0d99d02,DER,UA,Unitary authority,Derby City Council,Derby,Derby City UA,Derby UA,,E06000015,831,00-FK
-111,2016-10-21T16:11:20Z,sha-256:5f210932849e82b064464bf16ccd5240c41dd09d8d23f561c783f8cadee638f7,SLA,NMD,Non-metropolitan district,South Lakeland District Council,South Lakeland,,,,E07000031,16UG,
-110,2016-10-21T16:11:20Z,sha-256:4e0e4a2cccd48721847d2bcc8ebffe21c99f25e06944a8ab0c9ac0a8124a8520,EDN,NMD,Non-metropolitan district,Eden District Council,Eden,,,,E07000030,16UF,
-109,2016-10-21T16:11:20Z,sha-256:b70e6433846a7f70042ba492de47717a0c0ca709993fd39f290cdd6744d0b5c8,COP,NMD,Non-metropolitan district,Copeland Borough Council,Copeland,,,,E07000029,16UE,
-108,2016-10-21T16:11:20Z,sha-256:4540069f2d2ba86e91521aa9dc382f8e241521893de1e4f5824de5e01a482fa0,CAR,NMD,Non-metropolitan district,Carlisle City Council,Carlisle,,,,E07000028,16UD,
-107,2016-10-21T16:11:20Z,sha-256:980b813efea6783a79c4eae43efadd71e4548442b37b95de5d35fa3044660ad0,BAR,NMD,Non-metropolitan district,Barrow-in-Furness Borough Council,Barrow-in-Furness,,,,E07000027,16UC,
-106,2016-10-21T16:11:20Z,sha-256:27c545a4c79157b089379895e660c8a812afe08a4668230721661a40f30b3d18,ALL,NMD,Non-metropolitan district,Allerdale Borough Council,Allerdale,,,,E07000026,16UB,
-105,2016-10-21T16:11:20Z,sha-256:503634363cc715e5d7404fc75e02d8a7738b10cc51114ccf1d1c3b357351cb29,CMA,CTY,County,Cumbria County Council,Cumbria,,,,E10000006,909,16-00
-104,2016-10-21T16:11:20Z,sha-256:b52b87344c0cce4dbcf3b5ec64f7384ff7a933e7fd1aec936665fd557cad5db4,SCA,NMD,Non-metropolitan district,South Cambridgeshire District Council,South Cambridgeshire,,,,E07000012,12UG,
-103,2016-10-21T16:11:20Z,sha-256:b22284f83460a1f21ff4bb7e84339aa3b66e0f148c9da4ed85d0c44978aecc81,HUN,NMD,Non-metropolitan district,Huntingdonshire District Council,Huntingdonshire,,,,E07000011,12UE,
-102,2016-10-21T16:11:20Z,sha-256:0dc4ed2e1b01f0f11ad975e4b5e43629210704ff8eaac5f7661f97ee572f2267,FEN,NMD,Non-metropolitan district,Fenland District Council,Fenland,,,,E07000010,12UD,
-101,2016-10-21T16:11:20Z,sha-256:36b63ad5e98092429dbdeeef29ee19f352d0a67b47c71c6e6c43d8d2f1b00c17,ECA,NMD,Non-metropolitan district,East Cambridgeshire District Council,East Cambridgeshire,,,,E07000009,12UC,
-100,2016-10-21T16:11:20Z,sha-256:6a048d58e944ce2430256d04de09fc70a5c0ff08f08569a7fd5cb96dc559d7cb,CAB,NMD,Non-metropolitan district,Cambridge City Council,Cambridge,,,,E07000008,12UB,
-99,2016-10-21T16:11:20Z,sha-256:acda1ba2897a9a3d232a79e8e3a68165c0ae244465480bf8271b0c5b3da6d710,CAM,CTY,County,Cambridgeshire County Council,Cambridgeshire,,,,E10000003,873,12-00
-98,2016-10-21T16:11:20Z,sha-256:d87a75d2333ceaf0e308380ddc0de9fa47eb969413d917f934ee9c9cb31caadd,WYO,NMD,Non-metropolitan district,Wycombe District Council,Wycombe,,,,E07000007,11UF,
-97,2016-10-21T16:11:20Z,sha-256:7a46ac88ba183f798146533df3e8d5dfa2875ce88783f4a4a6f34e818fcffdc9,SBU,NMD,Non-metropolitan district,South Bucks District Council,South Bucks,,,,E07000006,11UE,
-96,2016-10-21T16:11:20Z,sha-256:f85475fa670bb47f0c78b4d8ff656739979a38210e6b8efaa63fb0d202a977f7,CHN,NMD,Non-metropolitan district,Chiltern District Council,Chiltern,,,,E07000005,11UC,
-95,2016-10-21T16:11:20Z,sha-256:3190a7761b4538e2164747b84b891f711f71cbc5aeb96dac32597d772c52da80,AYL,NMD,Non-metropolitan district,Aylesbury Vale District Council,Aylesbury Vale,,,,E07000004,11UB,
-94,2016-10-21T16:11:20Z,sha-256:0cf1ea68fa45e40c1bd49e373266d26b327c405ac1f57a67d2a4c1ee8a92daa5,BKM,CTY,County,Buckinghamshire County Council,Buckinghamshire,,,19-06-05,E10000002,825,11-00
-93,2016-10-21T16:11:20Z,sha-256:8c8464cf67ca5bc4da5fe1ce4017f797f82ff78bdb46b4c7ec1a8d1fe06668f9,YOR,UA,Unitary authority,City of York Council,York,York UA,,18-06-05,E06000014,816,00-FF
-92,2016-10-21T16:11:20Z,sha-256:3042e6836d4f3d51cf6c8023b3d1b8b3cad557cbbef8b809e34ce2e6f638ace1,WRT,UA,Unitary authority,Warrington Borough Council,Warrington,Warrington UA,,20-06-05,E06000007,877,00-EU
-91,2016-10-21T16:11:20Z,sha-256:bd8d05413c7a1c80e504ed3aa566c464a7d44a669acee140bb23126cd691a404,WRL,MD,Metropolitan district,Wirral Borough Council,Wirral,,,01-04-74,E08000015,344,00-CB
-90,2016-10-21T16:11:20Z,sha-256:21d3de9a748a147ee01f508e7e6f27bd689dd47a4e9c3b4d0122c4d17f6bdec4,WOK,UA,Unitary authority,Wokingham Borough Council,Wokingham,Wokingham UA,,20-06-05,E06000041,872,00-MF
-89,2016-10-21T16:11:20Z,sha-256:81a8ac8d9d2f7b4d3f09b6bd75ca18a0a264c7b444711bbdd61189df3d928c12,WNM,UA,Unitary authority,Royal Borough of Windsor and Maidenhead,Windsor and Maidenhead,Windsor & Maidenhead UA,,20-06-05,E06000040,868,00-ME
-88,2016-10-21T16:11:20Z,sha-256:9ff5181b2bf39be43930c23acce22fa01c2960ec675e03a3cbc9d5b2ce2e894f,WLV,MD,Metropolitan district,City of Wolverhampton Council,Wolverhampton,,,01-04-74,E08000031,336,00-CW
-87,2016-10-21T16:11:20Z,sha-256:8c2fcad5c26b843bdcb7323bfde67b58d02b0cbfef21b3006a5c2e73f4098c3d,WLL,MD,Metropolitan district,Walsall Metropolitan Borough Council,Walsall,,,01-04-74,E08000030,335,00-CU
-86,2016-10-21T16:11:20Z,sha-256:419671e32a54b89507322123871f9cc9a52c65f75f5f8c89ceefd0c092ceee3d,WKF,MD,Metropolitan district,Wakefield Metropolitan District Council,Wakefield,,,01-04-74,E08000036,384,00-DB
-85,2016-10-21T16:11:20Z,sha-256:33773993a4c3a155cd9be050901fe6ce60f984217c76bb6e01302760eaeb8914,WIL,UA,Unitary authority,Wiltshire Council,Wiltshire,Wiltshire UA,,01-04-09,E06000054,865,00-HY
-84,2016-10-21T16:11:20Z,sha-256:6c876317e4b58c9fc0eee089a981c7c53289df911b51534ff8649a3c0e1682dd,WGN,MD,Metropolitan district,Wigan Metropolitan Borough Council,Wigan,,,01-04-74,E08000010,359,00-BW
-83,2016-10-21T16:11:20Z,sha-256:043121ce7a29c2e742342b9507546f115aa841f21eba63e44497e8b22715724d,WBK,UA,Unitary authority,West Berkshire Council,West Berkshire,West Berkshire UA,,20-06-05,E06000037,869,00-MB
-82,2016-10-21T16:11:20Z,sha-256:ec791d529ed308fef9a8240947a2d34feb39c53133d6bf0f7fe40e92e72136b5,TRF,MD,Metropolitan district,Trafford Metropolitan Borough Council,Trafford,,,01-04-74,E08000009,358,00-BU
-81,2016-10-21T16:11:20Z,sha-256:a6e4343754aaa670fbc8cfd591aeeef725d023b13bfeecb4e1f369d6eb631604,TOB,UA,Unitary authority,Torbay Council,Torbay,Torbay UA,,20-06-05,E06000027,880,00-HH
-80,2016-10-21T16:11:20Z,sha-256:30249683cf553f51fb1a3ba40fa17eec70c6ac9304695e825e17bb161f967a36,THR,UA,Unitary authority,Thurrock Council,Thurrock,Thurrock UA,,20-06-05,E06000034,883,00-KG
-79,2016-10-21T16:11:20Z,sha-256:3a5a9ba405457b5b07f311d6e7a223e196abca94276c8308d2c525817d1f1383,TFW,UA,Unitary authority,Telford & Wrekin Council,Telford and Wrekin,Telford and the Wrekin UA,Telford & Wrekin UA,20-06-05,E06000020,894,00-GF
-78,2016-10-21T16:11:20Z,sha-256:f8ca656132389cc0eb5ae8f9e3186f548b1a089173b33e0ed8f84b4ef357018a,TAM,MD,Metropolitan district,Tameside Metropolitan Borough Council,Tameside,,,01-04-74,E08000008,357,00-BT
-77,2016-10-21T16:11:20Z,sha-256:f3b486068d9e54a2adc960727f540f98da3d54a079a35aa23a48da3604814611,SWD,UA,Unitary authority,Swindon Borough Council,Swindon,Swindon UA,,20-06-05,E06000030,866,00-HX
-76,2016-10-21T16:11:20Z,sha-256:f851cad5200a01ce28c3cc506d7aae1cba41d6e8e95d49e71e612aee4575d531,STY,MD,Metropolitan district,South Tyneside Council,South Tyneside,,,01-04-74,E08000023,393,00-CL
-75,2016-10-21T16:11:20Z,sha-256:bd937631ab6bbfeeeafa49fac19175f40298128b6d3f11c1b94dfe2dd5840d7f,STT,UA,Unitary authority,Stockton-on-Tees Borough Council,Stockton-on-Tees,Stockton-On-Tees UA,Stockton On Tees UA,18-06-05,E06000004,808,00-EF
-74,2016-10-21T16:11:20Z,sha-256:20b924ba28000b83449361c76d23215e886bc91937383905a36e16bbdfdd6f13,STH,UA,Unitary authority,Southampton City Council,Southampton,Southampton UA,,19-06-05,E06000045,852,00-MS
-73,2016-10-21T16:11:20Z,sha-256:ac5fbf8c8c6bfe793c8b9823b543333ecf6cb6481ede2ae43b3e4705e001b439,STE,UA,Unitary authority,Stoke-on-Trent City Council,Stoke-on-Trent,Stoke-On-Trent UA,,20-06-05,E06000021,861,00-GL
-72,2016-10-21T16:11:20Z,sha-256:486417656b0a27f43ce20a2bfd7da2d2b6889ce3fd06095bb8f2762d0f2e4b71,SOS,UA,Unitary authority,Southend-on-Sea Borough Council,Southend-on-Sea,Southend-on-Sea UA,Southend UA,20-06-05,E06000033,882,00-KF
-71,2016-10-21T16:11:20Z,sha-256:9a9437b0fcf91bf21245458c0001b6c6c21e09e2a87c0784cac34eb81e52caeb,SOL,MD,Metropolitan district,Solihull Metropolitan Borough Council,Solihull,,,27-05-05,E08000029,334,00-CT
-70,2016-10-21T16:11:20Z,sha-256:ca2e0e162b5ba3dc6d2939f2ca9db4f0c3ed39482c8f2e82ace2e572427a8a9b,SND,MD,Metropolitan district,Sunderland City Council,Sunderland,,,27-05-05,E08000024,394,00-CM
-69,2016-10-21T16:11:20Z,sha-256:8e693cba4b503b5bbeea28b66e99aa937698941e7f6840d9b96db0fa8f146bc8,SLG,UA,Unitary authority,Slough Borough Council,Slough,Slough UA,,01-04-98,E06000039,871,00-MD
-68,2016-10-21T16:11:20Z,sha-256:fc9f9d158042b7ec6fed5a41c13635aab258581fc137b42c93fe3b0bba4871b5,SLF,MD,Metropolitan district,Salford City Council,Salford,,,27-05-05,E08000006,355,00-BR
-67,2016-10-21T16:11:20Z,sha-256:22b2d0de1b9b3206a35892b171ad88e9a1baf118eab2f6b38bfa32a62e8f7d18,SKP,MD,Metropolitan district,Stockport Metropolitan Borough Council,Stockport,,,27-05-05,E08000007,356,00-BS
-66,2016-10-21T16:11:20Z,sha-256:eb4a9feeec8023511115a904b68ca9c65b035eb76f57e4f7ed9e6c1b22ddd9b3,SHR,UA,Unitary authority,Shropshire Council,Shropshire,Shropshire UA,,01-04-09,E06000051,893,00-GG
-65,2016-10-21T16:11:20Z,sha-256:88d92f32e0a0c85fcd5c9b8d9edf5255a92b3401aaf1c72d28302ddda4d95d8b,SHN,MD,Metropolitan district,St Helens Council,St. Helens,St Helens,,08-06-05,E08000013,342,00-BZ
-64,2016-10-21T16:11:20Z,sha-256:236b1c3ccca63e8749e1cc31ec56e9fc82670554e7de19cf9ca16f234400fc09,SHF,MD,Metropolitan district,Sheffield City Council,Sheffield,,,08-06-05,E08000019,373,00-CG
-63,2016-10-21T16:11:20Z,sha-256:a74be53b68aed5f363f7170c1c7d122ac7a9a4096d03d06803b16403351b7e2a,SGC,UA,Unitary authority,South Gloucestershire Council,South Gloucestershire,South Gloucestershire UA,,18-06-05,E06000025,803,00-HD
-62,2016-10-21T16:11:20Z,sha-256:ba5d07f3e14cc7158bf54e2c00d14507f021d50230a3cbe3320b65984b1e3a2e,SFT,MD,Metropolitan district,Sefton Metropolitan Borough Council,Sefton,,,08-06-05,E08000014,343,00-CA
-61,2016-10-21T16:11:20Z,sha-256:41e7bf3f81ab00b0677007fcff7cf20e96a8e01af4f609107716ba7bd3f83570,SAW,MD,Metropolitan district,Sandwell Metropolitan Borough Council,Sandwell,,,07-06-05,E08000028,333,00-CS
-60,2016-10-21T16:11:20Z,sha-256:ee39e7e6091ede83f4b4a11e9cdae0ccd95ed059f0072acb1e2cb4406db46e2b,RUT,UA,Unitary authority,Rutland County Council,Rutland,Rutland UA,,01-04-97,E06000017,857,00-FP
-59,2016-10-21T16:11:20Z,sha-256:7ccf88c17b33de7665e23eb42cdc291792b2e4510c5bb7e2d8bafa77401169ff,ROT,MD,Metropolitan district,Rotherham Metropolitan Borough Council,Rotherham,,,27-05-05,E08000018,372,00-CF
-58,2016-10-21T16:11:20Z,sha-256:e7cd34560bf3880d2c100d79675e44184484e350d2f312ddc09aad6dbc3f4868,RDG,UA,Unitary authority,Reading Borough Council,Reading,Reading UA,,27-05-05,E06000038,870,00-MC
-57,2016-10-21T16:11:20Z,sha-256:a95a0d14f64cbb220b196fe20ac9b0079654a69ee18424a8f36de0bb6d934554,RCH,MD,Metropolitan district,Rochdale Metropolitan Borough Council,Rochdale,,,27-05-05,E08000005,354,00-BQ
-56,2016-10-21T16:11:20Z,sha-256:665e59c0c7162992942b224538778c9bed74b2a4050429b6961cae503c0aaa4c,RCC,UA,Unitary authority,Redcar and Cleveland Borough Council,Redcar and Cleveland,Redcar & Cleveland UA,,01-04-96,E06000003,807,00-EE
-55,2016-10-21T16:11:20Z,sha-256:5978a4c9f264d63fe60cd275797e1d0f7f5b21de983e054c7847d2c57cbce5e2,PTE,UA,Unitary authority,Peterborough City Council,Peterborough,Peterborough UA,,20-06-05,E06000031,874,00-JA
-54,2016-10-21T16:11:20Z,sha-256:eda233705a3a2102edb7a0f71171a79cceca38a995b79b8237f77d0311df8735,POR,UA,Unitary authority,Portsmouth City Council,Portsmouth,Portsmouth UA,,20-06-05,E06000044,851,00-MR
-53,2016-10-21T16:11:20Z,sha-256:27c7fd354b3b200c6b2afad78aa86324289e15eb61ea254cee8f6e84cf25b0ca,POL,UA,Unitary authority,Borough of Poole,Poole,Poole UA,,01-04-97,E06000029,836,00-HP
-52,2016-10-21T16:11:20Z,sha-256:25617c34301ca5d0db0f50293a03e774b642aaaef3721121307ad3827b1d049a,PLY,UA,Unitary authority,Plymouth City Council,Plymouth,Plymouth UA,,01-04-98,E06000026,879,00-HG
-51,2016-10-21T16:11:20Z,sha-256:f76541ffed2b84375f6b8ad45f6c5f59e668d70685a59149f1dc07e2ace36735,OLD,MD,Metropolitan district,Oldham Metropolitan Borough Council,Oldham,,,07-06-05,E08000004,353,00-BP
-50,2016-10-21T16:11:20Z,sha-256:54a5cade60f4236a0cac25346d3f8558c6b88075f9c6de0828ff377ad3588232,NTY,MD,Metropolitan district,North Tyneside Council,North Tyneside,,,01-04-74,E08000022,392,00-CK
-49,2016-10-21T16:11:20Z,sha-256:fcf80ebe3b38ce518907826b9ff2ab6da19292e9d4a0148d3c22f603ea3867ff,NSM,UA,Unitary authority,North Somerset  Council,North Somerset,North Somerset UA,,01-04-96,E06000024,802,00-HC
-48,2016-10-21T16:11:20Z,sha-256:6acb535cf8efe0de7ac9ec4d692a1c45c03c6aa7d2fafae09a314343f8862b56,NLN,UA,Unitary authority,North Lincolnshire Council,North Lincolnshire,North Lincolnshire UA,,01-04-96,E06000013,813,00-FD
-47,2016-10-21T16:11:20Z,sha-256:72f2fdda13fa199fc697f10feb42cc6f522d6603383a5dfed3190b2f1f000456,NGM,UA,Unitary authority,Nottingham City Council,Nottingham,City of Nottingham UA,Nottingham UA,20-06-05,E06000018,892,00-FY
-46,2016-10-21T16:11:20Z,sha-256:83d9562078ab22c8b77852b8ef90be19346d63d9a6d3790a21ba7c109a44bf89,NET,MD,Metropolitan district,Newcastle City Council,Newcastle upon Tyne,,,01-04-74,E08000021,391,00-CJ
-45,2016-10-21T16:11:20Z,sha-256:7465151ed7ce282554cee22eb3bf93fc2d5274123be2da1e71c31905904f7811,NEL,UA,Unitary authority,North East Lincolnshire Council,North East Lincolnshire,North East Lincolnshire UA,,01-04-96,E06000012,812,00-FC
-44,2016-10-21T16:11:20Z,sha-256:0ed1f6d3321a473b463a17b46332fe920e853954db856844669303a5aba0361b,NBL,UA,Unitary authority,Northumberland County Council,Northumberland,Northumberland UA,,01-04-09,E06000048,929,
-43,2016-10-21T16:11:20Z,sha-256:59a849651bd58ba9266a007a11c52b2682c4bb98c86bc8dedac063da0c9adede,MIK,UA,Unitary authority,Milton Keynes Council,Milton Keynes,Milton Keynes UA,,19-06-05,E06000042,826,00-MG
-42,2016-10-21T16:11:20Z,sha-256:5a3d51e49737bc0d54297b8985fd6be8eae1d3b7224d57db3f707fe0572529e1,MDW,UA,Unitary authority,Medway Council,Medway,The Medway Towns UA,Medway Towns UA,01-04-98,E06000035,887,00-LC
-41,2016-10-21T16:11:20Z,sha-256:1bdea0a03ff7f51a4be3d130ecc1299afba5886d2ba3e8cd26478a9b88ed3b2e,MDB,UA,Unitary authority,Middlesbrough Borough Council,Middlesbrough,Middlesbrough UA,,18-06-05,E06000002,806,00-EC
-40,2016-10-21T16:11:20Z,sha-256:f3b12bd2a32ee850a2f23b10fdc769c87593aa633f414e6166bc3d0d9df001e2,MAN,MD,Metropolitan district,Manchester City Council,Manchester,,,01-04-74,E08000003,352,00-BN
-39,2016-10-21T16:11:20Z,sha-256:304949d78e0c42591cf9bb547bc7143b869bb29217618633e3a9ba933eb1e1d7,LUT,UA,Unitary authority,Luton Borough Council,Luton,Luton UA,,19-06-05,E06000032,821,00-KA
-37,2016-10-21T16:11:20Z,sha-256:62b21c328d7a6ed136ff99b0815ef3059d2ce0b483d666e6b10af0982ab057b6,LIV,MD,Metropolitan district,Liverpool City Council,Liverpool,,,08-06-05,E08000012,341,00-BY
-36,2016-10-21T16:11:20Z,sha-256:0c8e89a02b4633068ea378212ec627c121661ee6b6e8ed4def6c3dd2f1ee12a8,LDS,MD,Metropolitan district,Leeds City Council,Leeds,,,08-06-05,E08000035,383,00-DA
-35,2016-10-21T16:11:20Z,sha-256:79bed62716654d6a658da50ae1005c0bf505b7dd21ec47621c943aa68d88935c,LCE,UA,Unitary authority,Leicester City Council,Leicester,Leicester City UA,Leicester UA,19-06-05,E06000016,856,00-FN
-34,2016-10-21T16:11:20Z,sha-256:8a4f9e0278a5ad3658f6ed4bb10b9947b571a053cc05cb11403e9a091e60adb8,KWL,MD,Metropolitan district,Knowsley Metropolitan Borough Council,Knowsley,,,01-04-74,E08000011,340,00-BX
-33,2016-10-21T16:11:20Z,sha-256:252203a8a2d293cac579da8cf8114d207b5237fd4be7d079e56aaa97fe318a94,KIR,MD,Metropolitan district,Kirklees Council,Kirklees,,,01-04-74,E08000034,382,00-CZ
-32,2016-10-21T16:11:20Z,sha-256:579b5b0237266f29b3f2fbf601134f42e6ca703849e9942bae8bedf63be18ad6,KHL,UA,Unitary authority,Hull City Council,Kingston upon Hull,"Kingston upon Hull, City of",Kingston Upon Hull UA,01-04-96,E06000010,810,00-FA
-31,2016-10-21T16:11:20Z,sha-256:676704d520d2ca164baa2838c6c0c8768c7e587c7c5872ea7e051c524aeaca38,IOW,UA,Unitary authority,Isle of Wight Council,Isle of Wight,Isle Of Wight UA,,17-06-05,E06000046,921,00-MW
-30,2016-10-21T16:11:20Z,sha-256:d0a3363ca473bb8292d1f8c7b91d57e68e1f83af60d2cdaddf84651ae6d0f15c,IOS,UA,Unitary authority,Council of the Isles of Scilly,Isles of Scilly,,,01-04-74,E06000053,420,00-HF
-29,2016-10-21T16:11:20Z,sha-256:8bcdbac532ccf215a34ffe3b993505883eee0c1f37f5b84ac6da75a7882af7a2,HPL,UA,Unitary authority,Hartlepool Borough Council,Hartlepool,Hartlepool UA,,18-06-05,E06000001,805,00-EB
-28,2016-10-21T16:11:20Z,sha-256:059f083e23c81b90c79417526205390cb8592d6da6e10549d3e509058f23e246,HEF,UA,Unitary authority,Herefordshire Council,Herefordshire,Herefordshire UA,,01-04-98,E06000019,884,00-GA
-27,2016-10-21T16:11:20Z,sha-256:86314a606736a8aa5dd78a181d7bc5bd15b4a610c8764c62fa9c404ab41364c6,HAL,UA,Unitary authority,Halton Borough Council,Halton,Halton UA,,01-04-98,E06000006,876,00-ET
-25,2016-10-21T16:11:20Z,sha-256:c35115d9832ee0e72e0508ebdb03ba75ac6fad5029ed7d46d9868eb7d3a13f9f,GAT,MD,Metropolitan district,Gateshead Metropolitan Borough Council,Gateshead,,,01-04-74,E08000020,390,
-24,2016-10-21T16:11:20Z,sha-256:6430e359b8ac37a602adb329ea93272e97ec9e0cd9af3c9dc9f6fe6cf07c6e1d,ERY,UA,Unitary authority,East Riding of Yorkshire Council,East Riding of Yorkshire,East Riding Of Yorkshire UA,,01-04-96,E06000011,811,00-FB
-23,2016-10-21T16:11:20Z,sha-256:f119a10ffa2c3dee98a3e9e1465993f9db8157aaf5e6749c06a4cde18b6e631a,DUR,UA,Unitary authority,Durham County Council,County Durham,Durham,Durham UA,01-04-09,E06000047,840,00-EJ
-22,2016-10-21T16:11:20Z,sha-256:24c1e4aa498ec58ae72ed8853241b434036e68fbd33d4fb50b882d1d80043b4c,DUD,MD,Metropolitan district,Dudley Metropolitan Borough Council,Dudley,,,01-04-74,E08000027,332,00-CR
-21,2016-10-21T16:11:20Z,sha-256:950191c93f0e9a81ee1bfa7004d2bd340b526a6eba94259aaff7773271a7c38a,DNC,MD,Metropolitan district,Doncaster Metropolitan Borough Council,Doncaster,,,01-04-74,E08000017,371,00-CE
-20,2016-10-21T16:11:20Z,sha-256:c5dff3ea6f76b3b81f4ea1f9600cb2f36edae181f480f85fc17c94d78bcfa22f,DAL,UA,Unitary authority,Darlington Borough Council,Darlington,Darlington UA,,01-04-97,E06000005,841,00-EH
-19,2016-10-21T16:11:20Z,sha-256:494a9dc4359f12f6efa8f2a4f2809e426369b178b9bac683443416443165188f,COV,MD,Metropolitan district,Coventry City Council,Coventry,,,01-04-74,E08000026,331,00-CQ
-18,2016-10-21T16:11:20Z,sha-256:eae8a6feb348660d000a68759403474adac30f8c6cb1c0a7dc8cdeb3e18c3601,CON,UA,Unitary authority,Cornwall Council,Cornwall,Cornwall UA,,01-04-09,E06000052,908,00-HE
-17,2016-10-21T16:11:20Z,sha-256:7cb915e3eb1015cf29e584d8e1f48afdf0057b73e50200811add981ee2cad657,CLD,MD,Metropolitan district,Calderdale Metropolitan Borough Council,Calderdale,,,01-04-74,E08000033,381,00-CY
-16,2016-10-21T16:11:20Z,sha-256:c925caef7a70a5c085ad2d7fad91ef0379416006725d9e389e7c50d8ae70b469,CHW,UA,Unitary authority,Cheshire West and Chester Council,Cheshire West and Chester,Cheshire West And Chester UA,,01-04-09,E06000050,896,00-EW
-15,2016-10-21T16:11:20Z,sha-256:4a959ea12ab0ece0690ac6986125d2cd25e6582172406ddc72107f597f6e593e,CHE,UA,Unitary authority,Cheshire East Council,Cheshire East,Cheshire East UA,,01-04-09,E06000049,895,00-EQ
-14,2016-10-21T16:11:20Z,sha-256:914bd4413a666ad6b4211abba37a6b29277a39ac8edb83f85ac4a45965cc693e,CBF,UA,Unitary authority,Central Bedfordshire Council,Central Bedfordshire,,,01-04-09,E06000056,823,00-KC
-13,2016-10-21T16:11:20Z,sha-256:4214341c68159f1aa0a4a80a9c59416cf9d432dd10c37cc40285250608a8cf33,BUR,MD,Metropolitan district,Bury Metropolitan Borough Council,Bury,,,01-04-74,E08000002,351,00-BM
-12,2016-10-21T16:11:20Z,sha-256:82f18b8f01cd56bbf189018c76a0eb8faebbbdec2c0736e59fc49b4c73bd6070,BST,UA,Unitary authority,Bristol City Council,City of Bristol,"Bristol, City of",Bristol UA,18-06-05,E06000023,801,00-HB
-11,2016-10-21T16:11:20Z,sha-256:c541c0ae36fc776c0b819ddb0b6ee28d9fc15f8c9c9d99de61bb9289815b48d9,BRD,MD,Metropolitan district,City of Bradford Metropolitan District Council,Bradford,,,01-04-74,E08000032,380,00-CX
-10,2016-10-21T16:11:20Z,sha-256:00a2c66ab69086fd9ed8d43a46e04d1577340468bd43e8fb46dcf4d6ae59c439,BRC,UA,Unitary authority,Bracknell Forest Council,Bracknell Forest,Bracknell Forest UA,,01-04-98,E06000036,867,00-MA
-9,2016-10-21T16:11:20Z,sha-256:0cd1103a9b0e4dcd774f6c52a4d541e8a029e78ae609b46eb1d0546df9587a6a,BPL,UA,Unitary authority,Blackpool Borough Council,Blackpool,Blackpool UA,,20-06-05,E06000009,890,00-EY
-8,2016-10-21T16:11:20Z,sha-256:2cfa1b4bd729bde785a1fdb004c6be6a04eda3ed0ac1198401ef144b218545e0,BOL,MD,Metropolitan district,Bolton Metropolitan Borough Council,Bolton,,,01-04-74,E08000001,350,00-BL
-7,2016-10-21T16:11:20Z,sha-256:99d5b1631c6241b31d4c22a867802035763649efa50cc8e4c5c25a71e484d412,BNS,MD,Metropolitan district,Barnsley Metropolitan Borough Council,Barnsley,,,01-04-74,E08000016,370,00-CC
-6,2016-10-21T16:11:20Z,sha-256:792c58bf07b54a3a072c8c8a7e9b0681490e3cc76ee6e95da20434520b66d9c7,BNH,UA,Unitary authority,Brighton and Hove City Council,Brighton and Hove,Brighton & Hove UA,,19-06-05,E06000043,846,00-ML
-5,2016-10-21T16:11:20Z,sha-256:37ca110698ea569fc229e5042830384890ab1095737f1630c9de30692cfcf973,BMH,UA,Unitary authority,Bournemouth Borough Council,Bournemouth,Bournemouth UA,,19-06-05,E06000028,837,00-HN
-4,2016-10-21T16:11:20Z,sha-256:bdc17a29807f47a94cf612abf92fcadd2d83176f9ea419b4eeda23af2cf25ef9,BIR,MD,Metropolitan district,Birmingham City Council,Birmingham,,,01-07-96,E08000025,330,00-CN
-3,2016-10-21T16:11:20Z,sha-256:01cda95d102807943d68f71bbe7b9b290dec2ebdb15967ca66820f825ece5831,BDF,UA,Unitary authority,Bedford Borough Council,Bedford,,,01-04-09,E06000055,822,00-KB
-2,2016-10-21T16:11:20Z,sha-256:37dd060a3efa6d5bf16f876e08fa867210f424e2e4a7989d0322218f6772332d,BBD,UA,Unitary authority,Blackburn with Darwen Borough Council,Blackburn with Darwen,Blackburn With Darwen UA,,01-04-98,E06000008,889,00-EX
-1,2016-10-21T16:11:20Z,sha-256:6c4c815895ea675857ee4ec3fb40571ce54faf5ebcdd5d73a2aae347d4003c31,BAS,UA,Unitary authority,Bath and North East Somerset Council,Bath and North East Somerset,Bath & North East Somerset UA,,01-04-96,E06000022,800,00-HA
+entry-number,entry-timestamp,local-authority-eng,local-authority-type,local-authority-type-name,official-name,alt-name-1,alt-name-2,alt-name-3,start-date,gss-code,old-ons-la-code,ualad99
+356,2016-11-01T14:16:54Z,GLA,SRA,Strategic Regional Authority,Greater London Authority,Greater London,,,22-06-05,E12000007,H,00-London
+355,2016-10-31T12:59:03Z,LND,CC,City corporation,City of London Corporation,City of London,,,28-06-05,E09000001,201,
+354,2016-10-21T16:11:20Z,WOT,NMD,Non-metropolitan district,Worthing Borough Council,Worthing,,,25-06-05,E07000229,45UH,
+353,2016-10-21T16:11:20Z,MSS,NMD,Non-metropolitan district,Mid Sussex District Council,Mid Sussex,,,01-04-74,E07000228,45UG,
+352,2016-10-21T16:11:20Z,HOR,NMD,Non-metropolitan district,Horsham District Council,Horsham,,,01-04-74,E07000227,45UF,
+351,2016-10-21T16:11:20Z,CRW,NMD,Non-metropolitan district,Crawley Borough Council,Crawley,,,01-04-74,E07000226,45UE,
+350,2016-10-21T16:11:20Z,CHI,NMD,Non-metropolitan district,Chichester District Council,Chichester,,,01-04-74,E07000225,45UD,
+349,2016-10-21T16:11:20Z,ARU,NMD,Non-metropolitan district,Arun District Council,Arun,,,,E07000224,45UC,
+348,2016-10-21T16:11:20Z,ADU,NMD,Non-metropolitan district,Adur District Council,Adur,,,,E07000223,45UB,
+347,2016-10-21T16:11:20Z,WSX,CTY,County,West Sussex County Council,West Sussex,,,,E10000032,938,45-00
+346,2016-10-21T16:11:20Z,WYE,NMD,Non-metropolitan district,Wyre Forest District Council,Wyre Forest,,,,E07000239,47UG,
+345,2016-10-21T16:11:20Z,WYC,NMD,Non-metropolitan district,Wychavon District Council,Wychavon,,,,E07000238,47UF,
+344,2016-10-21T16:11:20Z,WOC,NMD,Non-metropolitan district,Worcester City Council,Worcester,,,,E07000237,47UE,
+343,2016-10-21T16:11:20Z,RED,NMD,Non-metropolitan district,Redditch Borough Council,Redditch,,,,E07000236,47UD,
+342,2016-10-21T16:11:20Z,MAV,NMD,Non-metropolitan district,Malvern Hills District Council,Malvern Hills,,,,E07000235,47UC,
+341,2016-10-21T16:11:20Z,BRM,NMD,Non-metropolitan district,Bromsgrove District Council,Bromsgrove,,,,E07000234,47UB,
+340,2016-10-21T16:11:20Z,WOR,CTY,County,Worcestershire County Council,Worcestershire,,,,E10000034,885,47-00
+339,2016-10-21T16:11:20Z,WAW,NMD,Non-metropolitan district,Warwick District Council,Warwick,,,,E07000222,44UF,
+338,2016-10-21T16:11:20Z,STR,NMD,Non-metropolitan district,Stratford-on-Avon District Council,Stratford-on-Avon,,,,E07000221,44UE,
+337,2016-10-21T16:11:20Z,RUG,NMD,Non-metropolitan district,Rugby Borough Council,Rugby,,,,E07000220,44UD,
+336,2016-10-21T16:11:20Z,NUN,NMD,Non-metropolitan district,Nuneaton and Bedworth Borough Council,Nuneaton and Bedworth,Nuneaton & Bedworth,,,E07000219,44UC,
+335,2016-10-21T16:11:20Z,NWA,NMD,Non-metropolitan district,North Warwickshire Borough Council,North Warwickshire,,,,E07000218,44UB,
+334,2016-10-21T16:11:20Z,WAR,CTY,County,Warwickshire County Council,Warwickshire,,,,E10000031,937,44-00
+333,2016-10-21T16:11:20Z,TAW,NMD,Non-metropolitan district,Tamworth Borough Council,Tamworth,,,,E07000199,41UK,
+332,2016-10-21T16:11:20Z,STF,NMD,Non-metropolitan district,Staffordshire Moorlands District Council,Staffordshire Moorlands,,,,E07000198,41UH,
+331,2016-10-21T16:11:20Z,STA,NMD,Non-metropolitan district,Stafford Borough Council,Stafford,,,,E07000197,41UG,
+330,2016-10-21T16:11:20Z,SST,NMD,Non-metropolitan district,South Staffordshire Council,South Staffordshire,,,,E07000196,41UF,
+329,2016-10-21T16:11:20Z,NEC,NMD,Non-metropolitan district,Newcastle-under-Lyme Borough Council,Newcastle-under-Lyme,,,,E07000195,41UE,
+328,2016-10-21T16:11:20Z,LIF,NMD,Non-metropolitan district,Lichfield District Council,Lichfield,,,,E07000194,41UD,
+327,2016-10-21T16:11:20Z,EST,NMD,Non-metropolitan district,East Staffordshire Borough Council,East Staffordshire,,,,E07000193,41UC,
+326,2016-10-21T16:11:20Z,CAN,NMD,Non-metropolitan district,Cannock Chase District Council,Cannock Chase,,,,E07000192,41UB,
+325,2016-10-21T16:11:20Z,STS,CTY,County,Staffordshire County Council,Staffordshire,,,,E10000028,860,41-00
+324,2016-10-21T16:11:20Z,WOI,NMD,Non-metropolitan district,Woking Borough Council,Woking,,,,E07000217,43UM,
+323,2016-10-21T16:11:20Z,WAE,NMD,Non-metropolitan district,Waverley Borough Council,Waverley,,,,E07000216,43UL,
+322,2016-10-21T16:11:20Z,TAN,NMD,Non-metropolitan district,Tandridge District Council,Tandridge,,,,E07000215,43UK,
+321,2016-10-21T16:11:20Z,SUR,NMD,Non-metropolitan district,Surrey Heath Borough Council,Surrey Heath,,,,E07000214,43UJ,
+320,2016-10-21T16:11:20Z,SPE,NMD,Non-metropolitan district,Spelthorne Borough Council,Spelthorne,,,,E07000213,43UH,
+319,2016-10-21T16:11:20Z,RUN,NMD,Non-metropolitan district,Runnymede Borough Council,Runnymede,,,,E07000212,43UG,
+318,2016-10-21T16:11:20Z,REI,NMD,Non-metropolitan district,Reigate and Banstead Borough Council,Reigate and Banstead,Reigate & Banstead,,,E07000211,43UF,
+317,2016-10-21T16:11:20Z,MOL,NMD,Non-metropolitan district,Mole Valley District Council,Mole Valley,,,,E07000210,43UE,
+316,2016-10-21T16:11:20Z,GRT,NMD,Non-metropolitan district,Guildford Borough Council,Guildford,,,,E07000209,43UD,
+315,2016-10-21T16:11:20Z,EPS,NMD,Non-metropolitan district,Epsom and Ewell Borough Council,Epsom and Ewell,Epsom & Ewell,,,E07000208,43UC,
+314,2016-10-21T16:11:20Z,ELM,NMD,Non-metropolitan district,Elmbridge Borough Council,Elmbridge,,,,E07000207,43UB,
+313,2016-10-21T16:11:20Z,SRY,CTY,County,Surrey County Council,Surrey,,,,E10000030,936,43-00
+312,2016-10-21T16:11:20Z,WSO,NMD,Non-metropolitan district,West Somerset District Council,West Somerset,,,,E07000191,40UF,
+311,2016-10-21T16:11:20Z,TAU,NMD,Non-metropolitan district,Taunton Deane Borough Council,Taunton Deane,,,,E07000190,40UE,
+310,2016-10-21T16:11:20Z,SSO,NMD,Non-metropolitan district,South Somerset District Council,South Somerset,,,,E07000189,40UD,
+309,2016-10-21T16:11:20Z,SEG,NMD,Non-metropolitan district,Sedgemoor District Council,Sedgemoor,,,,E07000188,40UC,
+308,2016-10-21T16:11:20Z,MEN,NMD,Non-metropolitan district,Mendip District Council,Mendip,,,,E07000187,40UB,
+307,2016-10-21T16:11:20Z,SOM,CTY,County,Somerset County Council,Somerset,,,,E10000027,933,40-00
+306,2016-10-21T16:11:20Z,WAV,NMD,Non-metropolitan district,Waveney District Council,Waveney,,,,E07000206,42UH,
+305,2016-10-21T16:11:20Z,SUF,NMD,Non-metropolitan district,Suffolk Coastal District Council,Suffolk Coastal,,,,E07000205,42UG,
+304,2016-10-21T16:11:20Z,SED,NMD,Non-metropolitan district,St Edmundsbury Borough Council,St Edmundsbury,,,,E07000204,42UF,
+303,2016-10-21T16:11:20Z,MSU,NMD,Non-metropolitan district,Mid Suffolk District Council,Mid Suffolk,,,,E07000203,42UE,
+302,2016-10-21T16:11:20Z,IPS,NMD,Non-metropolitan district,Ipswich Borough Council,Ipswich,,,,E07000202,42UD,
+301,2016-10-21T16:11:20Z,FOR,NMD,Non-metropolitan district,Forest Heath District Council,Forest Heath,,,,E07000201,42UC,
+300,2016-10-21T16:11:20Z,BAB,NMD,Non-metropolitan district,Babergh District Council,Babergh,,,,E07000200,42UB,
+299,2016-10-21T16:11:20Z,SFK,CTY,County,Suffolk County Council,Suffolk,,,,E10000029,935,42-00
+298,2016-10-21T16:11:20Z,WOX,NMD,Non-metropolitan district,West Oxfordshire District Council,West Oxfordshire,,,,E07000181,38UF,
+297,2016-10-21T16:11:20Z,VAL,NMD,Non-metropolitan district,Vale of White Horse District Council,Vale of White Horse,,,,E07000180,38UE,
+296,2016-10-21T16:11:20Z,SOX,NMD,Non-metropolitan district,South Oxfordshire District Council,South Oxfordshire,,,,E07000179,38UD,
+295,2016-10-21T16:11:20Z,OXO,NMD,Non-metropolitan district,Oxford City Council,Oxford,,,,E07000178,38UC,
+294,2016-10-21T16:11:20Z,CHR,NMD,Non-metropolitan district,Cherwell District Council,Cherwell,,,,E07000177,38UB,
+293,2016-10-21T16:11:20Z,OXF,CTY,County,Oxfordshire County Council,Oxfordshire,,,,E10000025,931,38-00
+292,2016-10-21T16:11:20Z,SEL,NMD,Non-metropolitan district,Selby District Council,Selby,,,,E07000169,36UH,
+291,2016-10-21T16:11:20Z,SCE,NMD,Non-metropolitan district,Scarborough Borough Council,Scarborough,,,,E07000168,36UG,
+290,2016-10-21T16:11:20Z,RYE,NMD,Non-metropolitan district,Ryedale District Council,Ryedale,,,,E07000167,36UF,
+289,2016-10-21T16:11:20Z,RIH,NMD,Non-metropolitan district,Richmondshire District Council,Richmondshire,,,,E07000166,36UE,
+288,2016-10-21T16:11:20Z,HAG,NMD,Non-metropolitan district,Harrogate Borough Council,Harrogate,,,,E07000165,36UD,
+287,2016-10-21T16:11:20Z,HAE,NMD,Non-metropolitan district,Hambleton District Council,Hambleton,,,,E07000164,36UC,
+286,2016-10-21T16:11:20Z,CRA,NMD,Non-metropolitan district,Craven District Council,Craven,,,,E07000163,36UB,
+285,2016-10-21T16:11:20Z,NYK,CTY,County,North Yorkshire County Council,North Yorkshire,,,,E10000023,815,36-00
+284,2016-10-21T16:11:20Z,RUS,NMD,Non-metropolitan district,Rushcliffe Borough Council,Rushcliffe,,,,E07000176,37UJ,
+283,2016-10-21T16:11:20Z,NEA,NMD,Non-metropolitan district,Newark and Sherwood District Council,Newark and Sherwood,Newark & Sherwood,,,E07000175,37UG,
+282,2016-10-21T16:11:20Z,MAS,NMD,Non-metropolitan district,Mansfield District Council,Mansfield,,,,E07000174,37UF,
+281,2016-10-21T16:11:20Z,GED,NMD,Non-metropolitan district,Gedling Borough Council,Gedling,,,,E07000173,37UE,
+280,2016-10-21T16:11:20Z,BRT,NMD,Non-metropolitan district,Broxtowe Borough Council,Broxtowe,,,,E07000172,37UD,
+279,2016-10-21T16:11:20Z,BAE,NMD,Non-metropolitan district,Bassetlaw District Council,Bassetlaw,,,,E07000171,37UC,
+278,2016-10-21T16:11:20Z,ASH,NMD,Non-metropolitan district,Ashfield District Council,Ashfield,,,,E07000170,37UB,
+277,2016-10-21T16:11:20Z,NTT,CTY,County,Nottinghamshire County Council,Nottinghamshire,,,,E10000024,891,37-00
+276,2016-10-21T16:11:20Z,WEL,NMD,Non-metropolitan district,Wellingborough Borough Council,Wellingborough,,,,E07000156,34UH,
+275,2016-10-21T16:11:20Z,SNR,NMD,Non-metropolitan district,South Northamptonshire Council,South Northamptonshire,,,,E07000155,34UG,
+274,2016-10-21T16:11:20Z,NOR,NMD,Non-metropolitan district,Northampton Borough Council,Northampton,,,,E07000154,34UF,
+273,2016-10-21T16:11:20Z,KET,NMD,Non-metropolitan district,Kettering Borough Council,Kettering,,,,E07000153,34UE,
+272,2016-10-21T16:11:20Z,ENO,NMD,Non-metropolitan district,East Northamptonshire Council,East Northamptonshire,,,,E07000152,34UD,
+271,2016-10-21T16:11:20Z,DAV,NMD,Non-metropolitan district,Daventry District Council,Daventry,,,,E07000151,34UC,
+270,2016-10-21T16:11:20Z,COR,NMD,Non-metropolitan district,Corby Borough Council,Corby,,,,E07000150,34UB,
+269,2016-10-21T16:11:20Z,NTH,CTY,County,Northamptonshire County Council,Northamptonshire,,,,E10000021,928,34-00
+268,2016-10-21T16:11:20Z,SNO,NMD,Non-metropolitan district,South Norfolk District Council,South Norfolk,,,,E07000149,33UH,
+267,2016-10-21T16:11:20Z,NOW,NMD,Non-metropolitan district,Norwich City Council,Norwich,,,,E07000148,33UG,
+266,2016-10-21T16:11:20Z,NNO,NMD,Non-metropolitan district,North Norfolk District Council,North Norfolk,,,,E07000147,33UF,
+265,2016-10-21T16:11:20Z,KIN,NMD,Non-metropolitan district,Borough Council of Kings Lynn and West Norfolk,Kings Lynn and West Norfolk,King's Lynn & West Norfolk,Kings Lynn & West Norfolk,,E07000146,33UE,
+264,2016-10-21T16:11:20Z,GRY,NMD,Non-metropolitan district,Great Yarmouth Borough Council,Great Yarmouth,,,,E07000145,33UD,
+263,2016-10-21T16:11:20Z,BRO,NMD,Non-metropolitan district,Broadland District Council,Broadland,,,,E07000144,33UC,
+262,2016-10-21T16:11:20Z,BRE,NMD,Non-metropolitan district,Breckland District Council,Breckland,,,,E07000143,33UB,
+261,2016-10-21T16:11:20Z,NFK,CTY,County,Norfolk County Council,Norfolk,,,,E10000020,926,33-00
+260,2016-10-21T16:11:20Z,WLI,NMD,Non-metropolitan district,West Lindsey District Council,West Lindsey,,,,E07000142,32UH,
+259,2016-10-21T16:11:20Z,SKE,NMD,Non-metropolitan district,South Kesteven District Council,South Kesteven,,,,E07000141,32UG,
+258,2016-10-21T16:11:20Z,SHO,NMD,Non-metropolitan district,South Holland District Council,South Holland,,,,E07000140,32UF,
+257,2016-10-21T16:11:20Z,NKE,NMD,Non-metropolitan district,North Kesteven District Council,North Kesteven,,,,E07000139,32UE,
+256,2016-10-21T16:11:20Z,LIC,NMD,Non-metropolitan district,City of Lincoln Council,City of Lincoln,Lincoln,,,E07000138,32UD,
+255,2016-10-21T16:11:20Z,ELI,NMD,Non-metropolitan district,East Lindsey District Council,East Lindsey,,,,E07000137,32UC,
+254,2016-10-21T16:11:20Z,BOT,NMD,Non-metropolitan district,Boston Borough Council,Boston,,,,E07000136,32UB,
+253,2016-10-21T16:11:20Z,LIN,CTY,County,Lincolnshire County Council,Lincolnshire,,,,E10000019,925,32-00
+252,2016-10-21T16:11:20Z,OAD,NMD,Non-metropolitan district,Oadby and Wigston Borough Council,Oadby and Wigston,Oadby & Wigston,,,E07000135,31UJ,
+251,2016-10-21T16:11:20Z,NWL,NMD,Non-metropolitan district,North West Leicestershire District Council,North West Leicestershire,,,,E07000134,31UH,
+250,2016-10-21T16:11:20Z,MEL,NMD,Non-metropolitan district,Melton Borough Council,Melton,,,,E07000133,31UG,
+249,2016-10-21T16:11:20Z,HIN,NMD,Non-metropolitan district,Hinckley and Bosworth Borough Council,Hinckley and Bosworth,Hinckley & Bosworth,,,E07000132,31UE,
+248,2016-10-21T16:11:20Z,HAO,NMD,Non-metropolitan district,Harborough District Council,Harborough,,,,E07000131,31UD,
+247,2016-10-21T16:11:20Z,CHA,NMD,Non-metropolitan district,Charnwood Borough Council,Charnwood,,,,E07000130,31UC,
+246,2016-10-21T16:11:20Z,BLA,NMD,Non-metropolitan district,Blaby District Council,Blaby,,,,E07000129,31UB,
+245,2016-10-21T16:11:20Z,LEC,CTY,County,Leicestershire County Council,Leicestershire,,,,E10000018,855,31-00
+244,2016-10-21T16:11:20Z,WYR,NMD,Non-metropolitan district,Wyre Borough Council,Wyre,,,,E07000128,30UQ,
+243,2016-10-21T16:11:20Z,WLA,NMD,Non-metropolitan district,West Lancashire Borough Council,West Lancashire,,,,E07000127,30UP,
+242,2016-10-21T16:11:20Z,SRI,NMD,Non-metropolitan district,South Ribble Borough Council,South Ribble,,,,E07000126,30UN,
+241,2016-10-21T16:11:20Z,ROS,NMD,Non-metropolitan district,Rossendale Borough Council,Rossendale,,,,E07000125,30UM,
+240,2016-10-21T16:11:20Z,RIB,NMD,Non-metropolitan district,Ribble Valley Borough Council,Ribble Valley,,,,E07000124,30UL,
+239,2016-10-21T16:11:20Z,PRE,NMD,Non-metropolitan district,Preston City Council,Preston,,,,E07000123,30UK,
+238,2016-10-21T16:11:20Z,PEN,NMD,Non-metropolitan district,Pendle Borough Council,Pendle,,,,E07000122,30UJ,
+237,2016-10-21T16:11:20Z,LAC,NMD,Non-metropolitan district,Lancaster City Council,Lancaster,,,,E07000121,30UH,
+236,2016-10-21T16:11:20Z,HYN,NMD,Non-metropolitan district,Hyndburn Borough Council,Hyndburn,,,,E07000120,30UG,
+235,2016-10-21T16:11:20Z,FYL,NMD,Non-metropolitan district,Fylde Borough Council,Fylde,,,,E07000119,30UF,
+234,2016-10-21T16:11:20Z,CHO,NMD,Non-metropolitan district,Chorley Borough Council,Chorley,,,,E07000118,30UE,
+233,2016-10-21T16:11:20Z,BUN,NMD,Non-metropolitan district,Burnley Borough Council,Burnley,,,,E07000117,30UD,
+232,2016-10-21T16:11:20Z,LAN,CTY,County,Lancashire County Council,Lancashire,,,,E10000017,888,30-00
+231,2016-10-21T16:11:20Z,TUN,NMD,Non-metropolitan district,Tunbridge Wells Borough Council,Tunbridge Wells,,,,E07000116,29UQ,
+230,2016-10-21T16:11:20Z,TON,NMD,Non-metropolitan district,Tonbridge and Malling Borough Council,Tonbridge and Malling,Tonbridge & Malling,,,E07000115,29UP,
+229,2016-10-21T16:11:20Z,THA,NMD,Non-metropolitan district,Thanet District Council,Thanet,,,,E07000114,29UN,
+228,2016-10-21T16:11:20Z,SWL,NMD,Non-metropolitan district,Swale Borough Council,Swale,,,,E07000113,29UM,
+227,2016-10-21T16:11:20Z,SHE,NMD,Non-metropolitan district,Shepway District Council,Shepway,,,,E07000112,29UL,
+226,2016-10-21T16:11:20Z,SEV,NMD,Non-metropolitan district,Sevenoaks District Council,Sevenoaks,,,,E07000111,29UK,
+225,2016-10-21T16:11:20Z,MAI,NMD,Non-metropolitan district,Maidstone Borough Council,Maidstone,,,,E07000110,29UH,
+224,2016-10-21T16:11:20Z,GRA,NMD,Non-metropolitan district,Gravesham Borough Council,Gravesham,,,,E07000109,29UG,
+223,2016-10-21T16:11:20Z,DOV,NMD,Non-metropolitan district,Dover District Council,Dover,,,,E07000108,29UE,
+222,2016-10-21T16:11:20Z,DAR,NMD,Non-metropolitan district,Dartford Borough Council,Dartford,,,,E07000107,29UD,
+221,2016-10-21T16:11:20Z,CAT,NMD,Non-metropolitan district,Canterbury City Council,Canterbury,,,,E07000106,29UC,
+220,2016-10-21T16:11:20Z,ASF,NMD,Non-metropolitan district,Ashford Borough Council,Ashford,,,,E07000105,29UB,
+219,2016-10-21T16:11:20Z,KEN,CTY,County,Kent County Council,Kent,,,,E10000016,886,29-00
+218,2016-10-21T16:11:20Z,WEW,NMD,Non-metropolitan district,Welwyn Hatfield Borough Council,Welwyn Hatfield,,,,E07000241,26UL,
+217,2016-10-21T16:11:20Z,WAT,NMD,Non-metropolitan district,Watford Borough Council,Watford,,,,E07000103,26UK,
+216,2016-10-21T16:11:20Z,THE,NMD,Non-metropolitan district,Three Rivers District Council,Three Rivers,,,,E07000102,26UJ,
+215,2016-10-21T16:11:20Z,STV,NMD,Non-metropolitan district,Stevenage Borough Council,Stevenage,,,,E07000243,26UH,
+214,2016-10-21T16:11:20Z,SAL,NMD,Non-metropolitan district,St Albans City and District Council,St Albans,,,,E07000240,26UG,
+213,2016-10-21T16:11:20Z,NHE,NMD,Non-metropolitan district,North Hertfordshire District Council,North Hertfordshire,,,,E07000099,26UF,
+212,2016-10-21T16:11:20Z,HER,NMD,Non-metropolitan district,Hertsmere Borough Council,Hertsmere,,,,E07000098,26UE,
+211,2016-10-21T16:11:20Z,EHE,NMD,Non-metropolitan district,East Hertfordshire District Council,East Hertfordshire,,,,E07000242,26UD,
+210,2016-10-21T16:11:20Z,DAC,NMD,Non-metropolitan district,Dacorum Borough Council,Dacorum,,,,E07000096,26UC,
+209,2016-10-21T16:11:20Z,BRX,NMD,Non-metropolitan district,Broxbourne Borough Council,Broxbourne,,,,E07000095,26UB,
+208,2016-10-21T16:11:20Z,HRT,CTY,County,Hertfordshire County Council,Hertfordshire,,,,E10000015,919,26-00
+207,2016-10-21T16:11:20Z,WIN,NMD,Non-metropolitan district,Winchester City Council,Winchester,,,,E07000094,24UP,
+206,2016-10-21T16:11:20Z,TES,NMD,Non-metropolitan district,Test Valley Borough Council,Test Valley,,,,E07000093,24UN,
+205,2016-10-21T16:11:20Z,RUH,NMD,Non-metropolitan district,Rushmoor Borough Council,Rushmoor,,,,E07000092,24UL,
+204,2016-10-21T16:11:20Z,NEW,NMD,Non-metropolitan district,New Forest District Council,New Forest,,,,E07000091,24UJ,
+203,2016-10-21T16:11:20Z,HAA,NMD,Non-metropolitan district,Havant Borough Council,Havant,,,,E07000090,24UH,
+202,2016-10-21T16:11:20Z,HAT,NMD,Non-metropolitan district,Hart District Council,Hart,,,,E07000089,24UG,
+201,2016-10-21T16:11:20Z,GOS,NMD,Non-metropolitan district,Gosport Borough Council,Gosport,,,,E07000088,24UF,
+200,2016-10-21T16:11:20Z,FAR,NMD,Non-metropolitan district,Fareham Borough Council,Fareham,,,,E07000087,24UE,
+199,2016-10-21T16:11:20Z,EAT,NMD,Non-metropolitan district,Eastleigh Borough Council,Eastleigh,,,,E07000086,24UD,
+198,2016-10-21T16:11:20Z,EHA,NMD,Non-metropolitan district,East Hampshire District Council,East Hampshire,,,,E07000085,24UC,
+197,2016-10-21T16:11:20Z,BAN,NMD,Non-metropolitan district,Basingstoke and Deane Borough Council,Basingstoke and Deane,Basingstoke & Deane,,,E07000084,24UB,
+196,2016-10-21T16:11:20Z,HAM,CTY,County,Hampshire County Council,Hampshire,,,,E10000014,850,24-00
+195,2016-10-21T16:11:20Z,TEW,NMD,Non-metropolitan district,Tewkesbury Borough Council,Tewkesbury,,,,E07000083,23UG,
+194,2016-10-21T16:11:20Z,STO,NMD,Non-metropolitan district,Stroud District Council,Stroud,,,,E07000082,23UF,
+193,2016-10-21T16:11:20Z,GLO,NMD,Non-metropolitan district,Gloucester City Council,Gloucester,,,,E07000081,23UE,
+192,2016-10-21T16:11:20Z,FOE,NMD,Non-metropolitan district,Forest of Dean District Council,Forest of Dean,,,,E07000080,23UD,
+191,2016-10-21T16:11:20Z,COT,NMD,Non-metropolitan district,Cotswold District Council,Cotswold,,,,E07000079,23UC,
+190,2016-10-21T16:11:20Z,CHT,NMD,Non-metropolitan district,Cheltenham Borough Council,Cheltenham,,,,E07000078,23UB,
+189,2016-10-21T16:11:20Z,GLS,CTY,County,Gloucestershire County Council,Gloucestershire,,,,E10000013,916,23-00
+188,2016-10-21T16:11:20Z,WSM,LBO,London borough,City of Westminster,Westminster,,,,E09000033,213,
+187,2016-10-21T16:11:20Z,WND,LBO,London borough,London Borough of Wandsworth,Wandsworth,,,,E09000032,212,
+186,2016-10-21T16:11:20Z,WFT,LBO,London borough,London Borough of Waltham Forest,Waltham Forest,,,,E09000031,320,
+185,2016-10-21T16:11:20Z,TWH,LBO,London borough,London Borough of Tower Hamlets,Tower Hamlets,,,,E09000030,211,
+184,2016-10-21T16:11:20Z,SWK,LBO,London borough,London Borough of Southwark,Southwark,,,,E09000028,210,
+183,2016-10-21T16:11:20Z,STN,LBO,London borough,London Borough of Sutton,Sutton,,,,E09000029,319,
+182,2016-10-21T16:11:20Z,RIC,LBO,London borough,London Borough of Richmond upon Thames,Richmond upon Thames,,,,E09000027,318,
+181,2016-10-21T16:11:20Z,RDB,LBO,London borough,London Borough of Redbridge,Redbridge,,,,E09000026,317,
+180,2016-10-21T16:11:20Z,NWM,LBO,London borough,London Borough of Newham,Newham,,,,E09000025,316,
+179,2016-10-21T16:11:20Z,MRT,LBO,London borough,London Borough of Merton,Merton,,,,E09000024,315,
+178,2016-10-21T16:11:20Z,LEW,LBO,London borough,London Borough of Lewisham,Lewisham,,,,E09000023,209,
+177,2016-10-21T16:11:20Z,LBH,LBO,London borough,London Borough of Lambeth,Lambeth,,,,E09000022,208,
+176,2016-10-21T16:11:20Z,KTT,LBO,London borough,Royal Borough of Kingston upon Thames,Kingston upon Thames,,,,E09000021,314,
+175,2016-10-21T16:11:20Z,KEC,LBO,London borough,Royal Borough of Kensington and Chelsea,Kensington and Chelsea,Kensington & Chelsea,,,E09000020,207,
+174,2016-10-21T16:11:20Z,ISL,LBO,London borough,London Borough of Islington,Islington,,,,E09000019,206,
+173,2016-10-21T16:11:20Z,HRY,LBO,London borough,London Borough of Haringey,Haringey,,,,E09000014,309,
+172,2016-10-21T16:11:20Z,HRW,LBO,London borough,London Borough of Harrow,Harrow,,,,E09000015,310,
+171,2016-10-21T16:11:20Z,HNS,LBO,London borough,London Borough of Hounslow,Hounslow,,,,E09000018,313,
+170,2016-10-21T16:11:20Z,HMF,LBO,London borough,London Borough of Hammersmith & Fulham,Hammersmith and Fulham,Hammersmith & Fulham,,,E09000013,205,
+169,2016-10-21T16:11:20Z,HIL,LBO,London borough,London Borough of Hillingdon,Hillingdon,,,,E09000017,312,
+168,2016-10-21T16:11:20Z,HCK,LBO,London borough,London Borough of Hackney,Hackney,,,,E09000012,204,
+167,2016-10-21T16:11:20Z,HAV,LBO,London borough,London Borough of Havering,Havering,,,,E09000016,311,
+166,2016-10-21T16:11:20Z,GRE,LBO,London borough,Royal Borough of Greenwich,Greenwich,,,,E09000011,203,
+165,2016-10-21T16:11:20Z,ENF,LBO,London borough,London Borough of Enfield,Enfield,,,,E09000010,308,
+164,2016-10-21T16:11:20Z,EAL,LBO,London borough,London Borough of Ealing,Ealing,,,,E09000009,307,
+163,2016-10-21T16:11:20Z,CRY,LBO,London borough,London Borough of Croydon,Croydon,,,,E09000008,306,
+162,2016-10-21T16:11:20Z,CMD,LBO,London borough,London Borough of Camden,Camden,,,,E09000007,202,
+161,2016-10-21T16:11:20Z,BRY,LBO,London borough,London Borough of Bromley,Bromley,,,,E09000006,305,
+160,2016-10-21T16:11:20Z,BNE,LBO,London borough,London Borough of Barnet,Barnet,,,,E09000003,302,
+159,2016-10-21T16:11:20Z,BEX,LBO,London borough,London Borough of Bexley,Bexley,,,,E09000004,303,
+158,2016-10-21T16:11:20Z,BEN,LBO,London borough,London Borough of Brent,Brent,,,,E09000005,304,
+157,2016-10-21T16:11:20Z,BDG,LBO,London borough,London Borough of Barking and Dagenham,Barking and Dagenham,Barking & Dagenham,,,E09000002,301,
+156,2016-10-21T16:11:20Z,WEA,NMD,Non-metropolitan district,Wealden District Council,Wealden,,,,E07000065,21UH,
+155,2016-10-21T16:11:20Z,ROH,NMD,Non-metropolitan district,Rother District Council,Rother,,,,E07000064,21UG,
+154,2016-10-21T16:11:20Z,LEE,NMD,Non-metropolitan district,Lewes District Council,Lewes,,,,E07000063,21UF,
+153,2016-10-21T16:11:20Z,HAS,NMD,Non-metropolitan district,Hastings Borough Council,Hastings,,,,E07000062,21UD,
+152,2016-10-21T16:11:20Z,EAS,NMD,Non-metropolitan district,Eastbourne Borough Council,Eastbourne,,,,E07000061,21UC,
+151,2016-10-21T16:11:20Z,ESX,CTY,County,East Sussex County Council,East Sussex,,,,E10000011,845,21-00
+150,2016-10-21T16:11:20Z,UTT,NMD,Non-metropolitan district,Uttlesford District Council,Uttlesford,,,,E07000077,22UQ,
+149,2016-10-21T16:11:20Z,TEN,NMD,Non-metropolitan district,Tendring District Council,Tendring,,,,E07000076,22UN,
+148,2016-10-21T16:11:20Z,ROC,NMD,Non-metropolitan district,Rochford District Council,Rochford,,,,E07000075,22UL,
+147,2016-10-21T16:11:20Z,MAL,NMD,Non-metropolitan district,Maldon District Council,Maldon,,,,E07000074,22UK,
+146,2016-10-21T16:11:20Z,HAR,NMD,Non-metropolitan district,Harlow District Council,Harlow,,,,E07000073,22UJ,
+145,2016-10-21T16:11:20Z,EPP,NMD,Non-metropolitan district,Epping Forest District Council,Epping Forest,,,,E07000072,22UH,
+144,2016-10-21T16:11:20Z,COL,NMD,Non-metropolitan district,Colchester Borough Council,Colchester,,,,E07000071,22UG,
+143,2016-10-21T16:11:20Z,CHL,NMD,Non-metropolitan district,Chelmsford City Council,Chelmsford,,,,E07000070,22UF,
+142,2016-10-21T16:11:20Z,CAS,NMD,Non-metropolitan district,Castle Point Borough Council,Castle Point,,,,E07000069,22UE,
+141,2016-10-21T16:11:20Z,BRW,NMD,Non-metropolitan district,Brentwood Borough Council,Brentwood,,,,E07000068,22UD,
+140,2016-10-21T16:11:20Z,BRA,NMD,Non-metropolitan district,Braintree District Council,Braintree,,,,E07000067,22UC,
+139,2016-10-21T16:11:20Z,BAI,NMD,Non-metropolitan district,Basildon Borough Council,Basildon,,,,E07000066,22UB,
+138,2016-10-21T16:11:20Z,ESS,CTY,County,Essex County Council,Essex,,,,E10000012,881,22-00
+137,2016-10-21T16:11:20Z,WEY,NMD,Non-metropolitan district,Weymouth and Portland Borough Council,Weymouth and Portland,Weymouth & Portland,,,E07000053,19UJ,
+136,2016-10-21T16:11:20Z,WDO,NMD,Non-metropolitan district,West Dorset District Council,West Dorset,,,,E07000052,19UH,
+135,2016-10-21T16:11:20Z,PUR,NMD,Non-metropolitan district,Purbeck District Council,Purbeck,,,,E07000051,19UG,
+134,2016-10-21T16:11:20Z,NDO,NMD,Non-metropolitan district,North Dorset District Council,North Dorset,,,,E07000050,19UE,
+133,2016-10-21T16:11:20Z,EDO,NMD,Non-metropolitan district,East Dorset District Council,East Dorset,,,,E07000049,19UD,
+132,2016-10-21T16:11:20Z,CHC,NMD,Non-metropolitan district,Christchurch Borough Council,Christchurch,,,,E07000048,19UC,
+131,2016-10-21T16:11:20Z,DOR,CTY,County,Dorset County Council,Dorset,,,,E10000009,835,19-00
+130,2016-10-21T16:11:20Z,WDE,NMD,Non-metropolitan district,West Devon Borough Council,West Devon,,,,E07000047,18UL,
+129,2016-10-21T16:11:20Z,TOR,NMD,Non-metropolitan district,Torridge District Council,Torridge,,,,E07000046,18UK,
+128,2016-10-21T16:11:20Z,TEI,NMD,Non-metropolitan district,Teignbridge District Council,Teignbridge,,,,E07000045,18UH,
+127,2016-10-21T16:11:20Z,SHA,NMD,Non-metropolitan district,South Hams District Council,South Hams,,,,E07000044,18UG,
+126,2016-10-21T16:11:20Z,NDE,NMD,Non-metropolitan district,North Devon District Council,North Devon,,,,E07000043,18UE,
+125,2016-10-21T16:11:20Z,MDE,NMD,Non-metropolitan district,Mid Devon District Council,Mid Devon,,,,E07000042,18UD,
+124,2016-10-21T16:11:20Z,EXE,NMD,Non-metropolitan district,Exeter City Council,Exeter,,,,E07000041,18UC,
+123,2016-10-21T16:11:20Z,EDE,NMD,Non-metropolitan district,East Devon District Council,East Devon,,,,E07000040,18UB,
+122,2016-10-21T16:11:20Z,DEV,CTY,County,Devon County Council,Devon,,,,E10000008,878,18-00
+121,2016-10-21T16:11:20Z,SDE,NMD,Non-metropolitan district,South Derbyshire District Council,South Derbyshire,,,,E07000039,17UK,
+120,2016-10-21T16:11:20Z,NED,NMD,Non-metropolitan district,North East Derbyshire District Council,North East Derbyshire,,,,E07000038,17UJ,
+119,2016-10-21T16:11:20Z,HIG,NMD,Non-metropolitan district,High Peak Borough Council,High Peak,,,,E07000037,17UH,
+118,2016-10-21T16:11:20Z,ERE,NMD,Non-metropolitan district,Erewash Borough Council,Erewash,,,,E07000036,17UG,
+117,2016-10-21T16:11:20Z,DEB,NMD,Non-metropolitan district,Derbyshire Dales District Council,Derbyshire Dales,,,,E07000035,17UF,
+116,2016-10-21T16:11:20Z,CHS,NMD,Non-metropolitan district,Chesterfield Borough Council,Chesterfield,,,,E07000034,17UD,
+115,2016-10-21T16:11:20Z,BOS,NMD,Non-metropolitan district,Bolsover District Council,Bolsover,,,,E07000033,17UC,
+114,2016-10-21T16:11:20Z,AMB,NMD,Non-metropolitan district,Amber Valley Borough Council,Amber Valley,,,,E07000032,17UB,
+113,2016-10-21T16:11:20Z,DBY,CTY,County,Derbyshire County Council,Derbyshire,,,,E10000007,830,17-00
+112,2016-10-21T16:11:20Z,DER,UA,Unitary authority,Derby City Council,Derby,Derby City UA,Derby UA,,E06000015,831,00-FK
+111,2016-10-21T16:11:20Z,SLA,NMD,Non-metropolitan district,South Lakeland District Council,South Lakeland,,,,E07000031,16UG,
+110,2016-10-21T16:11:20Z,EDN,NMD,Non-metropolitan district,Eden District Council,Eden,,,,E07000030,16UF,
+109,2016-10-21T16:11:20Z,COP,NMD,Non-metropolitan district,Copeland Borough Council,Copeland,,,,E07000029,16UE,
+108,2016-10-21T16:11:20Z,CAR,NMD,Non-metropolitan district,Carlisle City Council,Carlisle,,,,E07000028,16UD,
+107,2016-10-21T16:11:20Z,BAR,NMD,Non-metropolitan district,Barrow-in-Furness Borough Council,Barrow-in-Furness,,,,E07000027,16UC,
+106,2016-10-21T16:11:20Z,ALL,NMD,Non-metropolitan district,Allerdale Borough Council,Allerdale,,,,E07000026,16UB,
+105,2016-10-21T16:11:20Z,CMA,CTY,County,Cumbria County Council,Cumbria,,,,E10000006,909,16-00
+104,2016-10-21T16:11:20Z,SCA,NMD,Non-metropolitan district,South Cambridgeshire District Council,South Cambridgeshire,,,,E07000012,12UG,
+103,2016-10-21T16:11:20Z,HUN,NMD,Non-metropolitan district,Huntingdonshire District Council,Huntingdonshire,,,,E07000011,12UE,
+102,2016-10-21T16:11:20Z,FEN,NMD,Non-metropolitan district,Fenland District Council,Fenland,,,,E07000010,12UD,
+101,2016-10-21T16:11:20Z,ECA,NMD,Non-metropolitan district,East Cambridgeshire District Council,East Cambridgeshire,,,,E07000009,12UC,
+100,2016-10-21T16:11:20Z,CAB,NMD,Non-metropolitan district,Cambridge City Council,Cambridge,,,,E07000008,12UB,
+99,2016-10-21T16:11:20Z,CAM,CTY,County,Cambridgeshire County Council,Cambridgeshire,,,,E10000003,873,12-00
+98,2016-10-21T16:11:20Z,WYO,NMD,Non-metropolitan district,Wycombe District Council,Wycombe,,,,E07000007,11UF,
+97,2016-10-21T16:11:20Z,SBU,NMD,Non-metropolitan district,South Bucks District Council,South Bucks,,,,E07000006,11UE,
+96,2016-10-21T16:11:20Z,CHN,NMD,Non-metropolitan district,Chiltern District Council,Chiltern,,,,E07000005,11UC,
+95,2016-10-21T16:11:20Z,AYL,NMD,Non-metropolitan district,Aylesbury Vale District Council,Aylesbury Vale,,,,E07000004,11UB,
+94,2016-10-21T16:11:20Z,BKM,CTY,County,Buckinghamshire County Council,Buckinghamshire,,,19-06-05,E10000002,825,11-00
+93,2016-10-21T16:11:20Z,YOR,UA,Unitary authority,City of York Council,York,York UA,,18-06-05,E06000014,816,00-FF
+92,2016-10-21T16:11:20Z,WRT,UA,Unitary authority,Warrington Borough Council,Warrington,Warrington UA,,20-06-05,E06000007,877,00-EU
+91,2016-10-21T16:11:20Z,WRL,MD,Metropolitan district,Wirral Borough Council,Wirral,,,01-04-74,E08000015,344,00-CB
+90,2016-10-21T16:11:20Z,WOK,UA,Unitary authority,Wokingham Borough Council,Wokingham,Wokingham UA,,20-06-05,E06000041,872,00-MF
+89,2016-10-21T16:11:20Z,WNM,UA,Unitary authority,Royal Borough of Windsor and Maidenhead,Windsor and Maidenhead,Windsor & Maidenhead UA,,20-06-05,E06000040,868,00-ME
+88,2016-10-21T16:11:20Z,WLV,MD,Metropolitan district,City of Wolverhampton Council,Wolverhampton,,,01-04-74,E08000031,336,00-CW
+87,2016-10-21T16:11:20Z,WLL,MD,Metropolitan district,Walsall Metropolitan Borough Council,Walsall,,,01-04-74,E08000030,335,00-CU
+86,2016-10-21T16:11:20Z,WKF,MD,Metropolitan district,Wakefield Metropolitan District Council,Wakefield,,,01-04-74,E08000036,384,00-DB
+85,2016-10-21T16:11:20Z,WIL,UA,Unitary authority,Wiltshire Council,Wiltshire,Wiltshire UA,,01-04-09,E06000054,865,00-HY
+84,2016-10-21T16:11:20Z,WGN,MD,Metropolitan district,Wigan Metropolitan Borough Council,Wigan,,,01-04-74,E08000010,359,00-BW
+83,2016-10-21T16:11:20Z,WBK,UA,Unitary authority,West Berkshire Council,West Berkshire,West Berkshire UA,,20-06-05,E06000037,869,00-MB
+82,2016-10-21T16:11:20Z,TRF,MD,Metropolitan district,Trafford Metropolitan Borough Council,Trafford,,,01-04-74,E08000009,358,00-BU
+81,2016-10-21T16:11:20Z,TOB,UA,Unitary authority,Torbay Council,Torbay,Torbay UA,,20-06-05,E06000027,880,00-HH
+80,2016-10-21T16:11:20Z,THR,UA,Unitary authority,Thurrock Council,Thurrock,Thurrock UA,,20-06-05,E06000034,883,00-KG
+79,2016-10-21T16:11:20Z,TFW,UA,Unitary authority,Telford & Wrekin Council,Telford and Wrekin,Telford and the Wrekin UA,Telford & Wrekin UA,20-06-05,E06000020,894,00-GF
+78,2016-10-21T16:11:20Z,TAM,MD,Metropolitan district,Tameside Metropolitan Borough Council,Tameside,,,01-04-74,E08000008,357,00-BT
+77,2016-10-21T16:11:20Z,SWD,UA,Unitary authority,Swindon Borough Council,Swindon,Swindon UA,,20-06-05,E06000030,866,00-HX
+76,2016-10-21T16:11:20Z,STY,MD,Metropolitan district,South Tyneside Council,South Tyneside,,,01-04-74,E08000023,393,00-CL
+75,2016-10-21T16:11:20Z,STT,UA,Unitary authority,Stockton-on-Tees Borough Council,Stockton-on-Tees,Stockton-On-Tees UA,Stockton On Tees UA,18-06-05,E06000004,808,00-EF
+74,2016-10-21T16:11:20Z,STH,UA,Unitary authority,Southampton City Council,Southampton,Southampton UA,,19-06-05,E06000045,852,00-MS
+73,2016-10-21T16:11:20Z,STE,UA,Unitary authority,Stoke-on-Trent City Council,Stoke-on-Trent,Stoke-On-Trent UA,,20-06-05,E06000021,861,00-GL
+72,2016-10-21T16:11:20Z,SOS,UA,Unitary authority,Southend-on-Sea Borough Council,Southend-on-Sea,Southend-on-Sea UA,Southend UA,20-06-05,E06000033,882,00-KF
+71,2016-10-21T16:11:20Z,SOL,MD,Metropolitan district,Solihull Metropolitan Borough Council,Solihull,,,27-05-05,E08000029,334,00-CT
+70,2016-10-21T16:11:20Z,SND,MD,Metropolitan district,Sunderland City Council,Sunderland,,,27-05-05,E08000024,394,00-CM
+69,2016-10-21T16:11:20Z,SLG,UA,Unitary authority,Slough Borough Council,Slough,Slough UA,,01-04-98,E06000039,871,00-MD
+68,2016-10-21T16:11:20Z,SLF,MD,Metropolitan district,Salford City Council,Salford,,,27-05-05,E08000006,355,00-BR
+67,2016-10-21T16:11:20Z,SKP,MD,Metropolitan district,Stockport Metropolitan Borough Council,Stockport,,,27-05-05,E08000007,356,00-BS
+66,2016-10-21T16:11:20Z,SHR,UA,Unitary authority,Shropshire Council,Shropshire,Shropshire UA,,01-04-09,E06000051,893,00-GG
+65,2016-10-21T16:11:20Z,SHN,MD,Metropolitan district,St Helens Council,St. Helens,St Helens,,08-06-05,E08000013,342,00-BZ
+64,2016-10-21T16:11:20Z,SHF,MD,Metropolitan district,Sheffield City Council,Sheffield,,,08-06-05,E08000019,373,00-CG
+63,2016-10-21T16:11:20Z,SGC,UA,Unitary authority,South Gloucestershire Council,South Gloucestershire,South Gloucestershire UA,,18-06-05,E06000025,803,00-HD
+62,2016-10-21T16:11:20Z,SFT,MD,Metropolitan district,Sefton Metropolitan Borough Council,Sefton,,,08-06-05,E08000014,343,00-CA
+61,2016-10-21T16:11:20Z,SAW,MD,Metropolitan district,Sandwell Metropolitan Borough Council,Sandwell,,,07-06-05,E08000028,333,00-CS
+60,2016-10-21T16:11:20Z,RUT,UA,Unitary authority,Rutland County Council,Rutland,Rutland UA,,01-04-97,E06000017,857,00-FP
+59,2016-10-21T16:11:20Z,ROT,MD,Metropolitan district,Rotherham Metropolitan Borough Council,Rotherham,,,27-05-05,E08000018,372,00-CF
+58,2016-10-21T16:11:20Z,RDG,UA,Unitary authority,Reading Borough Council,Reading,Reading UA,,27-05-05,E06000038,870,00-MC
+57,2016-10-21T16:11:20Z,RCH,MD,Metropolitan district,Rochdale Metropolitan Borough Council,Rochdale,,,27-05-05,E08000005,354,00-BQ
+56,2016-10-21T16:11:20Z,RCC,UA,Unitary authority,Redcar and Cleveland Borough Council,Redcar and Cleveland,Redcar & Cleveland UA,,01-04-96,E06000003,807,00-EE
+55,2016-10-21T16:11:20Z,PTE,UA,Unitary authority,Peterborough City Council,Peterborough,Peterborough UA,,20-06-05,E06000031,874,00-JA
+54,2016-10-21T16:11:20Z,POR,UA,Unitary authority,Portsmouth City Council,Portsmouth,Portsmouth UA,,20-06-05,E06000044,851,00-MR
+53,2016-10-21T16:11:20Z,POL,UA,Unitary authority,Borough of Poole,Poole,Poole UA,,01-04-97,E06000029,836,00-HP
+52,2016-10-21T16:11:20Z,PLY,UA,Unitary authority,Plymouth City Council,Plymouth,Plymouth UA,,01-04-98,E06000026,879,00-HG
+51,2016-10-21T16:11:20Z,OLD,MD,Metropolitan district,Oldham Metropolitan Borough Council,Oldham,,,07-06-05,E08000004,353,00-BP
+50,2016-10-21T16:11:20Z,NTY,MD,Metropolitan district,North Tyneside Council,North Tyneside,,,01-04-74,E08000022,392,00-CK
+49,2016-10-21T16:11:20Z,NSM,UA,Unitary authority,North Somerset  Council,North Somerset,North Somerset UA,,01-04-96,E06000024,802,00-HC
+48,2016-10-21T16:11:20Z,NLN,UA,Unitary authority,North Lincolnshire Council,North Lincolnshire,North Lincolnshire UA,,01-04-96,E06000013,813,00-FD
+47,2016-10-21T16:11:20Z,NGM,UA,Unitary authority,Nottingham City Council,Nottingham,City of Nottingham UA,Nottingham UA,20-06-05,E06000018,892,00-FY
+46,2016-10-21T16:11:20Z,NET,MD,Metropolitan district,Newcastle City Council,Newcastle upon Tyne,,,01-04-74,E08000021,391,00-CJ
+45,2016-10-21T16:11:20Z,NEL,UA,Unitary authority,North East Lincolnshire Council,North East Lincolnshire,North East Lincolnshire UA,,01-04-96,E06000012,812,00-FC
+44,2016-10-21T16:11:20Z,NBL,UA,Unitary authority,Northumberland County Council,Northumberland,Northumberland UA,,01-04-09,E06000048,929,
+43,2016-10-21T16:11:20Z,MIK,UA,Unitary authority,Milton Keynes Council,Milton Keynes,Milton Keynes UA,,19-06-05,E06000042,826,00-MG
+42,2016-10-21T16:11:20Z,MDW,UA,Unitary authority,Medway Council,Medway,The Medway Towns UA,Medway Towns UA,01-04-98,E06000035,887,00-LC
+41,2016-10-21T16:11:20Z,MDB,UA,Unitary authority,Middlesbrough Borough Council,Middlesbrough,Middlesbrough UA,,18-06-05,E06000002,806,00-EC
+40,2016-10-21T16:11:20Z,MAN,MD,Metropolitan district,Manchester City Council,Manchester,,,01-04-74,E08000003,352,00-BN
+39,2016-10-21T16:11:20Z,LUT,UA,Unitary authority,Luton Borough Council,Luton,Luton UA,,19-06-05,E06000032,821,00-KA
+37,2016-10-21T16:11:20Z,LIV,MD,Metropolitan district,Liverpool City Council,Liverpool,,,08-06-05,E08000012,341,00-BY
+36,2016-10-21T16:11:20Z,LDS,MD,Metropolitan district,Leeds City Council,Leeds,,,08-06-05,E08000035,383,00-DA
+35,2016-10-21T16:11:20Z,LCE,UA,Unitary authority,Leicester City Council,Leicester,Leicester City UA,Leicester UA,19-06-05,E06000016,856,00-FN
+34,2016-10-21T16:11:20Z,KWL,MD,Metropolitan district,Knowsley Metropolitan Borough Council,Knowsley,,,01-04-74,E08000011,340,00-BX
+33,2016-10-21T16:11:20Z,KIR,MD,Metropolitan district,Kirklees Council,Kirklees,,,01-04-74,E08000034,382,00-CZ
+32,2016-10-21T16:11:20Z,KHL,UA,Unitary authority,Hull City Council,Kingston upon Hull,"Kingston upon Hull, City of",Kingston Upon Hull UA,01-04-96,E06000010,810,00-FA
+31,2016-10-21T16:11:20Z,IOW,UA,Unitary authority,Isle of Wight Council,Isle of Wight,Isle Of Wight UA,,17-06-05,E06000046,921,00-MW
+30,2016-10-21T16:11:20Z,IOS,UA,Unitary authority,Council of the Isles of Scilly,Isles of Scilly,,,01-04-74,E06000053,420,00-HF
+29,2016-10-21T16:11:20Z,HPL,UA,Unitary authority,Hartlepool Borough Council,Hartlepool,Hartlepool UA,,18-06-05,E06000001,805,00-EB
+28,2016-10-21T16:11:20Z,HEF,UA,Unitary authority,Herefordshire Council,Herefordshire,Herefordshire UA,,01-04-98,E06000019,884,00-GA
+27,2016-10-21T16:11:20Z,HAL,UA,Unitary authority,Halton Borough Council,Halton,Halton UA,,01-04-98,E06000006,876,00-ET
+25,2016-10-21T16:11:20Z,GAT,MD,Metropolitan district,Gateshead Metropolitan Borough Council,Gateshead,,,01-04-74,E08000020,390,
+24,2016-10-21T16:11:20Z,ERY,UA,Unitary authority,East Riding of Yorkshire Council,East Riding of Yorkshire,East Riding Of Yorkshire UA,,01-04-96,E06000011,811,00-FB
+23,2016-10-21T16:11:20Z,DUR,UA,Unitary authority,Durham County Council,County Durham,Durham,Durham UA,01-04-09,E06000047,840,00-EJ
+22,2016-10-21T16:11:20Z,DUD,MD,Metropolitan district,Dudley Metropolitan Borough Council,Dudley,,,01-04-74,E08000027,332,00-CR
+21,2016-10-21T16:11:20Z,DNC,MD,Metropolitan district,Doncaster Metropolitan Borough Council,Doncaster,,,01-04-74,E08000017,371,00-CE
+20,2016-10-21T16:11:20Z,DAL,UA,Unitary authority,Darlington Borough Council,Darlington,Darlington UA,,01-04-97,E06000005,841,00-EH
+19,2016-10-21T16:11:20Z,COV,MD,Metropolitan district,Coventry City Council,Coventry,,,01-04-74,E08000026,331,00-CQ
+18,2016-10-21T16:11:20Z,CON,UA,Unitary authority,Cornwall Council,Cornwall,Cornwall UA,,01-04-09,E06000052,908,00-HE
+17,2016-10-21T16:11:20Z,CLD,MD,Metropolitan district,Calderdale Metropolitan Borough Council,Calderdale,,,01-04-74,E08000033,381,00-CY
+16,2016-10-21T16:11:20Z,CHW,UA,Unitary authority,Cheshire West and Chester Council,Cheshire West and Chester,Cheshire West And Chester UA,,01-04-09,E06000050,896,00-EW
+15,2016-10-21T16:11:20Z,CHE,UA,Unitary authority,Cheshire East Council,Cheshire East,Cheshire East UA,,01-04-09,E06000049,895,00-EQ
+14,2016-10-21T16:11:20Z,CBF,UA,Unitary authority,Central Bedfordshire Council,Central Bedfordshire,,,01-04-09,E06000056,823,00-KC
+13,2016-10-21T16:11:20Z,BUR,MD,Metropolitan district,Bury Metropolitan Borough Council,Bury,,,01-04-74,E08000002,351,00-BM
+12,2016-10-21T16:11:20Z,BST,UA,Unitary authority,Bristol City Council,City of Bristol,"Bristol, City of",Bristol UA,18-06-05,E06000023,801,00-HB
+11,2016-10-21T16:11:20Z,BRD,MD,Metropolitan district,City of Bradford Metropolitan District Council,Bradford,,,01-04-74,E08000032,380,00-CX
+10,2016-10-21T16:11:20Z,BRC,UA,Unitary authority,Bracknell Forest Council,Bracknell Forest,Bracknell Forest UA,,01-04-98,E06000036,867,00-MA
+9,2016-10-21T16:11:20Z,BPL,UA,Unitary authority,Blackpool Borough Council,Blackpool,Blackpool UA,,20-06-05,E06000009,890,00-EY
+8,2016-10-21T16:11:20Z,BOL,MD,Metropolitan district,Bolton Metropolitan Borough Council,Bolton,,,01-04-74,E08000001,350,00-BL
+7,2016-10-21T16:11:20Z,BNS,MD,Metropolitan district,Barnsley Metropolitan Borough Council,Barnsley,,,01-04-74,E08000016,370,00-CC
+6,2016-10-21T16:11:20Z,BNH,UA,Unitary authority,Brighton and Hove City Council,Brighton and Hove,Brighton & Hove UA,,19-06-05,E06000043,846,00-ML
+5,2016-10-21T16:11:20Z,BMH,UA,Unitary authority,Bournemouth Borough Council,Bournemouth,Bournemouth UA,,19-06-05,E06000028,837,00-HN
+4,2016-10-21T16:11:20Z,BIR,MD,Metropolitan district,Birmingham City Council,Birmingham,,,01-07-96,E08000025,330,00-CN
+3,2016-10-21T16:11:20Z,BDF,UA,Unitary authority,Bedford Borough Council,Bedford,,,01-04-09,E06000055,822,00-KB
+2,2016-10-21T16:11:20Z,BBD,UA,Unitary authority,Blackburn with Darwen Borough Council,Blackburn with Darwen,Blackburn With Darwen UA,,01-04-98,E06000008,889,00-EX
+1,2016-10-21T16:11:20Z,BAS,UA,Unitary authority,Bath and North East Somerset Council,Bath and North East Somerset,Bath & North East Somerset UA,,01-04-96,E06000022,800,00-HA
