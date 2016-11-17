@@ -26,4 +26,4 @@ Useful fields:
 
 Additional maps can be found [here](https://github.com/openregister/local-authority-data/tree/master/maps)
 
-*The code used for the Greater London Authority is the gss code is for London region - when working from code point open use E12000007 and the NHS_HA_code column.
+*The code used for the Greater London Authority is the gss code is for London region - when working from code point open use E18000007 and the NHS_HA_code column.
