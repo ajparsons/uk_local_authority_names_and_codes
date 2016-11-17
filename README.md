@@ -12,7 +12,7 @@ Useful fields:
 
 * local-authority-code - canonical three character code
 * official-name - canonical local authority name
-* parent-council - for london and non-metropolitan councils, id of GLA or overlapping county council. 
+* overlapping-la - for london and non-metropolitan councils, id of GLA or overlapping county council. 
 * alt-name-1 - canonical shorter name
 * alt-name-2 - variations on name
 * alt-name-3 - variations on name

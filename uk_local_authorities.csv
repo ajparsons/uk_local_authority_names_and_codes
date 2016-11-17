@@ -1,4 +1,4 @@
-Register,local-authority-code,register-and-code,local-authority-type,local-authority-type-name,parent-council,official-name,alt-name-1,alt-name-2,alt-name-3,start-date,end-date,gss-code,archaic-gss-code,old-ons-la-code,ofcom,snac,os,ecode,notes
+Register,local-authority-code,register-and-code,local-authority-type,local-authority-type-name,overlaping-la,official-name,alt-name-1,alt-name-2,alt-name-3,start-date,end-date,gss-code,archaic-gss-code,old-ons-la-code,ofcom,snac,os,ecode,notes
 local-authority-eng,GLA,local-authority-eng:GLA,SRA,Strategic Regional Authority,,Greater London Authority,Greater London,,,22-06-05,,E12000007,,H,00-London,,7000000000041440,E5100,gss code is for London region - when working from code point open use E18000007 and the NHS_HA_code column
 local-authority-eng,LND,local-authority-eng:LND,CC,City corporation,,City of London Corporation,City of London,,,28-06-05,,E09000001,,201,,00AA,7000000000011100,E5010,
 local-authority-eng,WOT,local-authority-eng:WOT,NMD,Non-metropolitan district,WSX,Worthing Borough Council,Worthing,,,25-06-05,,E07000229,,45UH,,45UH,7000000000016260,E3837,
