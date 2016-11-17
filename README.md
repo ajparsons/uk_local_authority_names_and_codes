@@ -24,6 +24,6 @@ Useful fields:
 * ecode - used in [revenue and accounting documents](https://www.gov.uk/government/collections/local-authority-revenue-expenditure-and-financing)
 
 
-Additional maps can be found [here](https://github.com/openregister/local-authority-data/tree/master/maps)
+Additional maps can be found [here](https://github.com/openregister/local-authority-data/tree/master/maps).
 
 *The code used for the Greater London Authority is the gss code is for London region - when working from code point open use E18000007 and the NHS_HA_code column.
