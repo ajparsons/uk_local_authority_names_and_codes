@@ -16,7 +16,7 @@ Useful fields:
 * alt-name-2 - variations on name
 * alt-name-3 - variations on name
 * gss-code - current standard 9-character ONS code. *
-* archaic-gss-code - old codes to help with mismatches on some datasets.
+* archaic-gss-code - old codes (changed because of boundary changes) to help with mismatches on some datasets (even recent datasets may use the wrong codes).
 * snac - old ONS Standard Names and Codes code
 * os - Ordnance Survey code
 * old-ons-la-code - old ONS code for local authorities. 
