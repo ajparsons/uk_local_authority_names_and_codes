@@ -15,7 +15,7 @@ Useful fields:
 * alt-name-1 - canonical shorter name
 * alt-name-2 - variations on name
 * alt-name-3 - variations on name
-* gss-code - current standard 9-character ONS code.
+* gss-code - current standard 9-character ONS code. *
 * archaic-gss-code - old codes to help with mismatches on some datasets.
 * snac - old ONS Standard Names and Codes code
 * os - Ordnance Survey code
@@ -25,3 +25,5 @@ Useful fields:
 
 
 Additional maps can be found [here](https://github.com/openregister/local-authority-data/tree/master/maps)
+
+*The code used for the Greater London Authority is the gss code is for London region - when working from code point open use E12000007 and the NHS_HA_code column.
