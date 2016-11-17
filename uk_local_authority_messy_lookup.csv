@@ -1004,69 +1004,23 @@ aberdeen cuty,ABE
 aberdeenshire,ABD
 aberdeenshire council,ABD
 abertawe,SWA
-adur,ADD
-adur district,ADD
-adur district council,ADD
-allerdale,ALB
-allerdale borough council,ALB
-allerdale district,ALB
-amber valley,AMV
-amber valley borough council,AMV
-amber valley district,AMV
 anglesey,AGY
 angus,ANS
 angus council,ANS
-antrim,NIR-T
 antrim and newtownabbey,ANN
-antrim borough council,NIR-T
-ards,NIR-X
 ards and north down,AND
-ards borough council,NIR-X
 argyll and bute,AGB
 argyll and bute council,AGB
-armagh city,NIR-O
-armagh city and district council,NIR-O
 "armagh city, banbridge and craigavon",ABC
 "armagh, banbridge and craigavon",ABC
-arun,ARD
-arun district,ARD
-arun district council,ARD
-ashfield,ASD
-ashfield district,ASD
-ashfield district council,ASD
-ashford,ASB
-ashford borough council,ASB
-ashford district,ASB
-aylesbury vale,AYV
-aylesbury vale district,AYV
-aylesbury vale district council,AYV
-babergh,BBG
-babergh district,BBG
-babergh district council,BBG
-ballymena,NIR-G
-ballymena borough council,NIR-G
-ballymoney,NIR-D
-ballymoney borough council,NIR-D
-banbridge,NIR-Q
-banbridge district council,NIR-Q
 barking and dagenham,BDG
 barking and dagenham london boro,BDG
-barnet,BNT
-barnet london boro,BNT
 barnsley,BNS
 barnsley district,BNS
 barnsley metropolitan borough council,BNS
-barrow-in-furness,BIF
-barrow-in-furness district,BIF
 basildon,BAS
 basildon borough council,BAS
 basildon district,BAS
-basingstoke and deane,BAA
-basingstoke and deane borough council,BAA
-basingstoke and deane district,BAA
-bassetlaw,BLW
-bassetlaw district,BLW
-bassetlaw district council,BLW
 bath and north east somerset,BNE
 bath and north east somerset council,BNE
 bedford,BDF
@@ -1079,9 +1033,6 @@ bexley london boro,BEX
 birmingham,BIR
 birmingham city council,BIR
 birmingham district,BIR
-blaby,BLD
-blaby district,BLD
-blaby district council,BLD
 blackburn,BBD
 blackburn with darwen,BBD
 blackburn with darwen borough council,BBD
@@ -1089,23 +1040,13 @@ blackpool,BPL
 blackpool borough council,BPL
 blaenau gwent,BGW
 blaenau gwent county borough council,BGW
-bolsover,BOD
-bolsover district,BOD
-bolsover district council,BOD
 bolton,BOL
 bolton district,BOL
 bolton metropolitan borough council,BOL
-borough council of kings lynn and west norfolk,BOC
-borough of barrow-in-furness,BIF
-borough of broxbourne,BXB
+borough council of kings lynn and west norfolk,KIN
 borough of poole,POL
-boston,BOB
-boston borough council,BOB
-boston district,BOB
 bournemouth,BMH
 bournemouth borough council,BMH
-bracknell forest,BNF
-bracknell forest council,BNF
 bradford,BRD
 bradford district,BRD
 bradford mdc,BRD
@@ -1113,14 +1054,8 @@ bradford metropolitan district council,BRD
 braintree,BRT
 braintree district,BRT
 braintree district council,BRT
-breckland,BRL
-breckland council,BRL
-breckland district,BRL
 brent,BEN
 brent london boro,BEN
-brentwood,BTW
-brentwood borough council,BTW
-brentwood district,BTW
 bridgend,BGE
 bridgend county borough,BGE
 bridgend county borough council,BGE
@@ -1139,17 +1074,9 @@ bromley london boro,BRY
 bromsgrove,BRM
 bromsgrove district,BRM
 bromsgrove district council,BRM
-broxbourne,BXB
-broxbourne district,BXB
-broxtowe,BXT
-broxtowe borough council,BXT
-broxtowe district,BXT
 buckinghamshire,BKM
 buckinghamshire county,BKM
 buckinghamshire county council,BKM
-burnley,BUB
-burnley borough council,BUB
-burnley district,BUB
 bury,BUR
 bury district,BUR
 bury metropolitan borough council,BUR
@@ -1161,74 +1088,30 @@ caerphilly county borough council,CAY
 calderdale,CLD
 calderdale district,CLD
 calderdale metropolitan borough council,CLD
-cambridge,CCC
-cambridge city,CCC
-cambridge city council,CCC
-cambridge district,CCC
 cambridgeshire,CAM
 cambridgeshire county,CAM
 cambridgeshire county council,CAM
 camden,CMD
 camden london boro,CMD
-cannock chase,CCH
-cannock chase district,CCH
-cannock chase district council,CCH
-canterbury,CTB
-canterbury city,CTB
-canterbury city council,CTB
-canterbury district,CTB
 cardiff,CRF
-carlisle,CRL
-carlisle city,CRL
-carlisle city council,CRL
-carlisle district,CRL
 carmarthenshire,CMN
 carmarthenshire county council,CMN
-carrickfergus,NIR-V
-carrickfergus borough council,NIR-V
 casnewydd,NWP
 castell-nedd port talbot,NTL
-castle point,CAP
-castle point borough council,CAP
-castle point district,CAP
-castlereagh,NIR-Y
-castlereagh borough council,NIR-Y
 causeway coast and glens,CCG
 central bedfordshire,CBF
 central bedfordshire council,CBF
 ceredigion,CGN
 ceredigion county council,CGN
-charnwood,CAW
-charnwood borough council,CAW
-charnwood district,CAW
 chelmsford,CHC
 chelmsford city council,CHC
 chelmsford district,CHC
 cheltenham,CHE
 cheltenham borough council,CHE
 cheltenham district,CHE
-cherwell,CWL
-cherwell district,CWL
-cherwell district council,CWL
-cheshire east,CEA
-cheshire east council,CEA
-cheshire west and chester,CWE
-cheshire west and chester council,CWE
-chesterfield,CSF
-chesterfield borough council,CSF
-chesterfield district,CSF
 chichester,CHS
 chichester district,CHS
 chichester district council,CHS
-chiltern,CTN
-chiltern district,CTN
-chiltern district council,CTN
-chorley,CLY
-chorley council,CLY
-chorley district,CLY
-christchurch,CRC
-christchurch borough council,CRC
-christchurch district,CRC
 city and county of swansea council,SWA
 city and county of the city of london,LND
 city of aberdeen,ABE
@@ -1242,8 +1125,6 @@ city of edinburgh council,EDH
 city of glasgow,GLG
 city of kingston upon hull,KHL
 city of leicester,LCE
-city of lincoln,CIO
-city of lincoln council,CIO
 city of london,LND
 city of london corporation,LND
 city of nottingham,NGM
@@ -1251,7 +1132,6 @@ city of peterborough,PTE
 city of plymouth,PLY
 city of portsmouth,POR
 city of southampton,STH
-city of stoke-on-trent,SOT
 city of westminster,WSM
 city of westminster london boro,WSM
 city of wolverhampton,WLV
@@ -1260,38 +1140,17 @@ city of york council,YOR
 clackmannan,CLK
 clackmannanshire,CLK
 clackmannanshire council,CLK
-colchester,CST
-colchester borough council,CST
-colchester district,CST
-coleraine,NIR-C
-coleraine borough council,NIR-C
 comhairle nan eilean siar,ELS
 comhairle nan eilean siar (western isles),ELS
 conwy,CWY
 conwy county borough council,CWY
-cookstown,NIR-I
-cookstown district council,NIR-I
-copeland,COB
-copeland borough council,COB
-copeland district,COB
-corby,CBY
-corby borough council,CBY
-corby district,CBY
 cornwall,CON
 cornwall council,CON
-cotswold,CWD
-cotswold district,CWD
-cotswold district council,CWD
 county durham,DUR
 county of herefordshire,HEF
 coventry,COV
 coventry city council,COV
 coventry district,COV
-craigavon,NIR-N
-craigavon borough council,NIR-N
-craven,CRD
-craven district,CRD
-craven district council,CRD
 crawley,CRW
 crawley borough council,CRW
 crawley district,CRW
@@ -1300,17 +1159,8 @@ croydon london boro,CRY
 cumbria,CMA
 cumbria county,CMA
 cumbria county council,CMA
-dacorum,DAB
-dacorum borough council,DAB
-dacorum district,DAB
 darlington,DAL
 darlington borough council,DAL
-dartford,DFD
-dartford borough council,DFD
-dartford district,DFD
-daventry,DAD
-daventry district,DAD
-daventry district council,DAD
 denbighshire,DEN
 denbighshire county council,DEN
 derby,DER
@@ -1319,13 +1169,8 @@ derby city council,DER
 derbyshire,DBY
 derbyshire county,DBY
 derbyshire county council,DBY
-derbyshire dales,DED
-derbyshire dales district,DED
-derbyshire dales district council,DED
-derry,NIR-A
 derry and strabane,DRS
 derry city and strabane,DRS
-derry city council,NIR-A
 devon,DEV
 devon county,DEV
 devon county council,DEV
@@ -1335,11 +1180,6 @@ doncaster metropolitan borough council,DNC
 dorset,DOR
 dorset county,DOR
 dorset county council,DOR
-dover,DVR
-dover district,DVR
-dover district council,DVR
-down,NIR-R
-down district council,NIR-R
 dudley,DUD
 dudley district,DUD
 dudley metropolitan borough council,DUD
@@ -1347,8 +1187,6 @@ dumfries and galloway,DGY
 dumfries and galloway council,DGY
 dundee city,DND
 dundee city council,DND
-dungannon and south tyrone,NIR-M
-dungannon and south tyrone borough council,NIR-M
 durham,DUR
 durham county council,DUR
 ealing,EAL
@@ -1356,9 +1194,6 @@ ealing london boro,EAL
 ease dunbartonshire,EDU
 east ayrshire,EAY
 east ayrshire council,EAY
-east cambridgeshire,EAC
-east cambridgeshire district,EAC
-east cambridgeshire district council,EAC
 east devon,EDE
 east devon district,EDE
 east devon district council,EDE
@@ -1381,9 +1216,6 @@ east lindsey district,ELI
 east lindsey district council,ELI
 east lothian,ELN
 east lothian council,ELN
-east northamptonshire,EAN
-east northamptonshire council,EAN
-east northamptonshire district,EAN
 east renfrewshire,ERW
 east renfrewshire council,ERW
 east riding of yorkshire,ERY
@@ -1394,121 +1226,51 @@ east staffordshire district,EAS
 east sussex,ESX
 east sussex county,ESX
 east sussex county council,ESX
-eastbourne,EBO
-eastbourne borough council,EBO
-eastbourne district,EBO
-eastleigh,ELG
-eastleigh borough council,ELG
-eastleigh district,ELG
-eden,EDD
-eden district,EDD
-eden district council,EDD
 edinburgh (city of),EDH
 "edinburgh, city of",EDH
 eilean,ELS
 eilean siar,ELS
-elmbridge,ELB
-elmbridge borough council,ELB
-elmbridge district,ELB
 enfield,ENF
 enfield london boro,ENF
-epping forest,EPF
-epping forest district,EPF
-epping forest district council,EPF
-epsom and ewell,EPA
-epsom and ewell borough council,EPA
-epsom and ewell district,EPA
-erewash,ERB
-erewash borough council,ERB
-erewash district,ERB
 essex,ESS
 essex county,ESS
 essex county council,ESS
-exeter,EXC
-exeter city,EXC
-exeter city council,EXC
-exeter district,EXC
 falkirk,FAL
 falkirk council,FAL
-fareham,FAB
-fareham borough council,FAB
-fareham district,FAB
-fenland,FLD
-fenland district,FLD
-fenland district council,FLD
-fermanagh,NIR-L
 fermanagh and omagh,FMO
-fermanagh district council,NIR-L
 fife,FIF
 fife council,FIF
 flintshire,FLN
 flintshire county council,FLN
-forest heath,FOH
-forest heath district,FOH
-forest heath district council,FOH
-forest of dean,FOO
-forest of dean district,FOO
-forest of dean district council,FOO
-fylde,FYB
-fylde borough council,FYB
-fylde district,FYB
 gateshead,GAT
 gateshead district,GAT
 gateshead metropolitan borough council,GAT
-gedling,GEB
-gedling borough council,GEB
-gedling district,GEB
 glasgow,GLG
 glasgow city,GLG
 glasgow city coucil,GLG
 glasgow city council,GLG
-gloucester,GLC
-gloucester city,GLC
-gloucester city council,GLC
-gloucester district,GLC
 gloucestershire,GLS
 gloucestershire county,GLS
 gloucestershire county council,GLS
-gosport,GOB
-gosport borough council,GOB
-gosport district,GOB
-gravesham,GRB
-gravesham borough council,GRB
-gravesham district,GRB
 great yarmouth,GRY
 great yarmouth borough council,GRY
 great yarmouth district,GRY
 greater london,GLA
 greenwich,GRE
 greenwich london boro,GRE
-guildford,GUB
-guildford borough council,GUB
-guildford district,GUB
 gwynedd,GWN
 gwynedd council,GWN
 hackney,HCK
 hackney london boro,HCK
 halton,HAL
 halton borough council,HAL
-hambleton,HBT
-hambleton district,HBT
-hambleton district council,HBT
 hammersmith and fulham,HMF
 hammersmith and fulham london boro,HMF
 hampshire,HAM
 hampshire county,HAM
 hampshire county council,HAM
-harborough,HBG
-harborough district,HBG
-harborough district council,HBG
 haringey,HRY
 haringey london boro,HRY
-harlow,HAC
-harlow council,HAC
-harlow district,HAC
-harrogate,HGT
-harrogate borough council,HGT
-harrogate district,HGT
 harrow,HRW
 harrow london boro,HRW
 hart,HAR
@@ -1516,52 +1278,22 @@ hart district,HAR
 hart district council,HAR
 hartlepool,HPL
 hartlepool borough council,HPL
-hastings,HST
-hastings borough council,HST
-hastings district,HST
-havant,HVT
-havant borough council,HVT
-havant district,HVT
 havering,HAV
 havering london boro,HAV
 herefordshire,HEF
 herefordshire council,HEF
 "herefordshire, county of",HEF
-hertfordshire,HFS
-hertfordshire county,HFS
-hertfordshire county council,HFS
-hertsmere,HEB
-hertsmere borough council,HEB
-hertsmere district,HEB
-high peak,HIP
-high peak borough council,HIP
-high peak district,HIP
 highands,HLD
 highland,HLD
 highlands,HLD
 hillingdon,HIL
 hillingdon london boro,HIL
-hinckley and bosworth,HIA
-hinckley and bosworth borough council,HIA
-hinckley and bosworth district,HIA
-horsham,HOD
-horsham district,HOD
-horsham district council,HOD
 hounslow,HNS
 hounslow london boro,HNS
 hull city,KHL
 hull city council,KHL
-huntingdonshire,HUD
-huntingdonshire district,HUD
-huntingdonshire district council,HUD
-hyndburn,HYB
-hyndburn borough council,HYB
-hyndburn district,HYB
 inverclyde,IVC
 inverclyde council,IVC
-ipswich,IPB
-ipswich borough council,IPB
-ipswich district,IPB
 isle of anglesey,AGY
 isle of anglesey county council,AGY
 isle of wight,IOW
@@ -1574,12 +1306,9 @@ kensington and chelsea london boro,KEC
 kent,KEN
 kent county,KEN
 kent county council,KEN
-kettering,KEB
-kettering borough council,KEB
-kettering district,KEB
-king's lynn and west norfolk,BOC
-king's lynn and west norfolk district,BOC
-kings lynn and west norfolk,BOC
+king's lynn and west norfolk,KIN
+king's lynn and west norfolk district,KIN
+kings lynn and west norfolk,KIN
 kingston upon hull,KHL
 kingston upon hull city of,KHL
 "kingston upon hull, city of",KHL
@@ -1601,8 +1330,6 @@ lancaster,LAC
 lancaster city,LAC
 lancaster city council,LAC
 lancaster district,LAC
-larne,NIR-F
-larne borough council,NIR-F
 leeds,LDS
 leeds city council,LDS
 leeds district,LDS
@@ -1612,31 +1339,17 @@ leicester city council,LCE
 leicestershire,LEC
 leicestershire county,LEC
 leicestershire county council,LEC
-lewes,LED
-lewes district,LED
-lewes district council,LED
 lewisham,LEW
 lewisham london boro,LEW
-lichfield,LID
-lichfield district,LID
-lichfield district council,LID
-limavady,NIR-B
-limavady borough council,NIR-B
-lincoln,CIO
-lincoln city,CIO
-lincoln district,CIO
 lincolnshire,LIN
 lincolnshire county,LIN
 lincolnshire county council,LIN
-lisburn,NIR-S
 lisburn and castlereagh,LBC
 lisburn and castlereagh city,LBC
-lisburn city council,NIR-S
 liverpool,LIV
 liverpool city council,LIV
 liverpool district,LIV
 london borough of barking and dagenham,BDG
-london borough of barnet,BNT
 london borough of bexley,BEX
 london borough of brent,BEN
 london borough of bromley,BRY
@@ -1665,31 +1378,11 @@ london borough of waltham forest,WFT
 london borough of wandsworth,WND
 luton,LUT
 luton borough council,LUT
-magherafelt,NIR-H
-magherafelt district council,NIR-H
-maidstone,MAB
-maidstone borough council,MAB
-maidstone district,MAB
-maldon,MDN
-maldon district,MDN
-maldon district council,MDN
-malvern hills,MAH
-malvern hills district,MAH
-malvern hills district council,MAH
 manchester,MAN
 manchester city council,MAN
 manchester district,MAN
-mansfield,MSF
-mansfield district,MSF
-mansfield district council,MSF
 medway,MDW
 medway council,MDW
-melton,MEB
-melton borough council,MEB
-melton district,MEB
-mendip,MED
-mendip district,MED
-mendip district council,MED
 merthyr tudful,MTY
 merthyr tydfil,MTY
 merthyr tydfil county borough council,MTY
@@ -1697,15 +1390,6 @@ merthyr tydfil ua,MTY
 merton,MRT
 merton london boro,MRT
 mid and east antrim,MEA
-mid devon,MID
-mid devon district,MID
-mid devon district council,MID
-mid suffolk,MSK
-mid suffolk district,MSK
-mid suffolk district council,MSK
-mid sussex,MSX
-mid sussex district,MSX
-mid sussex district council,MSX
 mid ulster,MUL
 middlesbrough,MDB
 middlesbrough borough council,MDB
@@ -1713,24 +1397,13 @@ midlothian,MLN
 midlothian council,MLN
 milton keynes,MIK
 milton keynes council,MIK
-mole valley,MOV
-mole valley district,MOV
-mole valley district council,MOV
 monmouthshire,MON
 monmouthshire county council,MON
 moray,MRY
 moray council,MRY
-moyle,NIR-E
-moyle district council,NIR-E
 na h-eileanan an iar,ELS
 neath port talbot,NTL
 neath port talbot county borough council,NTL
-new forest,NEF
-new forest district,NEF
-new forest district council,NEF
-newark and sherwood,NSW
-newark and sherwood district,NSW
-newark and sherwood district council,NSW
 newcastle city council,NET
 newcastle upon tyne,NET
 newcastle upon tyne district,NET
@@ -1741,11 +1414,7 @@ newham,NWM
 newham london boro,NWM
 newport,NWP
 newport city council,NWP
-newry and mourne,NIR-P
-newry and mourne district council,NIR-P
 "newry, mourne and down",NMD
-newtownabbey,NIR-U
-newtownabbey borough council,NIR-U
 norfolk,NFK
 norfolk county,NFK
 norfolk county council,NFK
@@ -1757,35 +1426,18 @@ north devon district,NDE
 north dorset,NDO
 north dorset district,NDO
 north dorset district council,NDO
-north down,NIR-W
 north down and ards,AND
-north down borough council,NIR-W
-north east derbyshire,NOE
-north east derbyshire district,NOE
-north east derbyshire district council,NOE
 north east lincolnshire,NEL
 north east lincolnshire council,NEL
-north hertfordshire,NOH
-north hertfordshire district,NOH
-north hertfordshire district council,NOH
-north kesteven,NOK
-north kesteven district,NOK
-north kesteven district council,NOK
 north lanarkshire,NLK
 north lanarkshire council,NLK
 north lincolnshire,NLN
 north lincolnshire council,NLN
-north norfolk,NON
-north norfolk district,NON
-north norfolk district council,NON
 north somerset,NSM
 north somerset council,NSM
 north tyneside,NTY
 north tyneside council,NTY
 north tyneside district,NTY
-north warwickshire,NWK
-north warwickshire borough council,NWK
-north warwickshire district,NWK
 north west leicestershire,NWL
 north west leicestershire district,NWL
 north west leicestershire district council,NWL
@@ -1793,51 +1445,29 @@ north west somerset,NSM
 north yorkshire,NYK
 north yorkshire county,NYK
 north yorkshire county council,NYK
-northampton,NOB
-northampton borough council,NOB
-northampton district,NOB
 northamptonshire,NTH
 northamptonshire county,NTH
 northamptonshire county council,NTH
 northumberland,NBL
 northumberland council,NBL
-norwich,NOC
-norwich city,NOC
-norwich city council,NOC
-norwich district,NOC
 nottingham,NGM
 nottingham city,NGM
 nottingham city council,NGM
 nottinghamshire,NTT
 nottinghamshire county,NTT
 nottinghamshire county council,NTT
-nuneaton and bedworth,NUA
-nuneaton and bedworth borough council,NUA
-nuneaton and bedworth district,NUA
-oadby and wigston,OAA
-oadby and wigston district,OAA
-oadby and wigston district council,OAA
 oldham,OLD
 oldham district,OLD
 oldham metropolitan borough council,OLD
-omagh,NIR-K
-omagh district council,NIR-K
 orkney,ORK
 orkney islands,ORK
 orkney islands council,ORK
-oxford,OXC
-oxford city,OXC
-oxford city council,OXC
-oxford district,OXC
 oxfordshire,OXF
 oxfordshire county,OXF
 oxfordshire county council,OXF
 pembrokeshire,PEM
 pembrokeshire county council,PEM
 pen-y-bont ar ogwr,BGE
-pendle,PEB
-pendle borough council,PEB
-pendle district,PEB
 perth and kinross,PKN
 perth and kinross council,PKN
 peterborough,PTE
@@ -1851,24 +1481,12 @@ portsmouth,POR
 portsmouth city council,POR
 powys,POW
 powys county council,POW
-preston,PRC
-preston city council,PRC
-preston district,PRC
-purbeck,PUD
-purbeck district,PUD
-purbeck district council,PUD
 reading,RDG
 reading borough council,RDG
 redbridge,RDB
 redbridge london boro,RDB
 redcar and cleveland,RCC
 redcar and cleveland borough council,RCC
-redditch,REB
-redditch borough council,REB
-redditch district,REB
-reigate and banstead,REA
-reigate and banstead borough council,REA
-reigate and banstead district,REA
 renfrewshire,RFW
 renfrewshire council,RFW
 rhondda cynon taf,RCT
@@ -1876,9 +1494,6 @@ rhondda cynon taf county borough council,RCT
 rhondda cynon taff,RCT
 "rhondda, cynon, taff",RCT
 "rhondda,cynon,taff",RCT
-ribble valley,RIV
-ribble valley borough council,RIV
-ribble valley district,RIV
 richmond upon thames,RIC
 richmond upon thames london boro,RIC
 richmond-upon-thames,RIC
@@ -1888,15 +1503,6 @@ richmondshire district council,RIH
 rochdale,RCH
 rochdale district,RCH
 rochdale metropolitan borough council,RCH
-rochford,RCF
-rochford district,RCF
-rochford district council,RCF
-rossendale,ROB
-rossendale borough council,ROB
-rossendale district,ROB
-rother,RTR
-rother district,RTR
-rother district council,RTR
 rotherham,ROT
 rotherham district,ROT
 rotherham metropolitan borough council,ROT
@@ -1904,23 +1510,8 @@ royal borough of greenwich,GRE
 royal borough of kensington and chelsea,KEC
 royal borough of kingston upon thames,KTT
 royal borough of windsor and maidenhead,WNM
-rugby,RGB
-rugby borough council,RGB
-rugby district,RGB
-runnymede,RYM
-runnymede borough council,RYM
-runnymede district,RYM
-rushcliffe,RUC
-rushcliffe borough council,RUC
-rushcliffe district,RUC
-rushmoor,RSM
-rushmoor borough council,RSM
-rushmoor district,RSM
 rutland,RUT
 rutland county council,RUT
-ryedale,RYD
-ryedale district,RYD
-ryedale district council,RYD
 salford,SLF
 salford city council,SLF
 salford district,SLF
@@ -1931,25 +1522,13 @@ scarborough,SCB
 scarborough borough council,SCB
 scarborough district,SCB
 scottish borders,SCB
-sedgemoor,SGM
-sedgemoor district,SGM
-sedgemoor district council,SGM
 sefton,SFT
 sefton council,SFT
 sefton district,SFT
 sefton metropolitan borough council,SFT
-selby,SBY
-selby district,SBY
-selby district council,SBY
-sevenoaks,SVK
-sevenoaks district,SVK
-sevenoaks district council,SVK
 sheffield,SHF
 sheffield city council,SHF
 sheffield district,SHF
-shepway,SHD
-shepway district,SHD
-shepway district council,SHD
 shetland,ZET
 shetland islands,ZET
 shetland islands council,ZET
@@ -1962,25 +1541,12 @@ sir gaerfyrddin,CMN
 sir y fflint,FLN
 slough,SLG
 slough borough council,SLG
-solihull,SHL
-solihull district,SHL
-solihull metropolitan borough council,SHL
 somerset,SOM
 somerset county,SOM
 somerset county council,SOM
 south ayrshire,SAY
 south ayrshire council,SAY
 south ayshire,SAY
-south buckinghamshire,SOB
-south bucks,SOB
-south bucks district,SOB
-south bucks district council,SOB
-south cambridgeshire,SOC
-south cambridgeshire district,SOC
-south cambridgeshire district council,SOC
-south derbyshire,SOD
-south derbyshire district,SOD
-south derbyshire district council,SOD
 south gloucestershire,SGC
 south gloucestershire council,SGC
 south hams,SHA
@@ -1989,29 +1555,14 @@ south hams district council,SHA
 south holland,SHO
 south holland district,SHO
 south holland district council,SHO
-south kesteven,SOK
-south kesteven district,SOK
-south kesteven district council,SOK
 south lakeland,SLA
 south lakeland district,SLA
 south lakeland district council,SLA
 south lanarkshire,SLK
 south lanarkshire council,SLK
-south norfolk,SNK
-south norfolk district,SNK
-south norfolk district council,SNK
-south northamptonshire,SNH
-south northamptonshire council,SNH
-south northamptonshire district,SNH
 south oxfordshire,SOX
 south oxfordshire district,SOX
 south oxfordshire district council,SOX
-south ribble,SOR
-south ribble borough council,SOR
-south ribble district,SOR
-south somerset,SSM
-south somerset district,SSM
-south somerset district council,SSM
 south staffordshire,SST
 south staffordshire council,SST
 south staffordshire district,SST
@@ -2020,24 +1571,10 @@ south tyneside council,STY
 south tyneside district,STY
 southampton,STH
 southampton city council,STH
-southend-on-sea,SSE
-southend-on-sea borough council,SSE
 southwark,SWK
 southwark london boro,SWK
-spelthorne,SPB
-spelthorne borough council,SPB
-spelthorne district,SPB
-st albans,SAC
-st albans city,SAC
-st albans city and district council,SAC
-st edmundsbury,SDM
-st edmundsbury borough council,SDM
 st helens,SHN
 st helens council,SHN
-st. albans,SAC
-st. albans district,SAC
-st. edmundsbury,SDM
-st. edmundsbury district,SDM
 st. helens,SHN
 st. helens district,SHN
 stafford,STA
@@ -2046,9 +1583,6 @@ stafford district,STA
 staffordshire,STS
 staffordshire county,STS
 staffordshire county council,STS
-staffordshire moorlands,STM
-staffordshire moorlands district,STM
-staffordshire moorlands district council,STM
 stevenage,STV
 stevenage borough council,STV
 stevenage district,STV
@@ -2060,20 +1594,7 @@ stockport metropolitan borough council,SKP
 stockton on tees,STT
 stockton-on-tees,STT
 stockton-on-tees borough council,STT
-stoke-on-trent,SOT
-stoke-on-trent city council,SOT
-strabane,NIR-J
-strabane district council,NIR-J
-stratford-on-avon,SOA
-stratford-on-avon district,SOA
-stratford-on-avon district council,SOA
-stroud,SRD
-stroud district,SRD
-stroud district council,SRD
 suffolk,SFK
-suffolk coastal,SUC
-suffolk coastal district,SUC
-suffolk coastal district council,SUC
 suffolk county,SFK
 suffolk county council,SFK
 sunderland,SND
@@ -2082,81 +1603,31 @@ sunderland district,SND
 surrey,SRY
 surrey county,SRY
 surrey county council,SRY
-surrey heath,SUH
-surrey heath borough council,SUH
-surrey heath district,SUH
 sutton,STN
 sutton london boro,STN
-swale,SWB
-swale borough council,SWB
-swale district,SWB
 swansea,SWA
 swindon,SWD
 swindon borough council,SWD
 tameside,TAM
 tameside district,TAM
 tameside metropolitan borough council,TAM
-tamworth,TAB
-tamworth borough council,TAB
-tamworth district,TAB
-tandridge,TDG
-tandridge district,TDG
-tandridge district council,TDG
-taunton deane,TDE
-taunton deane borough council,TDE
-taunton deane district,TDE
-teignbridge,TBG
-teignbridge district,TBG
-teignbridge district council,TBG
 telford and wrekin,TFW
 telford and wrekin council,TFW
-tendring,TDR
-tendring district,TDR
-tendring district council,TDR
-test valley,TEV
-test valley borough council,TEV
-test valley district,TEV
-tewkesbury,TEB
-tewkesbury borough council,TEB
-tewkesbury district,TEB
-thanet,THD
-thanet district,THD
-thanet district council,THD
 the city of brighton and hove,BNH
 the highland council,HLD
 the scottish borders,SCB
 the vale of glamorgan,VGL
-three rivers,TRR
-three rivers district,TRR
-three rivers district council,TRR
-thurrock,TUK
-thurrock council,TUK
-tonbridge and malling,TOA
-tonbridge and malling borough council,TOA
-tonbridge and malling district,TOA
 torbay,TOB
 torbay council,TOB
 torfaen,TOF
 torfaen county borough council,TOF
-torridge,TOD
-torridge district,TOD
-torridge district council,TOD
 tower hamlets,TWH
 tower hamlets london boro,TWH
 trafford,TRF
 trafford council,TRF
 trafford district,TRF
-tunbridge wells,TUW
-tunbridge wells borough council,TUW
-tunbridge wells district,TUW
-uttlesford,UTD
-uttlesford district,UTD
-uttlesford district council,UTD
 vale of glamorgan,VGL
 vale of glamorgan council,VGL
-vale of white horse,VAO
-vale of white horse district,VAO
-vale of white horse district council,VAO
 wakefield,WKF
 wakefield district,WKF
 wakefield metropolitan district council,WKF
@@ -2169,30 +1640,6 @@ wandsworth,WND
 wandsworth london boro,WND
 warrington,WRT
 warrington borough council,WRT
-warwick,WWK
-warwick district,WWK
-warwick district council,WWK
-warwickshire,WKS
-warwickshire county,WKS
-warwickshire county council,WKS
-watford,WTF
-watford borough council,WTF
-watford district,WTF
-waveney,WNY
-waveney district,WNY
-waveney district council,WNY
-waverley,WVY
-waverley borough council,WVY
-waverley district,WVY
-wealden,WLD
-wealden district,WLD
-wealden district council,WLD
-wellingborough,WEB
-wellingborough borough council,WEB
-wellingborough district,WEB
-welwyn hatfield,WEH
-welwyn hatfield council,WEH
-welwyn hatfield district,WEH
 west berkshire,WBK
 west berkshire council,WBK
 west devon,WDE
@@ -2211,36 +1658,20 @@ west lindsey district,WLI
 west lindsey district council,WLI
 west lothian,WLN
 west lothian council,WLN
-west oxfordshire,WEO
-west oxfordshire district,WEO
-west oxfordshire district council,WEO
-west somerset,WES
-west somerset council,WES
-west somerset district,WES
 west sussex,WSX
 west sussex county,WSX
 west sussex county council,WSX
 western isles,ELS
 westminster,WSM
-weymouth and portland,WPO
-weymouth and portland borough council,WPO
-weymouth and portland district,WPO
 wigan,WGN
 wigan council,WGN
 wigan district,WGN
 wiltshire,WIL
 wiltshire council,WIL
-winchester,WIC
-winchester city,WIC
-winchester city council,WIC
-winchester district,WIC
 windsor and maidenhead,WNM
 wirral,WRL
 wirral council,WRL
 wirral district,WRL
-woking,WKG
-woking borough council,WKG
-woking district,WKG
 wokingham,WOK
 wokingham borough council,WOK
 wolverhampton,WLV
@@ -2252,23 +1683,11 @@ worcester district,WOC
 worcestershire,WOR
 worcestershire county,WOR
 worcestershire county council,WOR
-worthing,WOB
-worthing borough council,WOB
-worthing district,WOB
 wrecsam,WRX
 wrexham,WRX
 wrexham county borough council,WRX
-wychavon,WYN
-wychavon district,WYN
-wychavon district council,WYN
-wycombe,WYD
-wycombe district,WYD
-wycombe district council,WYD
 wyre,WYC
 wyre council,WYC
 wyre district,WYC
-wyre forest,WYF
-wyre forest district,WYF
-wyre forest district council,WYF
 ynys mn,AGY
 york,YOR
