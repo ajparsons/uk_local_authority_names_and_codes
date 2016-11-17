@@ -3,8 +3,8 @@ Lookup between the many, many different ways of naming and coding UK local autho
 
 If you ever try to match UK local authority statistics against each other you'll quickly find your efforts frustrated by inconsistent uses of official codes and different versions of LA names. These lookups are an ongoing tool to help translate between these. 
 
-* The _local_authorities.csv file contain the table to match between different codes. 
-* The _messy_lookup.csv file combine all alternate names into one column to let you quickly match any data and get back a canonical code (which can be checked against the other table to convert to your preferred format). Also combined with this [name lookup](https://github.com/openregister/local-authority-data/edit/master/maps/name.tsv)
+* The uk_local_authorities.csv file contain the table to match between different codes. 
+* The uk_local_authority_messy_lookup.csv file combine all alternate names into one column to let you quickly match any data and get back a canonical code (which can be checked against the other table to convert to your preferred format). Also combined with this [name lookup](https://github.com/openregister/local-authority-data/edit/master/maps/name.tsv) from openregister for fuller coverage.
 
 This is using the official [local authority registers](https://github.com/openregister/local-authority-data) in development to provide a canonical three character code and a canonical name for the local authority. This is then expanded with current and older ONS codes and varying forms of the LA name (the real point of the exercise being to quickly get from horrible code-less data to other formats quickly).
 
