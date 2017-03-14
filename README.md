@@ -5,6 +5,7 @@ If you ever try to match UK local authority statistics against each other you'll
 
 * The uk_local_authorities.csv file contain the table to match between different codes. 
 * The uk_local_authority_messy_lookup.csv file combine all alternate names into one column to let you quickly match any data and get back a canonical code (which can be checked against the other table to convert to your preferred format). Also combined with this [name lookup](https://github.com/openregister/local-authority-data/edit/master/maps/name.tsv) from openregister for fuller coverage.
+* lookups/lsoa_datazone_la.csv converts from LSOA/datazone for Scotland to the local-authority-code.
 
 This is using the official [local authority registers](https://github.com/openregister/local-authority-data) in development to provide a canonical three character code and a canonical name for the local authority. This is then expanded with current and older ONS codes and varying forms of the LA name (the real point of the exercise being to quickly get from horrible code-less data to other formats quickly).
 
