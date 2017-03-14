@@ -16,6 +16,7 @@ Useful fields:
 * alt-name-1 - canonical shorter name
 * alt-name-2 - variations on name
 * alt-name-3 - variations on name
+* gov-uk-slug - slug used for page-urls relevant to a local authority on gov.uk
 * gss-code - current standard 9-character ONS code. *
 * archaic-gss-code - old codes (changed because of boundary changes) to help with mismatches on some datasets (even recent datasets may use the wrong codes).
 * snac - old ONS Standard Names and Codes code
