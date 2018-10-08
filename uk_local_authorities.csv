@@ -256,7 +256,7 @@ local-authority-eng,,SFK,local-authority-eng:SFK,,CTY,County,,Suffolk County Cou
 local-authority-eng,,SFT,local-authority-eng:SFT,,MD,Metropolitan district,,Sefton Metropolitan Borough Council,Sefton,,,sefton,08/06/2005,,E08000014,,343,00-CA,00CA,7000000000005960,E4304,MTD,637,
 local-authority-eng,,SGC,local-authority-eng:SGC,,UA,Unitary authority,,South Gloucestershire Council,South Gloucestershire,South Gloucestershire UA,,south-gloucestershire,18/06/2005,,E06000025,,803,00-HD,00HD,7000000000025550,E0103,UTA,350,
 local-authority-eng,,SHA,local-authority-eng:SHA,,NMD,Non-metropolitan district,DOR,South Hams District Council,South Hams,,,south-hams,,,E07000044,,18UG,,18UG,7000000000022560,E1136,DIS,351,
-local-authority-eng,,SHE,local-authority-eng:SHE,,NMD,Non-metropolitan district,LAN,Shepway District Council,Shepway,,,shepway,,,E07000112,,29UL,,29UL,7000000000018080,E2240,DIS,338,
+local-authority-eng,,SHE,local-authority-eng:SHE,,NMD,Non-metropolitan district,LAN,Folkestone and Hythe District Council,Folkestone and Hythe,Shepway District Council,Shepway,shepway,,,E07000112,,29UL,,29UL,7000000000018080,E2240,DIS,338,
 local-authority-eng,,SHF,local-authority-eng:SHF,,MD,Metropolitan district,,Sheffield City Council,Sheffield,,,sheffield,08/06/2005,,E08000019,,373,00-CG,00CG,7000000000009110,E4404,MTD,337,
 local-authority-eng,,SHN,local-authority-eng:SHN,,MD,Metropolitan district,,St Helens Council,St. Helens,St Helens,,st.-helens,08/06/2005,,E08000013,,342,00-BZ,00BZ,7000000000006000,E4303,MTD,369,
 local-authority-eng,,SHO,local-authority-eng:SHO,,NMD,Non-metropolitan district,LIN,South Holland District Council,South Holland,,,south-holland,,,E07000140,,32UF,,32UF,7000000000005590,E2535,DIS,352,
