@@ -28,8 +28,8 @@ def build_messy_lookup(source,dest,ref_col):
         lookup.add([r["name"],r["local-authority"].split(":")[1]])
     
     lookup.save(dest,force_unicode=True)
-	
-	
+    
+    
 def build_messy_lookup_lad(source,dest):
     """
     given source and destination, will pull together all alt names to give a nice easy lookup
@@ -43,17 +43,17 @@ def build_messy_lookup_lad(source,dest):
     possible = [p for p in possible if p in la.header]
     for r in la:
         for p in possible:
-			if r[p]:
-				values = r[p].split(",")
-				for v in values:
-					lookup.add([v,r["local-authority-code"]])
+            if r[p]:
+                values = r[p].split(",")
+                for v in values:
+                    lookup.add([v,r["local-authority-code"]])
     
     lookup.save(dest,force_unicode=True)
     
 def create_csv(source,dest):
-	qg = QuickGrid().open(source)
-	qg.save(dest,force_unicode=True)
-	
+    qg = QuickGrid().open(source)
+    qg.save(dest,force_unicode=True)
+    
 if __name__ == "__main__":
     build_messy_lookup("uk_local_authorities.xlsx",
                        "lookup_name_to_registry.csv",
@@ -61,4 +61,4 @@ if __name__ == "__main__":
     build_messy_lookup_lad("uk_local_authorities.xlsx",
                            "lookup_gss_to_registry.csv",)
     create_csv("uk_local_authorities.xlsx",
-			   "uk_local_authorities.csv")
+               "uk_local_authorities.csv")
