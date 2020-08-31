@@ -6,6 +6,7 @@ aberdeen cuty,local-authority-sct:ABE,ABE,ABE
 aberdeenshire,local-authority-sct:ABD,ABD,ABD
 aberdeenshire council,local-authority-sct:ABD,ABD,ABD
 abertawe,local-authority-wls:SWA,SWA,SWA
+adur and worthing borough council,local-authority-eng:WOT,WOT,WOT
 anglesey,local-authority-wls:AGY,AGY,AGY
 angus,local-authority-sct:ANS,ANS,ANS
 angus council,local-authority-sct:ANS,ANS,ANS
@@ -46,9 +47,11 @@ bolton,local-authority-eng:BOL,BOL,BOL
 bolton district,local-authority-eng:BOL,BOL,BOL
 bolton metropolitan borough council,local-authority-eng:BOL,BOL,BOL
 borough council of kings lynn and west norfolk,local-authority-eng:KIN,KIN,KIN
+borough of broxbourne,local-authority-eng:BRX,BRX,BRX
 borough of poole,local-authority-eng:POL,POL,POL
 bournemouth,local-authority-eng:BMH,BMH,BMH
 bournemouth borough council,local-authority-eng:BMH,BMH,BMH
+"bournemouth, christchurch and poole borough council",local-authority-eng:BPC,BPC,BPC
 bradford,local-authority-eng:BRD,BRD,BRD
 bradford district,local-authority-eng:BRD,BRD,BRD
 bradford mdc,local-authority-eng:BRD,BRD,BRD
@@ -262,6 +265,7 @@ greenwich,local-authority-eng:GRE,GRE,GRE
 greenwich london boro,local-authority-eng:GRE,GRE,GRE
 gwynedd,local-authority-wls:GWN,GWN,GWN
 gwynedd council,local-authority-wls:GWN,GWN,GWN
+gwynedd county council,local-authority-wls:GWN,GWN,GWN
 hackney,local-authority-eng:HCK,HCK,HCK
 hackney london boro,local-authority-eng:HCK,HCK,HCK
 halton,local-authority-eng:HAL,HAL,HAL
@@ -310,10 +314,12 @@ kent county,local-authority-eng:KEN,KEN,KEN
 kent county council,local-authority-eng:KEN,KEN,KEN
 king's lynn and west norfolk,local-authority-eng:KIN,KIN,KIN
 king's lynn and west norfolk district,local-authority-eng:KIN,KIN,KIN
+king's lynn and west norfolk borough,local-authority-eng:KIN,KIN,KIN
 kings lynn and west norfolk,local-authority-eng:KIN,KIN,KIN
 kingston upon hull,local-authority-eng:KHL,KHL,KHL
 kingston upon hull city of,local-authority-eng:KHL,KHL,KHL
 "kingston upon hull, city of",local-authority-eng:KHL,KHL,KHL
+"kingston-upon-hull city council",local-authority-eng:KHL,KHL,KHL
 kingston upon thames,local-authority-eng:KTT,KTT,KTT
 kingston upon thames london boro,local-authority-eng:KTT,KTT,KTT
 kingston-upon-thames,local-authority-eng:KTT,KTT,KTT
@@ -350,6 +356,7 @@ lisburn and castlereagh,local-authority-nir:LBC,LBC,LBC
 lisburn and castlereagh city,local-authority-nir:LBC,LBC,LBC
 liverpool,local-authority-eng:LIV,LIV,LIV
 liverpool city council,local-authority-eng:LIV,LIV,LIV
+liverpool city region combined authority,local-authority-eng:LCR,LCR,LCR
 liverpool district,local-authority-eng:LIV,LIV,LIV
 london borough of barking and dagenham,local-authority-eng:BDG,BDG,BDG
 london borough of bexley,local-authority-eng:BEX,BEX,BEX
@@ -409,6 +416,7 @@ neath port talbot county borough council,local-authority-wls:NTL,NTL,NTL
 newcastle city council,local-authority-eng:NET,NET,NET
 newcastle upon tyne,local-authority-eng:NET,NET,NET
 newcastle upon tyne district,local-authority-eng:NET,NET,NET
+newcastle-upon-tyne city council,local-authority-eng:NET,NET,NET
 newcastle-under-lyme,local-authority-eng:NED,NED,NED
 newcastle-under-lyme district,local-authority-eng:NED,NED,NED
 newcastle-under-lyme district council,local-authority-eng:NED,NED,NED
@@ -440,6 +448,7 @@ north somerset council,local-authority-eng:NSM,NSM,NSM
 north tyneside,local-authority-eng:NTY,NTY,NTY
 north tyneside council,local-authority-eng:NTY,NTY,NTY
 north tyneside district,local-authority-eng:NTY,NTY,NTY
+north tyneside metropolitan borough council,local-authority-eng:NTY,NTY,NTY
 north west leicestershire,local-authority-eng:NWL,NWL,NWL
 north west leicestershire district,local-authority-eng:NWL,NWL,NWL
 north west leicestershire district council,local-authority-eng:NWL,NWL,NWL
@@ -489,6 +498,7 @@ redbridge,local-authority-eng:RDB,RDB,RDB
 redbridge london boro,local-authority-eng:RDB,RDB,RDB
 redcar and cleveland,local-authority-eng:RCC,RCC,RCC
 redcar and cleveland borough council,local-authority-eng:RCC,RCC,RCC
+reigate & banstead borough council,local-authority-eng:REI,REI,REI
 renfrewshire,local-authority-sct:RFW,RFW,RFW
 renfrewshire council,local-authority-sct:RFW,RFW,RFW
 rhondda cynon taf,local-authority-wls:RCT,RCT,RCT
@@ -531,6 +541,7 @@ sefton metropolitan borough council,local-authority-eng:SFT,SFT,SFT
 sheffield,local-authority-eng:SHF,SHF,SHF
 sheffield city council,local-authority-eng:SHF,SHF,SHF
 sheffield district,local-authority-eng:SHF,SHF,SHF
+sheffield city region combined authority,local-authority-eng:SCR,SCR,SCR
 shetland,local-authority-sct:ZET,ZET,ZET
 shetland islands,local-authority-sct:ZET,ZET,ZET
 shetland islands council,local-authority-sct:ZET,ZET,ZET
@@ -549,6 +560,7 @@ somerset county council,local-authority-eng:SOM,SOM,SOM
 south ayrshire,local-authority-sct:SAY,SAY,SAY
 south ayrshire council,local-authority-sct:SAY,SAY,SAY
 south ayshire,local-authority-sct:SAY,SAY,SAY
+south buckinghamshire district council,local-authority-eng:SBU,SBU,SBU
 south gloucestershire,local-authority-eng:SGC,SGC,SGC
 south gloucestershire council,local-authority-eng:SGC,SGC,SGC
 south hams,local-authority-eng:SHA,SHA,SHA
@@ -579,6 +591,7 @@ st helens,local-authority-eng:SHN,SHN,SHN
 st helens council,local-authority-eng:SHN,SHN,SHN
 st. helens,local-authority-eng:SHN,SHN,SHN
 st. helens district,local-authority-eng:SHN,SHN,SHN
+st helens metropolitan borough council,local-authority-eng:SHN,SHN,SHN
 stafford,local-authority-eng:STA,STA,STA
 stafford borough council,local-authority-eng:STA,STA,STA
 stafford district,local-authority-eng:STA,STA,STA
@@ -608,6 +621,7 @@ surrey county council,local-authority-eng:SRY,SRY,SRY
 sutton,local-authority-eng:STN,STN,STN
 sutton london boro,local-authority-eng:STN,STN,STN
 swansea,local-authority-wls:SWA,SWA,SWA
+swansea city council,local-authority-wls:SWA,SWA,SWA
 swindon,local-authority-eng:SWD,SWD,SWD
 swindon borough council,local-authority-eng:SWD,SWD,SWD
 tameside,local-authority-eng:TAM,TAM,TAM
@@ -665,6 +679,7 @@ west sussex county,local-authority-eng:WSX,WSX,WSX
 west sussex county council,local-authority-eng:WSX,WSX,WSX
 western isles,local-authority-sct:ELS,ELS,ELS
 westminster,local-authority-eng:WSM,WSM,WSM
+westminster city,local-authority-eng:WSM,WSM,WSM
 wigan,local-authority-eng:WGN,WGN,WGN
 wigan council,local-authority-eng:WGN,WGN,WGN
 wigan district,local-authority-eng:WGN,WGN,WGN
