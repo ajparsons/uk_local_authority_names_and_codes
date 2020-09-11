@@ -10,7 +10,7 @@ If you ever try to match UK local authority statistics against each other you'll
 
 This is using the official [local authority registers](https://github.com/openregister/local-authority-data) in development to provide a canonical three character code and a canonical name for the local authority. This is then expanded with current and older ONS codes and varying forms of the LA name (the real point of the exercise being to quickly get from horrible code-less data to other formats quickly).
 
-##Useful fields
+## Useful fields
 
 * local-authority-code - canonical three character code
 * official-name - canonical local authority name
@@ -31,4 +31,8 @@ Additional maps can be found [here](https://github.com/openregister/local-author
 
 *The code used for the Greater London Authority is the gss code is for London region - when working from code point open use E18000007 and the NHS_HA_code column.
 
-Use build.py to recreate lookups and .csv version. 
+# Adding data
+
+Modify `uk_local_authorities.xlsx` and `source_files/locla_authority_data_names.csv' (additional names to reconcile).
+
+Use `pipenv run python build.py` to recreate lookups and .csv version. 
