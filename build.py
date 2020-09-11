@@ -24,8 +24,12 @@ def build_messy_lookup(source,dest,ref_col):
             if r[p]:
                 lookup.add([r[p],r[ref_col]])
     
+    current_names = [x[0] for x in lookup]
+
     for r in od:
-        lookup.add([r["name"],r["local-authority"].split(":")[1]])
+        if r["name"] not in current_names:
+            code = r["local-authority"].split(":")[1]
+            lookup.add([r["name"],code])
     
     lookup.save(dest,force_unicode=True)
     
