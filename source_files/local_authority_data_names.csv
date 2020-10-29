@@ -53,9 +53,9 @@ bradford,local-authority-eng:BRD
 bradford district,local-authority-eng:BRD
 bradford mdc,local-authority-eng:BRD
 bradford metropolitan district council,local-authority-eng:BRD
-braintree,local-authority-eng:BRT
-braintree district,local-authority-eng:BRT
-braintree district council,local-authority-eng:BRT
+braintree,local-authority-eng:BRA
+braintree district,local-authority-eng:BRA
+braintree district council,local-authority-eng:BRA
 brent,local-authority-eng:BEN
 brent london boro,local-authority-eng:BEN
 bridgend,local-authority-wls:BGE
@@ -105,15 +105,15 @@ central bedfordshire,local-authority-eng:CBF
 central bedfordshire council,local-authority-eng:CBF
 ceredigion,local-authority-wls:CGN
 ceredigion county council,local-authority-wls:CGN
-chelmsford,local-authority-eng:CHC
-chelmsford city council,local-authority-eng:CHC
-chelmsford district,local-authority-eng:CHC
+chelmsford,local-authority-eng:CHL
+chelmsford city council,local-authority-eng:CHL
+chelmsford district,local-authority-eng:CHL
 cheltenham,local-authority-eng:CHT
 cheltenham borough council,local-authority-eng:CHT
 cheltenham district,local-authority-eng:CHT
-chichester,local-authority-eng:CHS
-chichester district,local-authority-eng:CHS
-chichester district council,local-authority-eng:CHS
+chichester,local-authority-eng:CHI
+chichester district,local-authority-eng:CHI
+chichester district council,local-authority-eng:CHI
 city and county of swansea council,local-authority-wls:SWA
 city and county of the city of london,local-authority-eng:LND
 city of aberdeen,local-authority-sct:ABE
@@ -222,9 +222,9 @@ east renfrewshire,local-authority-sct:ERW
 east renfrewshire council,local-authority-sct:ERW
 east riding of yorkshire,local-authority-eng:ERY
 east riding of yorkshire council,local-authority-eng:ERY
-east staffordshire,local-authority-eng:EAS
-east staffordshire borough council,local-authority-eng:EAS
-east staffordshire district,local-authority-eng:EAS
+east staffordshire,local-authority-eng:EST
+east staffordshire borough council,local-authority-eng:EST
+east staffordshire district,local-authority-eng:EST
 east sussex,local-authority-eng:ESX
 east sussex county,local-authority-eng:ESX
 east sussex county council,local-authority-eng:ESX
@@ -275,9 +275,9 @@ haringey,local-authority-eng:HRY
 haringey london boro,local-authority-eng:HRY
 harrow,local-authority-eng:HRW
 harrow london boro,local-authority-eng:HRW
-hart,local-authority-eng:HAR
-hart district,local-authority-eng:HAR
-hart district council,local-authority-eng:HAR
+hart,local-authority-eng:HAT
+hart district,local-authority-eng:HAT
+hart district council,local-authority-eng:HAT
 hartlepool,local-authority-eng:HPL
 hartlepool borough council,local-authority-eng:HPL
 havering,local-authority-eng:HAV
@@ -409,9 +409,9 @@ neath port talbot county borough council,local-authority-wls:NTL
 newcastle city council,local-authority-eng:NET
 newcastle upon tyne,local-authority-eng:NET
 newcastle upon tyne district,local-authority-eng:NET
-newcastle-under-lyme,local-authority-eng:NED
-newcastle-under-lyme district,local-authority-eng:NED
-newcastle-under-lyme district council,local-authority-eng:NED
+newcastle-under-lyme,local-authority-eng:NEC
+newcastle-under-lyme district,local-authority-eng:NEC
+newcastle-under-lyme district council,local-authority-eng:NEC
 newham,local-authority-eng:NWM
 newham london boro,local-authority-eng:NWM
 newport,local-authority-wls:NWP
