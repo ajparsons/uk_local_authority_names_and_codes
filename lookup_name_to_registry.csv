@@ -1074,9 +1074,9 @@ bradford,BRD
 bradford district,BRD
 bradford mdc,BRD
 bradford metropolitan district council,BRD
-braintree,BRT
-braintree district,BRT
-braintree district council,BRT
+braintree,BRA
+braintree district,BRA
+braintree district council,BRA
 brent,BEN
 brent london boro,BEN
 bridgend,BGE
@@ -1126,15 +1126,15 @@ central bedfordshire,CBF
 central bedfordshire council,CBF
 ceredigion,CGN
 ceredigion county council,CGN
-chelmsford,CHC
-chelmsford city council,CHC
-chelmsford district,CHC
-cheltenham,CHE
-cheltenham borough council,CHE
-cheltenham district,CHE
-chichester,CHS
-chichester district,CHS
-chichester district council,CHS
+chelmsford,CHL
+chelmsford city council,CHL
+chelmsford district,CHL
+cheltenham,CHT
+cheltenham borough council,CHT
+cheltenham district,CHT
+chichester,CHI
+chichester district,CHI
+chichester district council,CHI
 city and county of swansea council,SWA
 city and county of the city of london,LND
 city of aberdeen,ABE
@@ -1243,9 +1243,9 @@ east renfrewshire,ERW
 east renfrewshire council,ERW
 east riding of yorkshire,ERY
 east riding of yorkshire council,ERY
-east staffordshire,EAS
-east staffordshire borough council,EAS
-east staffordshire district,EAS
+east staffordshire,EST
+east staffordshire borough council,EST
+east staffordshire district,EST
 east sussex,ESX
 east sussex county,ESX
 east sussex county council,ESX
@@ -1296,9 +1296,9 @@ haringey,HRY
 haringey london boro,HRY
 harrow,HRW
 harrow london boro,HRW
-hart,HAR
-hart district,HAR
-hart district council,HAR
+hart,HAT
+hart district,HAT
+hart district council,HAT
 hartlepool,HPL
 hartlepool borough council,HPL
 havering,HAV
@@ -1430,9 +1430,9 @@ neath port talbot county borough council,NTL
 newcastle city council,NET
 newcastle upon tyne,NET
 newcastle upon tyne district,NET
-newcastle-under-lyme,NED
-newcastle-under-lyme district,NED
-newcastle-under-lyme district council,NED
+newcastle-under-lyme,NEC
+newcastle-under-lyme district,NEC
+newcastle-under-lyme district council,NEC
 newham,NWM
 newham london boro,NWM
 newport,NWP
@@ -1541,9 +1541,9 @@ salford district,SLF
 sandwell,SAW
 sandwell district,SAW
 sandwell metropolitan borough council,SAW
-scarborough,SCB
-scarborough borough council,SCB
-scarborough district,SCB
+scarborough,SCE
+scarborough borough council,SCE
+scarborough district,SCE
 scottish borders,SCB
 sefton,SFT
 sefton council,SFT
@@ -1709,9 +1709,9 @@ worcestershire county council,WOR
 wrecsam,WRX
 wrexham,WRX
 wrexham county borough council,WRX
-wyre,WYC
-wyre council,WYC
-wyre district,WYC
+wyre,WYR
+wyre council,WYR
+wyre district,WYR
 ynys mn,AGY
 york,YOR
 westminster city,WSM
