@@ -8,12 +8,23 @@ If you ever try to match UK local authority statistics against each other you'll
 * The lookup_gss_to_registry.csv file converts from present and former GSS LAD codes (which refer to the boundary shape rather than the authority to the canonical code. 
 * lookups/lsoa_datazone_la.csv converts from LSOA/datazone for Scotland to the local-authority-code.
 
-This is using the official [local authority registers](https://github.com/openregister/local-authority-data) in development to provide a canonical three character code and a canonical name for the local authority. This is then expanded with current and older ONS codes and varying forms of the LA name (the real point of the exercise being to quickly get from horrible code-less data to other formats quickly).
+
+## What is 'local-authority-code'
+
+This project originally used the official [local authority registers](https://github.com/openregister/local-authority-data) to provide a canonical three character code and a canonical name for the local authority. This is required because the more common GSS id refers to boundaries rather than legal entities.
+
+The registers are now depricated but the existing three letter codes will continue to be used. Technically these codes are independent of the register (they are BS-6879), but they are less likely to be released quickly and are not widely used anyway.
+
+As such, there is now a seperate 'BS-6879' column that reflects the official code, and the internal 'local-authority-code' where new additions will be assigned a three digit code for use in this register.
+
+As these codes are not widely used in data releases, it feels likely that maintaining continuity for pipelines and datasets produced using this sheet will be more important than the divergence if different codes are then assigned. 
+
+It is annoying and confusing that `local-authority-code` and `BS-6879` columns may become almost but not entirely identical, but this entire project is required because of a series of similarly annoying and confusing problems, so we might just have to live with that. 
 
 ## Useful fields
 
-* local-authority-code - canonical three character code
-* official-name - canonical local authority name
+* local-authority-code - internal three character code
+* official-name - 'official' local authority name
 * overlapping-la - for london and non-metropolitan councils, id of GLA or overlapping county council. 
 * alt-name-1 - canonical shorter name
 * alt-name-2 - variations on name
@@ -29,10 +40,10 @@ This is using the official [local authority registers](https://github.com/openre
 
 Additional maps can be found [here](https://github.com/openregister/local-authority-data/tree/master/maps).
 
-*The code used for the Greater London Authority is the gss code is for London region - when working from code point open use E18000007 and the NHS_HA_code column.
+*The gss code used for the Greater London Authority is the gss code is for London region - when working from code point open use E18000007 and the NHS_HA_code column.
 
 # Adding data
 
-Modify `uk_local_authorities.xlsx` and `source_files/locla_authority_data_names.csv' (additional names to reconcile).
+Modify `uk_local_authorities.xlsx` and `source_files/local_authority_data_names.csv' (additional names to reconcile).
 
-Use `pipenv run python build.py` to recreate lookups and .csv version. 
+Use `pipenv run python build.py` to recreate other lookups and .csv versions.
