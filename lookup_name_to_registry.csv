@@ -43,7 +43,6 @@ Bexley,BEX
 Birmingham City Council,BIR
 Birmingham,BIR
 Buckinghamshire County Council,BKM
-Buckinghamshire,BKM
 Blaby District Council,BLA
 Blaby,BLA
 Bournemouth Borough Council,BMH
@@ -184,11 +183,11 @@ Devon,DEV
 Doncaster Metropolitan Borough Council,DNC
 Doncaster,DNC
 Dorset County Council,DOR
-Dorset,DOR
 Dover District Council,DOV
 Dover,DOV
 Dorset Council,DST
 Dorset Council,DST
+Dorset,DST
 Dudley Metropolitan Borough Council,DUD
 Dudley,DUD
 Durham County Council,DUR
@@ -1105,7 +1104,7 @@ bromley london boro,BRY
 bromsgrove,BRM
 bromsgrove district,BRM
 bromsgrove district council,BRM
-buckinghamshire,BKM
+buckinghamshire,BUC
 buckinghamshire county,BKM
 buckinghamshire county council,BKM
 bury,BUR
@@ -1209,7 +1208,7 @@ devon county council,DEV
 doncaster,DNC
 doncaster district,DNC
 doncaster metropolitan borough council,DNC
-dorset,DOR
+dorset,DST
 dorset county,DOR
 dorset county council,DOR
 dudley,DUD
