@@ -63,7 +63,8 @@ def add_sources_to_csv(source, dest):
     for extra in extra_info:
         ndf = pd.read_csv(extra).set_index("local-authority-code")
         df = df.join(ndf)
-    df.to_csv(dest, index=False)
+
+    df.reset_index().to_csv(dest, index=False)
 
 
 if __name__ == "__main__":
