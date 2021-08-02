@@ -30,6 +30,7 @@ def build_messy_lookup(source, dest, ref_col):
             lookup_data.append([r["name"], code])
 
     lookup = pd.DataFrame(lookup_data, columns=["la name", ref_col])
+    lookup = lookup.sort_values("la name")
     lookup.to_csv(dest, index=False)
 
 
@@ -51,6 +52,7 @@ def build_messy_lookup_lad(source, dest):
 
     lookup = pd.DataFrame(lookup_data, columns=[
                           "gss-code", "local-authority-code"])
+    lookup = lookup.sort_values("gss-code")
     lookup.to_csv(dest, index=False)
 
 
@@ -64,7 +66,9 @@ def add_sources_to_csv(source, dest):
         ndf = pd.read_csv(extra).set_index("local-authority-code")
         df = df.join(ndf)
 
-    df.reset_index().to_csv(dest, index=False)
+    df = df.reset_index().sort_values("local-authority-code")
+
+    df.to_csv(dest, index=False)
 
 
 if __name__ == "__main__":
