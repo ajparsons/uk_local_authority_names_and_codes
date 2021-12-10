@@ -1,4 +1,10 @@
-# UK Local Authority Names and Codes Lookup
+# UK Local Authority Names and Codes Lookup: Out of date
+
+NOTE: An updated version of this repository with some changes to headers is avaliable at https://github.com/mysociety/uk_local_authority_names_and_codes
+
+This version will stay in current form until it becomes out of date in april, at which point the new version will be merged in. 
+___
+
 Lookup between the many, many different ways of naming and coding UK local authorities.
 
 If you ever try to match UK local authority statistics against each other you'll quickly find your efforts frustrated by inconsistent uses of official codes and different versions of LA names. These lookups are an ongoing tool to help translate between these. 
